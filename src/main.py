@@ -21,12 +21,14 @@ from .models import Job
 from .notify import Telegram, send_digest, send_matches
 from .providers import REGISTRY
 from .providers.base import make_session
+from .site import build as build_site
 from .state import State
 
 ROOT = Path(__file__).resolve().parent.parent
 COMPANIES = ROOT / "config" / "companies.yaml"
 FILTERS = ROOT / "config" / "filters.yaml"
 STATE = ROOT / "state" / "seen.json"
+DOCS = ROOT / "docs"
 WORKERS = 8
 
 
@@ -59,6 +61,8 @@ def main() -> int:
                     help="force: mark everything seen without alerting")
     ap.add_argument("--digest", action="store_true",
                     help="send every currently-open match, not just new ones")
+    ap.add_argument("--build-site", action="store_true",
+                    help="regenerate docs/ only; send nothing, don't touch state")
     args = ap.parse_args()
 
     tg = Telegram()
@@ -137,6 +141,15 @@ def main() -> int:
         print("\n(dry run — nothing sent, state not saved)")
         return 0
 
+    def publish() -> None:
+        """Regenerate the GitHub Pages view. Runs on every real path."""
+        n = build_site(matches, state, DOCS)
+        print(f"wrote docs/ with {n} jobs")
+
+    if args.build_site:
+        publish()
+        return 0
+
     if args.digest:
         matches.sort(key=lambda x: (x[0].company, x[0].title))
         n = send_digest(tg, matches)
@@ -144,6 +157,7 @@ def main() -> int:
         # run doesn't re-alert on all of it.
         for job, _ in matches:
             state.mark_seen(job.uid)
+        publish()
         state.save()
         print(f"sent digest of {len(matches)} jobs in {n} messages")
         return 0
@@ -151,6 +165,7 @@ def main() -> int:
     if bootstrap:
         for job, _ in matches:
             state.mark_seen(job.uid)
+        publish()
         tg.send(
             "🤖 <b>Internship notifier is live.</b>\n"
             f"Watching <b>{len(companies)}</b> companies · "
@@ -165,6 +180,7 @@ def main() -> int:
     sent = send_matches(tg, new, filters.max_alerts)
     for job, _ in new:
         state.mark_seen(job.uid)
+    publish()
     print(f"sent {sent} messages")
 
     # Health tracking: alert once when a board has been broken for a while.

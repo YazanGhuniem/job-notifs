@@ -33,11 +33,11 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python -m src.main
 
-      - name: Commit updated state
+      - name: Commit updated state and published page
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/seen.json
+          git add state/seen.json docs/
           # No-op cleanly when nothing changed. [skip ci] stops this commit
           # from triggering other workflows; the commit itself is also what
           # keeps GitHub from disabling the cron after 60 days of inactivity.

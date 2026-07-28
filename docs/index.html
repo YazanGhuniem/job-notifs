@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Internships</title>
+<style>
+  :root {
+    --bg:#fff; --fg:#111; --muted:#666; --line:#e5e5e5;
+    --accent:#0b5fff; --chip:#f4f4f5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0e0e10; --fg:#f2f2f3; --muted:#9a9aa2; --line:#26262b;
+            --accent:#7aa2ff; --chip:#1a1a1f; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:24px 16px 64px; background:var(--bg); color:var(--fg);
+         font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  .wrap { max-width:900px; margin:0 auto; }
+  h1 { font-size:22px; margin:0 0 4px; }
+  .sub { color:var(--muted); font-size:13px; margin-bottom:18px; }
+  input { width:100%; padding:10px 12px; font-size:15px; margin-bottom:16px;
+          background:var(--bg); color:var(--fg);
+          border:1px solid var(--line); border-radius:8px; }
+  input:focus { outline:2px solid var(--accent); outline-offset:-1px; }
+  ul { list-style:none; margin:0; padding:0; }
+  li { padding:12px 0; border-bottom:1px solid var(--line); display:flex;
+       gap:12px; align-items:baseline; }
+  .date { color:var(--muted); font-size:12px; font-variant-numeric:tabular-nums;
+          white-space:nowrap; min-width:74px; }
+  .main { flex:1; min-width:0; }
+  a { color:var(--accent); text-decoration:none; font-weight:500; }
+  a:hover { text-decoration:underline; }
+  .meta { color:var(--muted); font-size:13px; margin-top:2px; }
+  .co { color:var(--fg); font-weight:600; }
+  .phd { font-size:11px; background:var(--chip); color:var(--muted);
+         padding:1px 6px; border-radius:99px; margin-left:6px; }
+  .empty { color:var(--muted); padding:32px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Open CS internships</h1>
+  <div class="sub" id="sub">Loading…</div>
+  <input id="q" type="search" placeholder="Filter by company, title, or location…"
+         autocomplete="off">
+  <ul id="list"></ul>
+  <div class="empty" id="empty" hidden>Nothing matches that filter.</div>
+</div>
+<script>
+let JOBS = [];
+const esc = s => (s||"").replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function render(filter) {
+  const f = (filter||"").toLowerCase().trim();
+  const rows = f ? JOBS.filter(j =>
+    (j.title+" "+j.company+" "+j.location).toLowerCase().includes(f)) : JOBS;
+  document.getElementById("empty").hidden = rows.length > 0;
+  document.getElementById("list").innerHTML = rows.map(j => `
+    <li>
+      <span class="date">${esc(j.posted || "—")}</span>
+      <span class="main">
+        <a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+        ${j.phd ? '<span class="phd">PhD</span>' : ""}
+        <div class="meta"><span class="co">${esc(j.company)}</span>
+          ${j.location ? " · " + esc(j.location) : ""}</div>
+      </span>
+    </li>`).join("");
+}
+
+fetch("jobs.json?" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    JOBS = d.jobs;
+    document.getElementById("sub").textContent =
+      `${d.count} roles · updated ${d.updated}`;
+    render("");
+  })
+  .catch(() => { document.getElementById("sub").textContent =
+    "Could not load jobs.json"; });
+
+document.getElementById("q").addEventListener("input", e => render(e.target.value));
+</script>
+</body>
+</html>
