@@ -6,7 +6,7 @@ Polls each company's job board directly through its applicant-tracking system's
 public JSON API — no scraping, nothing to break when someone restyles a careers
 page. Runs on GitHub Actions every 30 minutes, so it works with your laptop shut.
 
-Currently watching **53 boards / ~16,000 live postings**, of which ~70 match.
+Currently watching **52 boards / ~16,000 live postings**, of which ~70 match.
 
 ---
 
@@ -168,10 +168,11 @@ filter form — you can only pull all ~6000 reqs, too heavy to poll every 30
 minutes. The others run custom or JS-only sites. Each would need its own
 scraper.
 
-**Microsoft is unverified.** The endpoint was unreachable from the machine this
-was built on (TLS hostname mismatch, most likely local network interception
-rather than a wrong URL). It's enabled — if it's actually broken you'll get a
-health alert naming it rather than silence.
+**Microsoft is disabled.** `gcsservices.careers.microsoft.com` serves a
+certificate that doesn't cover that hostname — from GitHub Actions as well as
+locally, so the endpoint is genuinely gone rather than being blocked. No public
+replacement exists. The provider code is kept; flip `enabled: true` in
+`config/companies.yaml` if Microsoft republishes an API.
 
 **Timing.** GitHub's scheduled runs are best-effort and can lag 5–15 minutes
 under load. Change the cron in

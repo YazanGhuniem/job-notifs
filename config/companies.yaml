@@ -19,9 +19,14 @@ companies:
   microsoft:
     name: Microsoft
     ats: microsoft
-    # Unverified: this endpoint was unreachable from the machine that built
-    # this (local network egress, not a bad URL). If it's wrong you'll get a
-    # "microsoft has failed 5 runs" alert instead of silent failure.
+    enabled: false
+    # DISABLED — gcsservices.careers.microsoft.com now serves a certificate
+    # that doesn't cover that hostname, from GitHub Actions as well as
+    # locally, so it isn't a local-network problem: the endpoint is gone.
+    # No public replacement found (jobs.careers.microsoft.com/api/* 301s,
+    # careers.microsoft.com/api/* 302s). The provider in
+    # src/providers/microsoft.py is kept and still works against that request
+    # shape — flip enabled back to true if Microsoft republishes an API.
 
   nvidia:
     name: NVIDIA          # 914 intern-matching reqs
