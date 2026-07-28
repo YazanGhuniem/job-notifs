@@ -18,7 +18,7 @@ import yaml
 
 from .filters import Filters
 from .models import Job
-from .notify import Telegram, send_matches
+from .notify import Telegram, send_digest, send_matches
 from .providers import REGISTRY
 from .providers.base import make_session
 from .state import State
@@ -57,6 +57,8 @@ def main() -> int:
                     help="send a test Telegram message and exit")
     ap.add_argument("--bootstrap", action="store_true",
                     help="force: mark everything seen without alerting")
+    ap.add_argument("--digest", action="store_true",
+                    help="send every currently-open match, not just new ones")
     args = ap.parse_args()
 
     tg = Telegram()
@@ -133,6 +135,17 @@ def main() -> int:
             print(f"  {job.company:14} {job.title[:72]}{phd}")
             print(f"  {'':14} {job.location[:60]}  {job.url}")
         print("\n(dry run — nothing sent, state not saved)")
+        return 0
+
+    if args.digest:
+        matches.sort(key=lambda x: (x[0].company, x[0].title))
+        n = send_digest(tg, matches)
+        # A digest also counts as having seen everything, so the next scheduled
+        # run doesn't re-alert on all of it.
+        for job, _ in matches:
+            state.mark_seen(job.uid)
+        state.save()
+        print(f"sent digest of {len(matches)} jobs in {n} messages")
         return 0
 
     if bootstrap:

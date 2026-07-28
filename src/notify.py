@@ -67,6 +67,46 @@ def format_job(job, is_phd: bool = False) -> str:
     return "\n".join(lines)
 
 
+def send_digest(tg: Telegram, matches: list[tuple]) -> int:
+    """Everything currently open, as a few compact grouped messages.
+
+    Deliberately not one message per job — a digest of 70 would be unusable.
+    """
+    by_company: dict[str, list] = {}
+    for job, verdict in matches:
+        by_company.setdefault(job.company, []).append((job, verdict))
+
+    header = (
+        f"📋 <b>All open CS internships</b> — {len(matches)} across "
+        f"{len(by_company)} companies\n"
+    )
+    # Flatten to individual lines. Packing per-company overflows the 4096-char
+    # cap on its own once a company has ~20 roles, which truncates mid-<a> tag
+    # and Telegram rejects the whole message.
+    rows: list[str] = []
+    for company in sorted(by_company):
+        rows.append(f"\n<b>{_esc(company)}</b>")
+        for job, verdict in sorted(by_company[company], key=lambda x: x[0].title):
+            tag = " [PhD]" if verdict.is_phd else ""
+            loc = job.location.split("|")[0].strip()[:34]
+            rows.append(
+                f'• <a href="{_esc(job.url)}">{_esc(job.title[:78])}</a>'
+                f"{tag}\n  <i>{_esc(loc)}</i>"
+            )
+
+    sent, buf = 0, header
+    for row in rows:
+        if len(buf) + len(row) + 1 > 3800:
+            if tg.send(buf):
+                sent += 1
+            time.sleep(0.6)
+            buf = ""
+        buf += "\n" + row
+    if buf.strip() and tg.send(buf):
+        sent += 1
+    return sent
+
+
 def send_matches(tg: Telegram, matches: list[tuple], max_alerts: int) -> int:
     """matches: list of (Job, Verdict). Returns number of messages sent."""
     sent = 0
