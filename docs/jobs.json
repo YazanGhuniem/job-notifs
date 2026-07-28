@@ -1,12 +1,21 @@
 {
- "updated": "2026-07-28 22:55 UTC",
- "count": 211,
+ "updated": "2026-07-28 23:47 UTC",
+ "count": 214,
  "jobs": [
   {
    "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
    "company": "TikTok",
    "location": "NYC",
    "url": "https://lifeattiktok.com/search/7667248888103782661",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/278249",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -115,6 +124,15 @@
    "company": "Cloudflare",
    "location": "In-Office",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Applied Data Solutions Program Intern",
+   "company": "Apple",
+   "location": "Austin, TX",
+   "url": "https://jobs.apple.com/en-us/details/200673612",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1060,6 +1078,15 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/269809",
+   "posted": "2026-05-06",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Early Career CAD Tools Optimisation Engineer Intern - Design Verification",
+   "company": "Apple",
+   "location": "Cambridge, MA",
+   "url": "https://jobs.apple.com/en-us/details/200650800",
    "posted": "2026-05-06",
    "found": "2026-07-28",
    "phd": false
