@@ -16,6 +16,53 @@ companies:
     name: Amazon
     ats: amazon           # covers AWS, Amazon Robotics, Audible, Twitch corp
 
+  google:
+    name: Google
+    ats: google
+    # Google publishes no JSON API (careers.google.com/api/v3 is 404), but its
+    # results page is server-rendered, so we parse the HTML. Expect this to
+    # break eventually — you'll get a health alert if it starts returning 0.
+
+  # Covers the big names with no reachable board of their own. Kept to an
+  # explicit allowlist so it never double-reports a company already fetched
+  # directly above, and never adds employers you didn't ask for.
+  aggregator:
+    name: Aggregator
+    ats: simplify
+    feeds:
+      - https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json
+      # 2027 list doesn't exist yet (404 is skipped harmlessly). It usually
+      # appears around Aug-Sep — nothing to change when it does.
+      - https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json
+    only_companies:
+      # The four you asked for. Google is fetched directly (ats: google), so
+      # it is deliberately NOT listed here — listing it would double-report.
+      - Apple
+      - Meta
+      - Microsoft
+      # Same tier, no reachable board of their own.
+      - Salesforce
+      - Adobe
+      - LinkedIn
+      - TikTok
+      - Snap
+      - Spotify
+      - Atlassian
+      - Oracle
+      - ServiceNow
+      - Intuit
+      - PayPal
+      - Rippling
+      - Retool
+      - HashiCorp
+      - Grammarly
+      - Hugging Face
+      - Mistral AI
+      # Hardware-heavy but big CS-internship employers. Tesla alone is ~60
+      # listings; delete these two lines if it turns out to be noise.
+      - Tesla
+      - Nvidia Corporation
+
   microsoft:
     name: Microsoft
     ats: microsoft

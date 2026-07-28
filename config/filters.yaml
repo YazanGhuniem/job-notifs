@@ -16,6 +16,8 @@ internship:
   - '\bindustrial placement\b'
   - '\bsummer analyst\b'
   - '\bstudent (developer|programmer|engineer|researcher)\b'
+  - '\buniversity graduate\b'
+  - '\bnew grad(uate)? (program|rotation)\b'
 
 # Titles that contain an internship word but are not the thing you want.
 internship_exclude:
@@ -52,6 +54,9 @@ cs_include:
   # "Research Internship" at an AI lab is squarely relevant; the veto list
   # below still drops e.g. "UX Research Intern".
   - '\bresearch intern(ship)?\b'
+  # Google's name for its research internship — no "intern" in the title, so
+  # gate 1 needs it too (see the `internship` list above).
+  - '\bstudent researcher\b'
   - '\bapplied scien'
   - '\balgorithms?\b'
   - '\bvideo (coding|algorithms)\b'
@@ -170,6 +175,11 @@ cs_exclude:
   - '\bhospitality\b'
   - '\bnurs'
   - '\bclinical\b'
+  # Leaks caught against Tesla / TikTok / Meta listings:
+  - '\belectronics? design\b'      # "Electronic Design Engineer Intern" (EE)
+  - '\bpeople analytics\b'         # HR analytics, not data engineering
+  - '\bchemist\b'                  # "Research Scientist Intern, Computational Chemist"
+  - '\bproduct operations\b'
 
 # Beats the veto list. These say "this is a software role" loudly enough that
 # a veto word elsewhere in the title is almost certainly describing the
