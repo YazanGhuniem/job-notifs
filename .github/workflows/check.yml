@@ -1,0 +1,45 @@
+name: check-internships
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub's cron is best-effort and can lag under load.
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+# Never let two runs race on state/seen.json.
+concurrency:
+  group: check-internships
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Check for new internships
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m src.main
+
+      - name: Commit updated state
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/seen.json
+          # No-op cleanly when nothing changed. [skip ci] stops this commit
+          # from triggering other workflows; the commit itself is also what
+          # keeps GitHub from disabling the cron after 60 days of inactivity.
+          git diff --staged --quiet || git commit -m "state: $(date -u +%FT%TZ) [skip ci]"
+          git push

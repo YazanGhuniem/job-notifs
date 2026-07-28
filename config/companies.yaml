@@ -1,0 +1,115 @@
+# Companies to watch.
+#
+# Every entry below was probed live and returned real postings — the number in
+# the comment is how many total reqs its board had when this was built.
+#
+# To add a company:   python tools/discover.py "Company Name"
+# To pause one:       add `enabled: false`
+#
+# ats types: greenhouse | ashby | lever | workday | smartrecruiters
+#            | amazon | eightfold | uber | microsoft
+
+companies:
+
+  # ---------------------------------------------------------------- big tech
+  amazon:
+    name: Amazon
+    ats: amazon           # covers AWS, Amazon Robotics, Audible, Twitch corp
+
+  microsoft:
+    name: Microsoft
+    ats: microsoft
+    # Unverified: this endpoint was unreachable from the machine that built
+    # this (local network egress, not a bad URL). If it's wrong you'll get a
+    # "microsoft has failed 5 runs" alert instead of silent failure.
+
+  nvidia:
+    name: NVIDIA          # 914 intern-matching reqs
+    ats: workday
+    host: nvidia.wd5.myworkdayjobs.com
+    tenant: nvidia
+    site: NVIDIAExternalCareerSite
+
+  netflix:
+    name: Netflix
+    ats: eightfold
+    host: explore.jobs.netflix.net
+    domain: netflix.com
+
+  uber:
+    name: Uber
+    ats: uber
+
+  stripe:      {name: Stripe,      ats: greenhouse, token: stripe}       # 536
+  databricks:  {name: Databricks,  ats: greenhouse, token: databricks}   # 800
+  snowflake:   {name: Snowflake,   ats: ashby,      token: snowflake}    # 400
+  airbnb:      {name: Airbnb,      ats: greenhouse, token: airbnb}       # 196
+  coinbase:    {name: Coinbase,    ats: greenhouse, token: coinbase}     # 156
+  dropbox:     {name: Dropbox,     ats: greenhouse, token: Dropbox}      # 30
+
+  # ---------------------------------------------------------------- AI labs
+  anthropic:   {name: Anthropic,   ats: greenhouse, token: anthropic}    # 418
+  openai:      {name: OpenAI,      ats: ashby,      token: openai}       # 753
+  scale_ai:    {name: Scale AI,    ats: greenhouse, token: scaleai}      # 204
+  cohere:      {name: Cohere,      ats: ashby,      token: cohere}       # 137
+  perplexity:  {name: Perplexity,  ats: ashby,      token: perplexity}   # 86
+  waymo:       {name: Waymo,       ats: greenhouse, token: waymo}        # 405
+  figure:      {name: Figure AI,   ats: greenhouse, token: figureai}     # 122
+
+  # ------------------------------------------- consumer tech (Pinterest tier)
+  doordash:    {name: DoorDash,    ats: greenhouse, token: doordashusa}  # 482
+  pinterest:   {name: Pinterest,   ats: greenhouse, token: pinterest}    # 201
+  roblox:      {name: Roblox,      ats: greenhouse, token: roblox}       # 217
+  reddit:      {name: Reddit,      ats: greenhouse, token: reddit}       # 194
+  lyft:        {name: Lyft,        ats: greenhouse, token: Lyft}         # 156
+  instacart:   {name: Instacart,   ats: greenhouse, token: instacart}    # 122
+  twitch:      {name: Twitch,      ats: greenhouse, token: twitch}       # 66
+  duolingo:    {name: Duolingo,    ats: greenhouse, token: duolingo}     # 60
+  nextdoor:    {name: Nextdoor,    ats: greenhouse, token: nextdoor}     # 16
+  squarespace: {name: Squarespace, ats: greenhouse, token: squarespace}  # 16
+  coursera:    {name: Coursera,    ats: greenhouse, token: coursera}     # 12
+
+  # ------------------------------------------------- startups / unicorns
+  anduril:     {name: Anduril,     ats: greenhouse, token: andurilindustries}  # 2127
+  # assume_us: SpaceX is US-only (ITAR) but writes non-geographic locations
+  # like "Flexible - Any SpaceX Site", which the location gate can't parse.
+  spacex:      {name: SpaceX, ats: greenhouse, token: spacex, assume_us: true}  # 2018
+  palantir:    {name: Palantir,    ats: lever,      token: palantir}     # 287
+  figma:       {name: Figma,       ats: greenhouse, token: figma}        # 174
+  notion:      {name: Notion,      ats: ashby,      token: notion}       # 127
+  linear:      {name: Linear,      ats: ashby,      token: linear}       # 25
+  vercel:      {name: Vercel,      ats: ashby,      token: vercel}       # 0 open
+  discord:     {name: Discord,     ats: greenhouse, token: discord}      # 50
+  asana:       {name: Asana,       ats: greenhouse, token: asana}        # 148
+
+  # ------------------------------------------------- infra / dev tools
+  datadog:     {name: Datadog,     ats: greenhouse, token: Datadog}      # 418
+  mongodb:     {name: MongoDB,     ats: greenhouse, token: mongodb}      # 401
+  okta:        {name: Okta,        ats: greenhouse, token: Okta}         # 352
+  cloudflare:  {name: Cloudflare,  ats: greenhouse, token: Cloudflare}   # 271
+  elastic:     {name: Elastic,     ats: greenhouse, token: Elastic}      # 204
+  gitlab:      {name: GitLab,      ats: greenhouse, token: gitlab}       # 187
+  twilio:      {name: Twilio,      ats: greenhouse, token: twilio}       # 183
+  box:         {name: Box,         ats: greenhouse, token: boxinc}       # 119
+
+  # ------------------------------------------------- fintech
+  brex:        {name: Brex,        ats: greenhouse, token: brex}         # 279
+  block:       {name: Block,       ats: greenhouse, token: Block}        # 209
+  affirm:      {name: Affirm,      ats: greenhouse, token: affirm}       # 174
+  ramp:        {name: Ramp,        ats: ashby,      token: ramp}         # 118
+  plaid:       {name: Plaid,       ats: ashby,      token: plaid}        # 115
+  robinhood:   {name: Robinhood,   ats: greenhouse, token: robinhood}    # 119
+  chime:       {name: Chime,       ats: greenhouse, token: Chime}        # 67
+
+# ---------------------------------------------------------------------------
+# NOT INCLUDED — no public JSON board found. These run custom or locked-down
+# career sites (Taleo/iCIMS/heavy JS). Adding one means writing a scraper for
+# that single site; ask if you want any of them badly enough:
+#
+#   Google, Apple, Meta, Salesforce, Atlassian, Zoom, eBay, Etsy, Yelp,
+#   HashiCorp, Grammarly, Retool, Rippling, Hugging Face, Mistral
+#
+# Apple in particular has an API that answers, but it rejects every documented
+# search/filter form — you can only pull all 6000 reqs, which is too heavy to
+# poll every 30 minutes.
+# ---------------------------------------------------------------------------

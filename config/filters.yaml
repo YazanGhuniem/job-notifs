@@ -1,0 +1,215 @@
+# What counts as "a job Yazan would actually apply to".
+# All patterns are case-insensitive regex, matched against the job TITLE
+# (plus department, for the CS gate only).
+
+# ---------------------------------------------------------------------------
+# Gate 1 — must look like an internship / co-op.
+# \b word boundaries matter: a bare "intern" substring matches "Internal
+# Tools Engineer" and "International Payments".
+# ---------------------------------------------------------------------------
+internship:
+  - '\bintern\b'
+  - '\binterns\b'
+  - '\binternship[s]?\b'
+  - '\bco-?op\b'
+  - '\bapprentice(ship)?\b'
+  - '\bindustrial placement\b'
+  - '\bsummer analyst\b'
+  - '\bstudent (developer|programmer|engineer|researcher)\b'
+
+# Titles that contain an internship word but are not the thing you want.
+internship_exclude:
+  - '\bintern(ship)? (program )?(manager|coordinator|recruiter|host|mentor)\b'
+  - '\bmanager, intern'
+  - '\bintern(al)? audit'
+
+# ---------------------------------------------------------------------------
+# Gate 2 — must be computer-science relevant.
+# ---------------------------------------------------------------------------
+cs_include:
+  # Core software
+  - '\bsoftware\b'
+  - '\bswe\b'
+  - '\bsde\b'
+  - '\bsdet\b'
+  - '\bdevelop(er|ment) engineer\b'
+  - '\bprogrammer\b'
+  - '\bweb develop'
+  - '\bapplication develop'
+  # AI / ML
+  - '\bmachine learning\b'
+  - '\bdeep learning\b'
+  - '\bai\b'
+  - '\bml\b'
+  - '\bmlops\b'
+  - '\bartificial intelligence\b'
+  - '\bcomputer vision\b'
+  - '\bnlp\b'
+  - '\bnatural language\b'
+  - '\bgenerative\b'
+  - '\bllm[s]?\b'
+  - '\bresearch (engineer|scientist)\b'
+  # "Research Internship" at an AI lab is squarely relevant; the veto list
+  # below still drops e.g. "UX Research Intern".
+  - '\bresearch intern(ship)?\b'
+  - '\bapplied scien'
+  - '\balgorithms?\b'
+  - '\bvideo (coding|algorithms)\b'
+  # Data
+  - '\bdata scien'
+  - '\bdata engineer'
+  - '\bdata analy'
+  - '\banalytics engineer\b'
+  - '\bbusiness intelligence\b'
+  - '\bdata platform\b'
+  # Systems / infra
+  - '\bbackend\b'
+  - '\bback-end\b'
+  - '\bfrontend\b'
+  - '\bfront-end\b'
+  - '\bfull-?stack\b'
+  - '\binfrastructure\b'
+  - '\bplatform engineer'
+  - '\bdistributed systems\b'
+  - '\bsystems engineer'
+  - '\bcloud\b'
+  - '\bdevops\b'
+  - '\bsre\b'
+  - '\bsite reliability\b'
+  - '\bcompiler'
+  - '\bkernel\b'
+  - '\bembedded software\b'
+  - '\bfirmware\b'
+  # Security
+  - '\bsecurity engineer'
+  - '\bcyber ?security\b'
+  - '\bapplication security\b'
+  - '\bcryptograph'
+  # Mobile
+  - '\bmobile (engineer|develop)'
+  - '\bios\b'
+  - '\bandroid\b'
+  # Other CS-adjacent engineering
+  - '\brobotics software\b'
+  - '\bgraphics engineer'
+  - '\bgame (engine|develop|programm)'
+  - '\bquantitative develop'
+  - '\bquantitative technolog'
+  - '\bcomputer science\b'
+  - '\bproduct engineer\b'
+  - '\bforward deployed\b'
+  - '\bengineer(ing)?, (software|backend|frontend|infrastructure|data|ml|ai)'
+  # Generic "Engineering Intern" with no discipline named — usually software
+  # at a software company. Fail-open; the veto list below catches the rest.
+  - '\bengineering intern(ship)?\b'
+  - '\bengineer intern(ship)?\b'
+  - '\btechnology (intern|analyst)\b'
+  - '\btech(nical)? intern(ship)?\b'
+
+# ---------------------------------------------------------------------------
+# Gate 3 — veto. ALWAYS applied, because generic cs_include patterns like
+# "engineering intern" match "Mechanical Engineer Intern" too. A title hit by
+# a veto is saved only if it also matches cs_exclude_override below.
+# ---------------------------------------------------------------------------
+cs_exclude:
+  - '\btechnical support\b'
+  - '\bsupport engineer\b'
+  - '\bhardware (development )?engineer'
+  - '\bnaval\b'
+  - '\bproduct manage'
+  - '\bprogram manage'
+  - '\bproject manage'
+  - '\bbusiness (operations|development|analyst)'
+  - '\bstrateg(y|ist)\b'
+  - '\bcompliance\b'
+  - '\brisk\b'
+  - '\btechnician\b'
+  - '\bweld'
+  - '\bmechanical\b'
+  - '\belectrical\b'
+  - '\bchemical\b'
+  - '\bcivil\b'
+  - '\bbiomedical\b'
+  - '\bbiolog'
+  - '\bmaterials\b'
+  - '\bmanufacturing\b'
+  - '\bthermal\b'
+  - '\boptical\b'
+  - '\bsilicon\b'
+  - '\basic\b'
+  - '\bverilog\b'
+  - '\bpcb\b'
+  - '\bhardware (design|engineer)'
+  - '\bmarketing\b'
+  - '\bsales\b'
+  - '\brecruit'
+  - '\bhuman resources\b'
+  - '\bpeople ops\b'
+  - '\blegal\b'
+  - '\bcounsel\b'
+  - '\bpolicy\b'
+  - '\bcommunications\b'
+  - '\bpublic relations\b'
+  - '\bfinance\b'
+  - '\baccounting\b'
+  - '\baudit\b'
+  - '\btax\b'
+  - '\bsupply chain\b'
+  - '\blogistics\b'
+  - '\bprocurement\b'
+  - '\bfacilities\b'
+  - '\bconstruction\b'
+  - '\bux research'
+  - '\buser research'
+  - '\bgraphic design'
+  - '\bcontent design'
+  - '\bbrand\b'
+  - '\bcopywrit'
+  - 'recruiting'
+  - '\bcustomer (success|support)\b'
+  - '\bhospitality\b'
+  - '\bnurs'
+  - '\bclinical\b'
+
+# Beats the veto list. These say "this is a software role" loudly enough that
+# a veto word elsewhere in the title is almost certainly describing the
+# domain, not the discipline — e.g. "ML Intern, Silicon Architecture" or
+# "Software Engineer Intern, Supply Chain".
+cs_exclude_override:
+  - '\bsoftware engineer'
+  - '\bsoftware develop'
+  - '\bsoftware intern'
+  - '\bmachine learning\b'
+  - '\bml\b'          # but NOT bare \bai\b — too weak, it would save sales roles
+  - '\bdeep learning\b'
+  - '\bembedded software\b'
+  - '\bfirmware\b'
+  - '\bcomputer vision\b'
+  - '\bnlp\b'
+  - '\bdata scien'
+  - '\bdata engineer'
+  - '\bbackend\b'
+  - '\bfrontend\b'
+  - '\bfull-?stack\b'
+  - '\bcompiler'
+  - '\bdistributed systems\b'
+  - '\bsecurity engineer'
+  - '\bswe\b'
+  - '\bsde\b'
+
+# ---------------------------------------------------------------------------
+# Gate 4 — location. US only.
+# Unknown / empty locations FAIL OPEN (treated as a match) — missing a real
+# posting is worse than one extra notification.
+# ---------------------------------------------------------------------------
+location:
+  mode: us            # us | us_ca | anywhere
+  fail_open: true
+
+# Drop postings that explicitly require a PhD. Off by default — some are open
+# to strong undergrads, and matching ones get tagged [PhD] in the alert instead.
+exclude_phd: false
+
+# Max individual Telegram messages per run; the rest are rolled up into a
+# single "...and N more" summary so a bulk repost can't flood you.
+max_alerts_per_run: 15
