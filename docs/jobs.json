@@ -1,7 +1,25 @@
 {
- "updated": "2026-07-29 01:16 UTC",
- "count": 214,
+ "updated": "2026-07-29 04:39 UTC",
+ "count": 215,
  "jobs": [
+  {
+   "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7667690418804902149",
+   "posted": "2026-07-29",
+   "found": "2026-07-29",
+   "phd": false
+  },
+  {
+   "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7667613782697232693",
+   "posted": "2026-07-29",
+   "found": "2026-07-29",
+   "phd": false
+  },
   {
    "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
    "company": "TikTok",
@@ -55,15 +73,6 @@
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": true
-  },
-  {
-   "title": "DGX Cloud Kubernetes Runtime Intern - Fall 2026",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": false
   },
   {
    "title": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
