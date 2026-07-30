@@ -1,7 +1,16 @@
 {
- "updated": "2026-07-30 00:53 UTC",
- "count": 214,
+ "updated": "2026-07-30 03:48 UTC",
+ "count": 215,
  "jobs": [
+  {
+   "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/278578",
+   "posted": "2026-07-30",
+   "found": "2026-07-30",
+   "phd": false
+  },
   {
    "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
    "company": "TikTok",
@@ -511,6 +520,15 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7562342433721862405",
+   "posted": "2026-06-15",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7572358528171510069",
    "posted": "2026-06-15",
    "found": "2026-07-28",
    "phd": false
@@ -1700,15 +1718,6 @@
    "location": "Westboro, Wisconsin, USA",
    "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026",
    "posted": "2025-12-03",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - 2026 Summer",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7572358528171510069",
-   "posted": "2025-12-02",
    "found": "2026-07-28",
    "phd": false
   },
