@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-31 21:02 UTC",
- "count": 213,
+ "updated": "2026-07-31 22:29 UTC",
+ "count": 210,
  "jobs": [
   {
    "title": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
@@ -615,24 +615,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Fullstack Software Engineer - Fleetnet",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/266764",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/266980",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern - Software Engineer - IT Apps",
    "company": "Tesla",
    "location": "Fremont, CA",
@@ -745,15 +727,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/263759",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "AI Inference Engineer Intern - Software Compiler Engineer - AI Inference",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/263211",
    "posted": "2026-06-07",
    "found": "2026-07-28",
    "phd": false
