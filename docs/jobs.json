@@ -1,7 +1,16 @@
 {
- "updated": "2026-08-01 01:02 UTC",
- "count": 207,
+ "updated": "2026-08-01 04:44 UTC",
+ "count": 208,
  "jobs": [
+  {
+   "title": "Software Compiler Engineer Intern - AI Inference",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/278847",
+   "posted": "2026-08-01",
+   "found": "2026-08-01",
+   "phd": false
+  },
   {
    "title": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
    "company": "Tesla",
