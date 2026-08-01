@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-01 10:57 UTC",
- "count": 206,
+ "updated": "2026-08-01 11:57 UTC",
+ "count": 203,
  "jobs": [
   {
    "title": "Software Compiler Engineer Intern - AI Inference",
@@ -219,15 +219,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern - Monetization Computer Vision",
-   "company": "Meta",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/2281218542616482",
-   "posted": "2026-07-10",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Applied Scientist Intern - Recommendation AI Lab",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -421,15 +412,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/273933",
-   "posted": "2026-06-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - State Estimation for Dexterous Manipulation",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/2774289902955470",
    "posted": "2026-06-16",
    "found": "2026-07-28",
    "phd": false
@@ -1060,15 +1042,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/269809",
-   "posted": "2026-05-06",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Hardware Systems Engineering Intern",
-   "company": "Apple",
-   "location": "Austin, TX",
-   "url": "https://jobs.apple.com/en-us/details/200647863",
    "posted": "2026-05-06",
    "found": "2026-07-28",
    "phd": false
