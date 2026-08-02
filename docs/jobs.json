@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-02 14:22 UTC",
- "count": 198,
+ "updated": "2026-08-02 15:34 UTC",
+ "count": 205,
  "jobs": [
   {
    "title": "Software Compiler Engineer Intern - AI Inference",
@@ -70,6 +70,69 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/278249",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Security and Privacy - Fall 2026",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": true
+  },
+  {
+   "title": "PhD Software Engineering Intern, Decision Intelligence - Fall 2026",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Generative AI - 2026",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": true
+  },
+  {
+   "title": "Applied Research Intern, NLP - Fall 2026",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Performance Engineer Intern, Systems Software- Fall 2026",
+   "company": "NVIDIA",
+   "location": "US, MO, St. Louis",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
