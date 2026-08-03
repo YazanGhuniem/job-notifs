@@ -110,6 +110,13 @@ cs_include:
   - '\bengineer intern(ship)?\b'
   - '\btechnology (intern|analyst)\b'
   - '\btech(nical)? intern(ship)?\b'
+  # Enterprise/bank naming. Big non-tech employers rarely say "software" in a
+  # title — they say IT, Information Technology, or name a rotational program.
+  - '\binformation technology\b'
+  - '\bit (intern(ship)?|co-?op|analyst|develop)'
+  - '\btechnology (co-?op|development|leadership|rotation)'
+  - '\binformation (security|systems)\b'
+  - '\bdata (intern(ship)?|co-?op)\b'
 
 # ---------------------------------------------------------------------------
 # Gate 3 — veto. ALWAYS applied, because generic cs_include patterns like

@@ -40,7 +40,22 @@ TITLES = [
     ("ML Intern, Silicon Architecture", True, "override beats the silicon veto"),
     ("Software Engineer Intern, Supply Chain", True, "override beats veto"),
 
+    # Enterprise/bank naming — these employers rarely put "software" in a
+    # title, so the CS gate has to recognize IT / rotational-program wording.
+    ("Information Technology Leadership Program Intern", True, ""),
+    ("2027 IT Intern - Cincinnati", True, ""),
+    ("Technology Development Program Intern", True, ""),
+    ("2027 Technology Co-Op", True, ""),
+    ("Information Security Intern", True, ""),
+    ("Enterprise Data Intern", True, ""),
+
     # --- should NOT match -------------------------------------------------
+    # ...but the bank patterns must not drag in the finance side of a bank.
+    ("2027 Financial Audit Intern", False, "audit is out of scope"),
+    ("2027 IT Audit Intern", False, "audit, despite the 'IT'"),
+    ("Risk Internship Program - May 2027", False, ""),
+    ("Investment Banking Summer Analyst", False, ""),
+    ("Wealth Management Intern", False, ""),
     ("Internal Tools Engineer", False, "word-boundary trap: 'Intern'al"),
     ("International Payments Analyst", False, "word-boundary trap"),
     ("2027 Mechanical Engineer Intern", False, "generic match + veto"),

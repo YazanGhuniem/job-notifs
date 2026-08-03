@@ -153,6 +153,17 @@ companies:
   robinhood:   {name: Robinhood,   ats: greenhouse, token: robinhood}    # 119
   chime:       {name: Chime,       ats: greenhouse, token: Chime}        # 67
 
+  # ------------------------------------------------- banks
+  # A traditional bank, so most of its intern reqs are finance/audit/risk and
+  # get vetoed by the CS gate — that's intended. What we're here for is the
+  # tech side: SWE, IT/Technology Development Program, data & cyber co-ops.
+  fifththird:
+    name: Fifth Third Bank   # 293 intern-matching reqs
+    ats: workday
+    host: fifththird.wd5.myworkdayjobs.com
+    tenant: fifththird
+    site: 53careers
+
 # ---------------------------------------------------------------------------
 # NOT INCLUDED — no public JSON board found. These run custom or locked-down
 # career sites (Taleo/iCIMS/heavy JS). Adding one means writing a scraper for
