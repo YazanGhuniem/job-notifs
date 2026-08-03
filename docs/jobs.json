@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-03 08:18 UTC",
- "count": 248,
+ "updated": "2026-08-03 11:52 UTC",
+ "count": 226,
  "jobs": [
   {
    "title": "Research Scientist Intern - Trust and Safety",
@@ -376,6 +376,15 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7668183035989281029",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - CoreAI",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
    "posted": "2026-08-03",
    "found": "2026-08-03",
    "phd": false
@@ -840,87 +849,6 @@
    "phd": false
   },
   {
-   "title": "Backend Software Engineer Intern - Media Platform",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7538301580093720840",
-   "posted": "2026-06-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Monetization Technology",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7561941583777941813",
-   "posted": "2026-06-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Tiktok-Recommendation",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7527065936093858055",
-   "posted": "2026-06-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7527589557336869138",
-   "posted": "2026-06-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7532444719809628424",
-   "posted": "2026-06-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7527077153591675154",
-   "posted": "2026-06-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Capital Platform",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7534536157456058632",
-   "posted": "2026-06-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Monetization Technology",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7562342433721862405",
-   "posted": "2026-06-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7572358528171510069",
-   "posted": "2026-06-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Commercial UI Software Engineer Intern - Energy Engineering",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -1281,15 +1209,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Recommendation Infrastructure",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7534878965941766408",
-   "posted": "2026-05-28",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Software PhD Intern",
    "company": "Apple",
    "location": "United States",
@@ -1506,15 +1425,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Multiple Teams",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7527618943449909522",
-   "posted": "2026-04-23",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
    "company": "Palantir",
    "location": "Washington, D.C. | United States",
@@ -1628,24 +1538,6 @@
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7623531249253255429",
    "posted": "2026-04-03",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - App Ads",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7623166673809770757",
-   "posted": "2026-03-31",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - AI Model Optimization",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7540823148805032210",
-   "posted": "2026-03-31",
    "found": "2026-07-28",
    "phd": false
   },
@@ -1767,15 +1659,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Multiple Teams",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7533295761208559890",
-   "posted": "2026-02-25",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Software Development Engineer Apprentice - Military Veterans",
    "company": "Amazon",
    "location": "Seattle, Washington, USA",
@@ -1848,78 +1731,6 @@
    "phd": false
   },
   {
-   "title": "Machine Learning Engineer Intern Lead Ads - 2026 Summer - BS/MS",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7600251462900140341",
-   "posted": "2026-01-28",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Ads Interface Platform",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7473334964256393479",
-   "posted": "2026-01-26",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Commerce Ads - 2026 Summer",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7595346355196954933",
-   "posted": "2026-01-22",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Commerce Ads - 2026 Summer",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7595346361319491893",
-   "posted": "2026-01-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Frontend Engineer Intern - Ads Interface and Platform",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7595344466313529653",
-   "posted": "2026-01-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7595340771562621189",
-   "posted": "2026-01-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Ads Infrastructure",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7572665884037826869",
-   "posted": "2026-01-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Global Site Reliability Engineer",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7536042624604997896",
-   "posted": "2026-01-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Advanced Degree Software Engineer Intern - Industries",
    "company": "Oracle",
    "location": "United States",
@@ -1933,15 +1744,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7519241729582516487",
-   "posted": "2025-12-18",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7527589875165563143",
    "posted": "2025-12-18",
    "found": "2026-07-28",
    "phd": false
