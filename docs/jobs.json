@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-03 16:44 UTC",
- "count": 231,
+ "updated": "2026-08-03 18:30 UTC",
+ "count": 232,
  "jobs": [
   {
    "title": "Research Scientist Intern - Trust and Safety",
@@ -417,6 +417,60 @@
    "phd": false
   },
   {
+   "title": "Spring 2027 Engineering Internship/Co-op",
+   "company": "SpaceX",
+   "location": "Flexible - Any SpaceX Site",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
+   "title": "Spring 2027 Graduate Engineer Internship/Co-op",
+   "company": "SpaceX",
+   "location": "Flexible - Any SpaceX Site",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
+   "title": "Spring 2027 Software Engineering Internship/Co-op",
+   "company": "SpaceX",
+   "location": "Flexible - Any SpaceX Site",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
+   "title": "Summer 2027 Engineering Internship/Co-op",
+   "company": "SpaceX",
+   "location": "Flexible - Any SpaceX Site",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
+   "title": "Summer 2027 Graduate Engineer Internship/Co-op",
+   "company": "SpaceX",
+   "location": "Flexible - Any SpaceX Site",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
+   "title": "Summer 2027 Software Engineering Internship/Co-op",
+   "company": "SpaceX",
+   "location": "Flexible - Any SpaceX Site",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
    "title": "Software Engineer Intern - CoreAI",
    "company": "Microsoft",
    "location": "Redmond, WA",
@@ -547,15 +601,6 @@
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Performance Engineer Intern, Systems Software- Fall 2026",
-   "company": "NVIDIA",
-   "location": "US, MO, St. Louis",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1362,15 +1407,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern - Multimodal Contextual AI",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/2160167211413098",
-   "posted": "2026-05-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Machine Learning Intern/Co-op (Fall, 2026)",
    "company": "Cohere",
    "location": "Canada | Europe | United States | United Kingdom | Remote",
@@ -1601,33 +1637,6 @@
    "location": "New York, NY | United States",
    "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
    "posted": "2026-03-20",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Fall 2026 Engineering Internship/Co-op",
-   "company": "SpaceX",
-   "location": "Flexible - Any SpaceX Site",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8403206002?gh_jid=8403206002",
-   "posted": "2026-03-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Fall 2026 Graduate Engineer Internship/Co-op",
-   "company": "SpaceX",
-   "location": "Flexible - Any SpaceX Site",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8403223002?gh_jid=8403223002",
-   "posted": "2026-03-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Fall 2026 Software Engineering Internship/Co-op",
-   "company": "SpaceX",
-   "location": "Flexible - Any SpaceX Site",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8403219002?gh_jid=8403219002",
-   "posted": "2026-03-16",
    "found": "2026-07-28",
    "phd": false
   },
