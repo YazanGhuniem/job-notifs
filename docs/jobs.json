@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-04 18:21 UTC",
- "count": 263,
+ "updated": "2026-08-04 20:05 UTC",
+ "count": 262,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - Data Search Local Service",
@@ -924,7 +924,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -933,7 +933,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1889,15 +1889,6 @@
    "location": "Pasadena, California, USA",
    "url": "https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing",
    "posted": "2026-04-09",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7623531249253255429",
-   "posted": "2026-04-03",
    "found": "2026-07-28",
    "phd": false
   },
