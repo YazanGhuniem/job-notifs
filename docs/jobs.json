@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-04 14:56 UTC",
- "count": 264,
+ "updated": "2026-08-04 16:47 UTC",
+ "count": 262,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - Data Search Local Service",
@@ -924,7 +924,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -933,7 +933,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1785,15 +1785,6 @@
    "phd": false
   },
   {
-   "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
-   "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
-   "posted": "2026-04-24",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
    "company": "Palantir",
    "location": "Washington, D.C. | United States",
@@ -2143,15 +2134,6 @@
    "posted": "2025-12-11",
    "found": "2026-07-28",
    "phd": false
-  },
-  {
-   "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
-   "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
-   "posted": "2025-12-10",
-   "found": "2026-07-28",
-   "phd": true
   },
   {
    "title": "Research Scientist Intern, Computational Chemist",
