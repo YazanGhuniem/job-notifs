@@ -1,7 +1,25 @@
 {
- "updated": "2026-08-04 01:25 UTC",
- "count": 229,
+ "updated": "2026-08-04 04:36 UTC",
+ "count": 231,
  "jobs": [
+  {
+   "title": "Cell Engineering Intern - Cell Qualification",
+   "company": "Tesla",
+   "location": "Palo Alto, CA | San Diego, CA",
+   "url": "https://www.tesla.com/careers/search/job/278620",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Data Engineer Intern - Cell Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/278622",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
   {
    "title": "Research Scientist Intern - Trust and Safety",
    "company": "TikTok",
@@ -609,7 +627,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -618,7 +636,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
