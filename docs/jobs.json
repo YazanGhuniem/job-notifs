@@ -1,7 +1,106 @@
 {
- "updated": "2026-08-04 04:36 UTC",
- "count": 231,
+ "updated": "2026-08-04 07:29 UTC",
+ "count": 247,
  "jobs": [
+  {
+   "title": "Machine Learning Engineer Intern - Data Search Local Service",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7668381860191734021",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Global CRM",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7669711844487399685",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7668379675467761925",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Effects Performance",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7668725183121000757",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Backend Software Engineer Intern - Product Infrastructure",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7667935633764370741",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Backend Software Engineer Intern - Global E-Commerce",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7668834837268138293",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - Commercial AI-CRM and Transaction",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7669702702763018501",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Ads Interface",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7669705785962727733",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - Ads Signal & Measurement",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7669700361976809733",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7668921505254410549",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Backend Software Engineer Intern - Global E-Commerce",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7668834837268416821",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
   {
    "title": "Cell Engineering Intern - Cell Qualification",
    "company": "Tesla",
@@ -16,6 +115,51 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/278622",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer: AI/ML & LLM Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Data Platform & Analytics",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Security & Identity Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Full-Stack Product Engineer Intern - Web + Services",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Cloud & Distributed Backend",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
    "posted": "2026-08-04",
    "found": "2026-08-04",
    "phd": false
