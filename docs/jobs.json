@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-05 07:29 UTC",
- "count": 265,
+ "updated": "2026-08-05 10:06 UTC",
+ "count": 268,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search",
@@ -16,6 +16,42 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7669683639101884725",
+   "posted": "2026-08-05",
+   "found": "2026-08-05",
+   "phd": false
+  },
+  {
+   "title": "Data Scientist Intern - VOD Data",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7670287013157095733",
+   "posted": "2026-08-05",
+   "found": "2026-08-05",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - Search",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7668396597746862341",
+   "posted": "2026-08-05",
+   "found": "2026-08-05",
+   "phd": false
+  },
+  {
+   "title": "Backend Software Engineer Intern - Creation Platform",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7670289874020993285",
+   "posted": "2026-08-05",
+   "found": "2026-08-05",
+   "phd": false
+  },
+  {
+   "title": "Data Engineer Intern - Ads Targeting",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7668533140146817333",
    "posted": "2026-08-05",
    "found": "2026-08-05",
    "phd": false
@@ -951,7 +987,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -960,7 +996,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1582,15 +1618,6 @@
    "company": "Rippling",
    "location": "Seattle, WA | SF | NYC",
    "url": "https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a",
-   "posted": "2026-06-05",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Backend Focused",
-   "company": "Rippling",
-   "location": "Seattle, WA | SF | NYC",
-   "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
    "posted": "2026-06-05",
    "found": "2026-07-28",
    "phd": false
