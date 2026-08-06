@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-06 09:18 UTC",
- "count": 274,
+ "updated": "2026-08-06 11:38 UTC",
+ "count": 275,
  "jobs": [
   {
    "title": "LLM Post-training Engineer Intern - Research & Product",
@@ -1041,7 +1041,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1050,7 +1050,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -2170,6 +2170,15 @@
    "posted": "2026-02-03",
    "found": "2026-08-06",
    "phd": true
+  },
+  {
+   "title": "Software Engineer Intern - Ads Infrastructure",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7572665884037826869",
+   "posted": "2026-01-15",
+   "found": "2026-07-28",
+   "phd": false
   },
   {
    "title": "Advanced Degree Software Engineer Intern - Industries",
