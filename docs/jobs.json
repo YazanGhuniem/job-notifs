@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-07 16:38 UTC",
- "count": 279,
+ "updated": "2026-08-07 17:38 UTC",
+ "count": 277,
  "jobs": [
   {
    "title": "Fullstack Software Engineer Intern - Global E-Commerce",
@@ -1020,15 +1020,6 @@
    "phd": true
   },
   {
-   "title": "PhD Research Intern, Security and Privacy - Fall 2026",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": true
-  },
-  {
    "title": "PhD Software Engineering Intern, Decision Intelligence - Fall 2026",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
@@ -1600,15 +1591,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/270067",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Applied AI Engineer Intern - AI Hardware",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/262946",
    "posted": "2026-06-07",
    "found": "2026-07-28",
    "phd": false
