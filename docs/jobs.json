@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-06 13:26 UTC",
- "count": 275,
+ "updated": "2026-08-07 00:35 UTC",
+ "count": 277,
  "jobs": [
   {
    "title": "LLM Post-training Engineer Intern - Research & Product",
@@ -858,6 +858,15 @@
    "phd": false
   },
   {
+   "title": "Spring 2027 Graduate Engineer Internship/Co-op",
+   "company": "SpaceX",
+   "location": "Flexible - Any SpaceX Site",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
    "title": "Spring 2027 Software Engineering Internship/Co-op",
    "company": "SpaceX",
    "location": "Flexible - Any SpaceX Site",
@@ -871,6 +880,15 @@
    "company": "SpaceX",
    "location": "Flexible - Any SpaceX Site",
    "url": "https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
+   "title": "Summer 2027 Graduate Engineer Internship/Co-op",
+   "company": "SpaceX",
+   "location": "Flexible - Any SpaceX Site",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002",
    "posted": "2026-08-03",
    "found": "2026-08-03",
    "phd": false
@@ -1041,7 +1059,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1050,7 +1068,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1794,7 +1812,7 @@
    "phd": false
   },
   {
-   "title": "Machine Learning Intern/Co-op (Fall, 2026)",
+   "title": "Machine Learning Intern/Co-op (Winter 2027)",
    "company": "Cohere",
    "location": "Canada | Europe | United States | United Kingdom | Remote",
    "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
