@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-08 22:14 UTC",
- "count": 275,
+ "updated": "2026-08-08 22:53 UTC",
+ "count": 274,
  "jobs": [
   {
    "title": "Fullstack Software Engineer Intern - Global E-Commerce",
@@ -1086,7 +1086,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1095,7 +1095,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1999,15 +1999,6 @@
    "posted": "2026-04-13",
    "found": "2026-08-03",
    "phd": true
-  },
-  {
-   "title": "Research Scientist Intern - TikTok Recommendation",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7625928030560700725",
-   "posted": "2026-04-11",
-   "found": "2026-07-28",
-   "phd": false
   },
   {
    "title": "Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing",
