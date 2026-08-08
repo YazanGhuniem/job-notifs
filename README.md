@@ -153,7 +153,7 @@ config/companies.yaml ─→ providers/*.py ─→ filters.py ─→ state.py �
 ### Supported ATS types
 
 `greenhouse` · `ashby` · `lever` · `workday` · `smartrecruiters` · `eightfold`
-· `amazon` · `uber` · `microsoft`
+· `amazon` · `microsoft`
 
 ---
 
@@ -167,6 +167,14 @@ Apple has an API that responds, but it rejects every documented search and
 filter form — you can only pull all ~6000 reqs, too heavy to poll every 30
 minutes. The others run custom or JS-only sites. Each would need its own
 scraper.
+
+**Uber moved to the aggregator (Aug 2026).** Its own careers API
+(`loadSearchJobsResults`) started returning 404 when Uber migrated to
+`jobs.uber.com`. There the job-search endpoint is behind a Cloudflare JS
+challenge that `requests` can't pass, and the listing page is an edge-cached
+page-1 snapshot — 10 of 662 jobs, ignoring every pagination param. Uber's
+`university-uber.icims.com` portal returns zero postings. So Uber is now read
+from the SimplifyJobs feed like Apple/Meta/Microsoft.
 
 **Microsoft is disabled.** `gcsservices.careers.microsoft.com` serves a
 certificate that doesn't cover that hostname — from GitHub Actions as well as

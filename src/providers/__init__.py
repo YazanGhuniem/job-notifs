@@ -8,7 +8,6 @@ from . import (
     microsoft,
     simplify,
     smartrecruiters,
-    uber,
     workday,
 )
 
@@ -20,7 +19,6 @@ REGISTRY = {
     "smartrecruiters": smartrecruiters.fetch,
     "amazon": amazon.fetch,
     "eightfold": eightfold.fetch,
-    "uber": uber.fetch,
     "microsoft": microsoft.fetch,
     "google": google.fetch,
     "simplify": simplify.fetch,

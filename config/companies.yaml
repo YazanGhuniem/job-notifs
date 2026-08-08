@@ -7,7 +7,7 @@
 # To pause one:       add `enabled: false`
 #
 # ats types: greenhouse | ashby | lever | workday | smartrecruiters
-#            | amazon | eightfold | uber | microsoft
+#            | amazon | eightfold | microsoft
 
 companies:
 
@@ -40,6 +40,9 @@ companies:
       - Apple
       - Meta
       - Microsoft
+      # Board became unreachable Aug 2026 — see the note further down, where
+      # its direct entry used to be.
+      - Uber
       # Same tier, no reachable board of their own.
       - Salesforce
       - Adobe
@@ -88,9 +91,10 @@ companies:
     host: explore.jobs.netflix.net
     domain: netflix.com
 
-  uber:
-    name: Uber
-    ats: uber
+  # Uber retired its own careers API (loadSearchJobsResults now 404s) and moved
+  # to jobs.uber.com, where the job-search endpoint sits behind a Cloudflare JS
+  # challenge — unreachable from CI. Its university iCIMS portal is empty. So
+  # Uber is read from the aggregator above, like Apple/Meta/Microsoft.
 
   stripe:      {name: Stripe,      ats: greenhouse, token: stripe}       # 536
   databricks:  {name: Databricks,  ats: greenhouse, token: databricks}   # 800
