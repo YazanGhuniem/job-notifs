@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-08 19:49 UTC",
- "count": 276,
+ "updated": "2026-08-08 20:14 UTC",
+ "count": 275,
  "jobs": [
   {
    "title": "Fullstack Software Engineer Intern - Global E-Commerce",
@@ -1086,7 +1086,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1095,7 +1095,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -2248,15 +2248,6 @@
    "company": "Palantir",
    "location": "Honolulu, HI | United States",
    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
-   "posted": "2025-12-11",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern, LLM Evaluation",
-   "company": "Meta",
-   "location": "New York, NY",
-   "url": "https://www.metacareers.com/profile/job_details/4203446973242742",
    "posted": "2025-12-11",
    "found": "2026-07-28",
    "phd": false
