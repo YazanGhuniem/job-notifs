@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-10 22:04 UTC",
- "count": 274,
+ "updated": "2026-08-10 23:02 UTC",
+ "count": 275,
  "jobs": [
   {
    "title": "Data Engineer Intern - Monetization Data",
@@ -25,6 +25,15 @@
    "company": "TikTok",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7670839752644233525",
+   "posted": "2026-08-10",
+   "found": "2026-08-10",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Engineering Automation - Vehicle Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/279763",
    "posted": "2026-08-10",
    "found": "2026-08-10",
    "phd": false
