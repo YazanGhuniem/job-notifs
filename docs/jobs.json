@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-10 23:02 UTC",
- "count": 275,
+ "updated": "2026-08-10 23:56 UTC",
+ "count": 276,
  "jobs": [
   {
    "title": "Data Engineer Intern - Monetization Data",
@@ -25,6 +25,15 @@
    "company": "TikTok",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7670839752644233525",
+   "posted": "2026-08-10",
+   "found": "2026-08-10",
+   "phd": false
+  },
+  {
+   "title": "Issue Discovery Operations Intern - Content Ecosystem",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7667582040108222773",
    "posted": "2026-08-10",
    "found": "2026-08-10",
    "phd": false
