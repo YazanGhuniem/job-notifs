@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-11 18:13 UTC",
- "count": 272,
+ "updated": "2026-08-11 19:31 UTC",
+ "count": 271,
  "jobs": [
   {
    "title": "Applied AI Engineer Intern - AI Hardware",
@@ -1104,7 +1104,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1113,7 +1113,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1159,15 +1159,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/276333",
-   "posted": "2026-07-10",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - Monetization Computer Vision",
-   "company": "Meta",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/2281218542616482",
    "posted": "2026-07-10",
    "found": "2026-07-28",
    "phd": false
