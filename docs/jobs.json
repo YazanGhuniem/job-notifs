@@ -1,7 +1,16 @@
 {
- "updated": "2026-08-11 05:33 UTC",
- "count": 276,
+ "updated": "2026-08-11 06:41 UTC",
+ "count": 277,
  "jobs": [
+  {
+   "title": "Applied AI Engineer Intern - AI Hardware",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/279603",
+   "posted": "2026-08-11",
+   "found": "2026-08-11",
+   "phd": false
+  },
   {
    "title": "Data Engineer Intern - Monetization Data",
    "company": "TikTok",
