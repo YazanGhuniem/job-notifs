@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11 22:28 UTC",
+ "updated": "2026-08-11 23:11 UTC",
  "count": 271,
  "jobs": [
   {
@@ -7,6 +7,15 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/279603",
+   "posted": "2026-08-11",
+   "found": "2026-08-11",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Future Pathways",
+   "company": "Salesforce",
+   "location": "Seattle, WA | SF",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842",
    "posted": "2026-08-11",
    "found": "2026-08-11",
    "phd": false
@@ -1241,15 +1250,6 @@
    "location": "Washington, D.C. | United States",
    "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
    "posted": "2026-07-01",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
-   "company": "Tesla",
-   "location": "Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/275380",
-   "posted": "2026-06-30",
    "found": "2026-07-28",
    "phd": false
   },
