@@ -1,7 +1,16 @@
 {
- "updated": "2026-08-12 03:02 UTC",
- "count": 270,
+ "updated": "2026-08-12 05:11 UTC",
+ "count": 271,
  "jobs": [
+  {
+   "title": "Software Engineer Intern - AI Inference Co Design",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/279600",
+   "posted": "2026-08-12",
+   "found": "2026-08-12",
+   "phd": false
+  },
   {
    "title": "Applied AI Engineer Intern - AI Hardware",
    "company": "Tesla",
