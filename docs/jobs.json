@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-12 05:11 UTC",
- "count": 271,
+ "updated": "2026-08-12 06:50 UTC",
+ "count": 270,
  "jobs": [
   {
    "title": "Software Engineer Intern - AI Inference Co Design",
@@ -2168,15 +2168,6 @@
    "location": "United States",
    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947",
    "posted": "2025-12-20",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Scientist Intern - TikTok Recommendation",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7519241729582516487",
-   "posted": "2025-12-18",
    "found": "2026-07-28",
    "phd": false
   },
