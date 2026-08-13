@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-13 17:25 UTC",
- "count": 272,
+ "updated": "2026-08-13 18:14 UTC",
+ "count": 269,
  "jobs": [
   {
    "title": "Data Science Intern - Advertisement Team",
@@ -1158,7 +1158,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1167,7 +1167,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -2186,33 +2186,6 @@
    "location": "United States",
    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947",
    "posted": "2025-12-20",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Data Engineer- Data Science Intern, Master's",
-   "company": "LinkedIn",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.smartrecruiters.com/LinkedIn3/aa222455-47c8-492e-a445-5ccbcee7ae9b",
-   "posted": "2025-12-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Applied Science- Data Science Intern, PhD",
-   "company": "LinkedIn",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.smartrecruiters.com/LinkedIn3/517e679d-be36-45ce-ab17-7c44eb8279ed",
-   "posted": "2025-12-16",
-   "found": "2026-07-28",
-   "phd": true
-  },
-  {
-   "title": "Strategy & Insights- Data Science Intern, Master's",
-   "company": "LinkedIn",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.smartrecruiters.com/LinkedIn3/c09bade2-b299-4574-a51f-9fc711d1c913",
-   "posted": "2025-12-16",
    "found": "2026-07-28",
    "phd": false
   },
