@@ -1,7 +1,25 @@
 {
- "updated": "2026-08-13 08:09 UTC",
- "count": 270,
+ "updated": "2026-08-13 09:37 UTC",
+ "count": 272,
  "jobs": [
+  {
+   "title": "Data Science Intern - Advertisement Team",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7673226686054107445",
+   "posted": "2026-08-13",
+   "found": "2026-08-13",
+   "phd": false
+  },
+  {
+   "title": "Firmware Engineer Intern - New Programs Engineering",
+   "company": "Tesla",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/279991",
+   "posted": "2026-08-13",
+   "found": "2026-08-13",
+   "phd": false
+  },
   {
    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
    "company": "TikTok",
