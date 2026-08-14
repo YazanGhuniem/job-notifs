@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-13 23:08 UTC",
- "count": 270,
+ "updated": "2026-08-14 00:04 UTC",
+ "count": 262,
  "jobs": [
   {
    "title": "Data Science Intern - Advertisement Team",
@@ -1326,15 +1326,6 @@
    "phd": false
   },
   {
-   "title": "Inline Metrology Systems Design/Engineer Intern - Cell Engineering",
-   "company": "Tesla",
-   "location": "Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/275335",
-   "posted": "2026-06-29",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
    "company": "Palantir",
    "location": "Chicago, IL | United States",
@@ -1443,15 +1434,6 @@
    "phd": false
   },
   {
-   "title": "Supercharger Product Engineer Intern - Supercharger Product Support Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/273531",
-   "posted": "2026-06-11",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "2027 Software Engineer Intern",
    "company": "Anduril",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
@@ -1506,37 +1488,10 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Software Engineer - Data Platforms",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/267004",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern - Linux Update Systems",
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/266986",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Energy System Optimization Intern - Energy Optimization Software",
-   "company": "Tesla",
-   "location": "Palo Alto, CA | Fremont, CA | Austin, TX",
-   "url": "https://www.tesla.com/careers/search/job/271349",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Data Analyst Intern - Data Analyst - Energy",
-   "company": "Tesla",
-   "location": "Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/271329",
    "posted": "2026-06-07",
    "found": "2026-07-28",
    "phd": false
@@ -1551,28 +1506,10 @@
    "phd": false
   },
   {
-   "title": "Data Engineer Intern - Data Engineer - Energy",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/271331",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering",
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/271382",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Software Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA | Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/271362",
    "posted": "2026-06-07",
    "found": "2026-07-28",
    "phd": false
@@ -1654,15 +1591,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/257048",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Energy Engineering Intern - Cost Reduction",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/270511",
    "posted": "2026-06-07",
    "found": "2026-07-28",
    "phd": false
