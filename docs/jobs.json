@@ -1,12 +1,21 @@
 {
- "updated": "2026-08-14 22:09 UTC",
- "count": 264,
+ "updated": "2026-08-14 22:45 UTC",
+ "count": 266,
  "jobs": [
   {
    "title": "Mobile Software Engineer Intern - Global E-Commerce",
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7673663349758675205",
+   "posted": "2026-08-14",
+   "found": "2026-08-14",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - User Modeling and Personalization",
+   "company": "Snap",
+   "location": "LA | Bellevue, WA",
+   "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Research-Intern--User-Modeling-and-Personalization_R0046464-1",
    "posted": "2026-08-14",
    "found": "2026-08-14",
    "phd": false
@@ -25,6 +34,15 @@
    "company": "Notion",
    "location": "San Francisco, California | New York, New York | United States | Remote",
    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+   "posted": "2026-08-14",
+   "found": "2026-08-14",
+   "phd": false
+  },
+  {
+   "title": "Optoelectronics Device Engineer Intern",
+   "company": "Microsoft",
+   "location": "Cambridge, UK",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962583",
    "posted": "2026-08-14",
    "found": "2026-08-14",
    "phd": false
@@ -1185,7 +1203,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1194,7 +1212,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
