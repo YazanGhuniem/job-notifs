@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-15 22:44 UTC",
- "count": 265,
+ "updated": "2026-08-15 23:08 UTC",
+ "count": 266,
  "jobs": [
   {
    "title": "Mobile Software Engineer Intern - Global E-Commerce",
@@ -1092,6 +1092,15 @@
    "phd": false
   },
   {
+   "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/278578",
+   "posted": "2026-07-30",
+   "found": "2026-07-30",
+   "phd": false
+  },
+  {
    "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -1194,7 +1203,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1203,7 +1212,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
