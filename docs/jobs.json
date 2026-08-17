@@ -1,7 +1,25 @@
 {
- "updated": "2026-08-17 13:58 UTC",
- "count": 263,
+ "updated": "2026-08-17 14:21 UTC",
+ "count": 265,
  "jobs": [
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Governance",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7674029136531015941",
+   "posted": "2026-08-17",
+   "found": "2026-08-17",
+   "phd": false
+  },
+  {
+   "title": "Data Engineer Intern - Data Platform Global Live",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7674032146438162693",
+   "posted": "2026-08-17",
+   "found": "2026-08-17",
+   "phd": false
+  },
   {
    "title": "Mobile Software Engineer Intern - Global E-Commerce",
    "company": "TikTok",
@@ -1203,7 +1221,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1212,7 +1230,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
