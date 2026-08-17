@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-17 14:21 UTC",
- "count": 265,
+ "updated": "2026-08-17 14:50 UTC",
+ "count": 266,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - E-Commerce Governance",
@@ -16,6 +16,15 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7674032146438162693",
+   "posted": "2026-08-17",
+   "found": "2026-08-17",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern",
+   "company": "Datadog",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
+   "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
    "posted": "2026-08-17",
    "found": "2026-08-17",
    "phd": false
