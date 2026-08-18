@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-18 23:10 UTC",
- "count": 267,
+ "updated": "2026-08-18 23:42 UTC",
+ "count": 268,
  "jobs": [
   {
    "title": "Data Science Project Intern - Advertisement Team",
@@ -43,6 +43,15 @@
    "company": "NVIDIA",
    "location": "2 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645",
+   "posted": "2026-08-18",
+   "found": "2026-08-18",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Intuit",
+   "location": "NYC",
+   "url": "https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/99410270400",
    "posted": "2026-08-18",
    "found": "2026-08-18",
    "phd": false
