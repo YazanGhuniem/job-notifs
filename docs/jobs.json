@@ -1,7 +1,43 @@
 {
- "updated": "2026-08-18 09:19 UTC",
- "count": 265,
+ "updated": "2026-08-18 09:55 UTC",
+ "count": 269,
  "jobs": [
+  {
+   "title": "Data Science Project Intern - Advertisement Team",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7675080308216154373",
+   "posted": "2026-08-18",
+   "found": "2026-08-18",
+   "phd": false
+  },
+  {
+   "title": "Category Management Project Intern",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7674880292247406901",
+   "posted": "2026-08-18",
+   "found": "2026-08-18",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7675129440242010421",
+   "posted": "2026-08-18",
+   "found": "2026-08-18",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - TikTok Search Data Infra",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7675128776856029445",
+   "posted": "2026-08-18",
+   "found": "2026-08-18",
+   "phd": false
+  },
   {
    "title": "Software Engineering Intern, NCCL - 2026",
    "company": "NVIDIA",
@@ -1239,7 +1275,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1248,7 +1284,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
