@@ -1,24 +1,15 @@
 {
- "updated": "2026-08-19 07:59 UTC",
- "count": 272,
+ "updated": "2026-08-19 08:31 UTC",
+ "count": 271,
  "jobs": [
   {
-   "title": "NVIDIA 2027 Internships: Software Engineering",
+   "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475",
    "posted": "2026-08-19",
    "found": "2026-08-19",
-   "phd": false
-  },
-  {
-   "title": "NVIDIA 2027 Internships: Deep Learning",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
-   "posted": "2026-08-19",
-   "found": "2026-08-19",
-   "phd": false
+   "phd": true
   },
   {
    "title": "NVIDIA 2027 Internships: Systems Software Engineering",
@@ -30,19 +21,19 @@
    "phd": false
   },
   {
-   "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475",
-   "posted": "2026-08-19",
-   "found": "2026-08-19",
-   "phd": true
-  },
-  {
    "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
+  },
+  {
+   "title": "NVIDIA 2027 Internships: Software Engineering",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
    "posted": "2026-08-19",
    "found": "2026-08-19",
    "phd": false
@@ -55,6 +46,15 @@
    "posted": "2026-08-19",
    "found": "2026-08-19",
    "phd": true
+  },
+  {
+   "title": "NVIDIA 2027 Internships: Deep Learning",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
   },
   {
    "title": "Data Science Project Intern - Advertisement Team",
@@ -1272,24 +1272,6 @@
    "phd": false
   },
   {
-   "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": true
-  },
-  {
-   "title": "PhD Software Engineering Intern, Decision Intelligence - Fall 2026",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": true
-  },
-  {
    "title": "PhD Research Intern, Generative AI - 2026",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
@@ -1306,6 +1288,24 @@
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
+  },
+  {
+   "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": true
+  },
+  {
+   "title": "PhD Software Engineering Intern, Decision Intelligence - Fall 2026",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": true
   },
   {
    "title": "Student Researcher, PhD, Fall 2026",
@@ -2071,15 +2071,6 @@
    "posted": "2026-04-14",
    "found": "2026-07-28",
    "phd": true
-  },
-  {
-   "title": "Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing",
-   "company": "Amazon",
-   "location": "Pasadena, California, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing",
-   "posted": "2026-04-09",
-   "found": "2026-07-28",
-   "phd": false
   },
   {
    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
