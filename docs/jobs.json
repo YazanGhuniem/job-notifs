@@ -1,7 +1,61 @@
 {
- "updated": "2026-08-19 06:21 UTC",
- "count": 266,
+ "updated": "2026-08-19 07:12 UTC",
+ "count": 272,
  "jobs": [
+  {
+   "title": "NVIDIA 2027 Internships: Software Engineering",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
+  },
+  {
+   "title": "NVIDIA 2027 Internships: Deep Learning",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
+  },
+  {
+   "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
+  },
+  {
+   "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": true
+  },
+  {
+   "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
+  },
+  {
+   "title": "NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": true
+  },
   {
    "title": "Data Science Project Intern - Advertisement Team",
    "company": "TikTok",
@@ -1275,7 +1329,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1284,7 +1338,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
