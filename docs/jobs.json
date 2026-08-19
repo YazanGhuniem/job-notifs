@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-19 04:23 UTC",
- "count": 267,
+ "updated": "2026-08-19 04:58 UTC",
+ "count": 266,
  "jobs": [
   {
    "title": "Data Science Project Intern - Advertisement Team",
@@ -1275,7 +1275,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1284,7 +1284,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1888,15 +1888,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/269819",
-   "posted": "2026-05-06",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Integration Engineer Intern - Software Integration Engineer - Optimus",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/269809",
    "posted": "2026-05-06",
    "found": "2026-07-28",
    "phd": false
