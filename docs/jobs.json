@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-20 08:02 UTC",
- "count": 281,
+ "updated": "2026-08-20 09:02 UTC",
+ "count": 280,
  "jobs": [
   {
    "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
@@ -1419,7 +1419,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1428,7 +1428,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1880,15 +1880,6 @@
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
    "posted": "2026-06-06",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Software Engineer Intern",
-   "company": "Rippling",
-   "location": "SF",
-   "url": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781",
-   "posted": "2026-06-05",
    "found": "2026-07-28",
    "phd": false
   },
