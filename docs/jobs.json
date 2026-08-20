@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-20 12:19 UTC",
- "count": 283,
+ "updated": "2026-08-20 13:24 UTC",
+ "count": 287,
  "jobs": [
   {
    "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
@@ -91,6 +91,42 @@
    "posted": "2026-08-20",
    "found": "2026-08-20",
    "phd": true
+  },
+  {
+   "title": "Information Security Co-op \u2013 Identity & Access Management \u2013 Spring 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Spring-2027_R71590",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Information Security Co-op - Cyber Threat Interdiction - Summer 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Information Security Co-op \u2013 Code Security \u2013 Spring 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Code-Security---Spring-2027_R71575",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
   },
   {
    "title": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
