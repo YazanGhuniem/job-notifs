@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-20 22:13 UTC",
- "count": 288,
+ "updated": "2026-08-20 22:50 UTC",
+ "count": 289,
  "jobs": [
   {
    "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
@@ -91,6 +91,15 @@
    "posted": "2026-08-20",
    "found": "2026-08-20",
    "phd": true
+  },
+  {
+   "title": "Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027",
+   "company": "Tesla",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/280820",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
   },
   {
    "title": "Information Security Co-op \u2013 Identity & Access Management \u2013 Spring 2027",
@@ -1491,7 +1500,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1500,7 +1509,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
