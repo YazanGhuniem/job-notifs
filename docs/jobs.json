@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-20 09:02 UTC",
- "count": 280,
+ "updated": "2026-08-20 09:56 UTC",
+ "count": 283,
  "jobs": [
   {
    "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
@@ -73,6 +73,24 @@
    "posted": "2026-08-20",
    "found": "2026-08-20",
    "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7675847556668295429",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7675845333947812149",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": true
   },
   {
    "title": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
@@ -1880,6 +1898,15 @@
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
    "posted": "2026-06-06",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Software Engineer Intern",
+   "company": "Rippling",
+   "location": "SF",
+   "url": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781",
+   "posted": "2026-06-05",
    "found": "2026-07-28",
    "phd": false
   },
