@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-20 23:14 UTC",
- "count": 289,
+ "updated": "2026-08-20 23:46 UTC",
+ "count": 290,
  "jobs": [
   {
    "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
@@ -142,6 +142,15 @@
    "company": "Fifth Third Bank",
    "location": "Cincinnati, OH",
    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Code-Security---Spring-2027_R71575",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern (2027 Start) - Winter",
+   "company": "Databricks",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
    "posted": "2026-08-20",
    "found": "2026-08-20",
    "phd": false
