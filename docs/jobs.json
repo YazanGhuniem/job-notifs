@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-21 20:47 UTC",
- "count": 289,
+ "updated": "2026-08-21 21:12 UTC",
+ "count": 290,
  "jobs": [
   {
    "title": "Data Engineer Intern - E-commerce",
@@ -1781,6 +1781,15 @@
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/273810",
    "posted": "2026-06-12",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "2027 Software Engineer Intern",
+   "company": "Anduril",
+   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "posted": "2026-06-10",
    "found": "2026-07-28",
    "phd": false
   },
