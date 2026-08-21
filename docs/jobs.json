@@ -1,7 +1,16 @@
 {
- "updated": "2026-08-21 09:57 UTC",
- "count": 284,
+ "updated": "2026-08-21 10:21 UTC",
+ "count": 290,
  "jobs": [
+  {
+   "title": "Data Engineer Intern - E-commerce",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7676250516494436661",
+   "posted": "2026-08-21",
+   "found": "2026-08-21",
+   "phd": false
+  },
   {
    "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
    "company": "TikTok",
@@ -97,6 +106,51 @@
    "company": "Tesla",
    "location": "Fremont, CA",
    "url": "https://www.tesla.com/careers/search/job/280820",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Information Security Co-op \u2013 Identity & Access Management \u2013 Spring 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Spring-2027_R71590",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Information Security Co-op \u2013 Identity & Access Management \u2013 Summer 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Information Security Co-op - Cyber Threat Interdiction - Summer 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Information Security Co-op \u2013 Code Security \u2013 Spring 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Code-Security---Spring-2027_R71575",
    "posted": "2026-08-20",
    "found": "2026-08-20",
    "phd": false
@@ -1464,7 +1518,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1473,7 +1527,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
