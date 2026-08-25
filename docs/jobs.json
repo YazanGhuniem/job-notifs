@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-25 10:56 UTC",
- "count": 296,
+ "updated": "2026-08-25 11:17 UTC",
+ "count": 298,
  "jobs": [
   {
    "title": "AI Research Intern, TAO Multi-Modal Model Development - 2026",
@@ -160,6 +160,15 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7675163472469444917",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7675847556668295429",
    "posted": "2026-08-20",
    "found": "2026-08-20",
    "phd": false
@@ -412,6 +421,15 @@
    "company": "Notion",
    "location": "San Francisco, California | New York, New York | United States | Remote",
    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+   "posted": "2026-08-14",
+   "found": "2026-08-14",
+   "phd": false
+  },
+  {
+   "title": "Optoelectronics Device Engineer Intern",
+   "company": "Microsoft",
+   "location": "Cambridge, UK",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962583",
    "posted": "2026-08-14",
    "found": "2026-08-14",
    "phd": false
