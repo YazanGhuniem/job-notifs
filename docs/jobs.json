@@ -1,12 +1,21 @@
 {
- "updated": "2026-08-26 14:11 UTC",
- "count": 298,
+ "updated": "2026-08-26 15:57 UTC",
+ "count": 299,
  "jobs": [
   {
    "title": "AI Infrastructure Engineer Intern - Recommendation & LLM",
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7672671220798818613",
+   "posted": "2026-08-26",
+   "found": "2026-08-26",
+   "phd": false
+  },
+  {
+   "title": "AI Hardware Physical Design Engineer Intern - AI Hardware",
+   "company": "Tesla",
+   "location": "Palo Alto, CA | Austin, TX | Fort Collins, CO",
+   "url": "https://www.tesla.com/careers/search/job/281233",
    "posted": "2026-08-26",
    "found": "2026-08-26",
    "phd": false
@@ -1617,7 +1626,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1626,7 +1635,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
