@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-26 16:42 UTC",
- "count": 299,
+ "updated": "2026-08-26 18:32 UTC",
+ "count": 300,
  "jobs": [
   {
    "title": "AI Infrastructure Engineer Intern - Recommendation & LLM",
@@ -289,6 +289,24 @@
    "posted": "2026-08-19",
    "found": "2026-08-19",
    "phd": false
+  },
+  {
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "company": "Netflix",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "posted": "2026-08-19",
+   "found": "2026-08-26",
+   "phd": true
+  },
+  {
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "company": "Netflix",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "posted": "2026-08-19",
+   "found": "2026-08-26",
+   "phd": true
   },
   {
    "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
@@ -2485,15 +2503,6 @@
    "posted": "2025-12-11",
    "found": "2026-07-28",
    "phd": false
-  },
-  {
-   "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
-   "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
-   "posted": "2025-12-10",
-   "found": "2026-07-28",
-   "phd": true
   },
   {
    "title": "Robotics - Software Development Engineer Intern/Co-op - 2026",
