@@ -1,7 +1,16 @@
 {
- "updated": "2026-08-26 00:29 UTC",
- "count": 298,
+ "updated": "2026-08-26 02:08 UTC",
+ "count": 297,
  "jobs": [
+  {
+   "title": "AI Infrastructure Engineer Intern - Recommendation & LLM",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7672671220798818613",
+   "posted": "2026-08-26",
+   "found": "2026-08-26",
+   "phd": false
+  },
   {
    "title": "AI Research Intern, TAO Multi-Modal Model Development - 2026",
    "company": "NVIDIA",
@@ -984,15 +993,6 @@
    "phd": false
   },
   {
-   "title": "Data Engineer Intern - Cell Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/278622",
-   "posted": "2026-08-04",
-   "found": "2026-08-04",
-   "phd": false
-  },
-  {
    "title": "Research Scientist Intern - Trust and Safety",
    "company": "TikTok",
    "location": "Seattle, WA",
@@ -1900,15 +1900,6 @@
    "posted": "2026-06-09",
    "found": "2026-07-28",
    "phd": true
-  },
-  {
-   "title": "Software Engineer Intern - Software Engineer - Information Security",
-   "company": "Tesla",
-   "location": "Bellevue, WA",
-   "url": "https://www.tesla.com/careers/search/job/270497",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
   },
   {
    "title": "Software Engineer Intern - Software Engineer - IT Apps",
