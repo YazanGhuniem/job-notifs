@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-26 18:32 UTC",
- "count": 300,
+ "updated": "2026-08-26 21:21 UTC",
+ "count": 306,
  "jobs": [
   {
    "title": "AI Infrastructure Engineer Intern - Recommendation & LLM",
@@ -16,6 +16,60 @@
    "company": "Tesla",
    "location": "Palo Alto, CA | Austin, TX | Fort Collins, CO",
    "url": "https://www.tesla.com/careers/search/job/281233",
+   "posted": "2026-08-26",
+   "found": "2026-08-26",
+   "phd": false
+  },
+  {
+   "title": "Fullstack C++ Engineer Intern - Vehicle User Interface",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/280604",
+   "posted": "2026-08-26",
+   "found": "2026-08-26",
+   "phd": false
+  },
+  {
+   "title": "Embedded Software Engineer Intern - Firmware Platforms",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281102",
+   "posted": "2026-08-26",
+   "found": "2026-08-26",
+   "phd": false
+  },
+  {
+   "title": "Fullstack Software Engineer Intern - Fleetnet - Fullstack Software Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281099",
+   "posted": "2026-08-26",
+   "found": "2026-08-26",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Maps & Navigation Validation",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281271",
+   "posted": "2026-08-26",
+   "found": "2026-08-26",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Maps & Navigation - Robotaxi",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/280960",
+   "posted": "2026-08-26",
+   "found": "2026-08-26",
+   "phd": false
+  },
+  {
+   "title": "Android Engineer Intern - Mobile Software",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/280605",
    "posted": "2026-08-26",
    "found": "2026-08-26",
    "phd": false
