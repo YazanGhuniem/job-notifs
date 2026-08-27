@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-27 00:54 UTC",
- "count": 305,
+ "updated": "2026-08-27 10:41 UTC",
+ "count": 306,
  "jobs": [
   {
    "title": "AI Infrastructure Engineer Intern - Recommendation & LLM",
@@ -1698,7 +1698,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1707,7 +1707,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -2683,6 +2683,15 @@
    "posted": "2023-11-07",
    "found": "2026-07-28",
    "phd": true
+  },
+  {
+   "title": "Information Security Engineer, Internship",
+   "company": "Palantir",
+   "location": "New York, NY | United States",
+   "url": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
+   "posted": "2022-08-03",
+   "found": "2026-08-27",
+   "phd": false
   },
   {
    "title": "Forward Deployed Software Engineer, Internship - US Government",
