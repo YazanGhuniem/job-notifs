@@ -1,7 +1,16 @@
 {
- "updated": "2026-08-28 04:58 UTC",
- "count": 311,
+ "updated": "2026-08-28 17:07 UTC",
+ "count": 313,
  "jobs": [
+  {
+   "title": "Backend Engineer Intern - Infrastructure Engineering",
+   "company": "Tesla",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/281467",
+   "posted": "2026-08-28",
+   "found": "2026-08-28",
+   "phd": false
+  },
   {
    "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
    "company": "Tesla",
@@ -349,6 +358,15 @@
    "company": "Fifth Third Bank",
    "location": "Cincinnati, OH",
    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Information Security Co-op - Cyber Threat Interdiction - Summer 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582",
    "posted": "2026-08-20",
    "found": "2026-08-20",
    "phd": false
