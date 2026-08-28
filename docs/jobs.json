@@ -1,7 +1,34 @@
 {
- "updated": "2026-08-27 20:49 UTC",
- "count": 307,
+ "updated": "2026-08-28 04:58 UTC",
+ "count": 311,
  "jobs": [
+  {
+   "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281097",
+   "posted": "2026-08-27",
+   "found": "2026-08-28",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Information Security - Spring 2027",
+   "company": "Tesla",
+   "location": "Bellevue, WA",
+   "url": "https://www.tesla.com/careers/search/job/281473",
+   "posted": "2026-08-27",
+   "found": "2026-08-28",
+   "phd": false
+  },
+  {
+   "title": "Automated Diagnostics Intern - Software Engineer",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281623",
+   "posted": "2026-08-27",
+   "found": "2026-08-28",
+   "phd": false
+  },
   {
    "title": "Developer Technology Engineering Intern - 2027",
    "company": "NVIDIA",
@@ -9,6 +36,15 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
    "posted": "2026-08-27",
    "found": "2026-08-27",
+   "phd": false
+  },
+  {
+   "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+   "company": "Amazon",
+   "location": "Cupertino, California, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+   "posted": "2026-08-27",
+   "found": "2026-08-28",
    "phd": false
   },
   {
@@ -619,15 +655,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/279600",
-   "posted": "2026-08-12",
-   "found": "2026-08-12",
-   "phd": false
-  },
-  {
-   "title": "Platform Software Engineer 1 Intern - Full-time Intern Conversion",
-   "company": "Oracle",
-   "location": "United States",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415",
    "posted": "2026-08-12",
    "found": "2026-08-12",
    "phd": false
@@ -1716,7 +1743,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1725,7 +1752,16 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Applied Data Solutions Program Intern",
+   "company": "Apple",
+   "location": "Austin, TX",
+   "url": "https://jobs.apple.com/en-us/details/200673612",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
