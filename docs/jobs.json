@@ -1,7 +1,16 @@
 {
- "updated": "2026-08-28 17:07 UTC",
- "count": 313,
+ "updated": "2026-08-29 01:02 UTC",
+ "count": 315,
  "jobs": [
+  {
+   "title": "Software Engineer Intern - Full Stack",
+   "company": "Intuit",
+   "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
+   "posted": "2026-08-29",
+   "found": "2026-08-29",
+   "phd": false
+  },
   {
    "title": "Backend Engineer Intern - Infrastructure Engineering",
    "company": "Tesla",
@@ -2163,15 +2172,6 @@
    "phd": false
   },
   {
-   "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/270618",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -2334,6 +2334,24 @@
    "phd": false
   },
   {
+   "title": "Software Engineer Intern",
+   "company": "Salesforce",
+   "location": "Palo Alto, CA | Seattle, WA | Indianapolis, IN | SF | NYC | Bellevue, WA | Atlanta, GA | Burlington, MA",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771",
+   "posted": "2026-05-07",
+   "found": "2026-08-29",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Salesforce",
+   "location": "Palo Alto, CA | Seattle, WA | Indianapolis, IN | SF | NYC | Bellevue, WA | Atlanta, GA | Burlington, MA",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+   "posted": "2026-05-07",
+   "found": "2026-08-29",
+   "phd": false
+  },
+  {
    "title": "Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -2363,7 +2381,7 @@
   {
    "title": "Software Engineer Intern (Winter 2027)",
    "company": "Cohere",
-   "location": "Canada | United States | Remote",
+   "location": "Canada | Dubai | London | United States | United Kingdom | Remote",
    "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
    "posted": "2026-05-01",
    "found": "2026-07-28",
