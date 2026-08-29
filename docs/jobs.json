@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-29 01:02 UTC",
- "count": 315,
+ "updated": "2026-08-29 07:56 UTC",
+ "count": 312,
  "jobs": [
   {
    "title": "Software Engineer Intern - Full Stack",
@@ -1974,24 +1974,6 @@
    "phd": false
   },
   {
-   "title": "Data Capture Engineering Intern - Data Capture Application Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/273927",
-   "posted": "2026-06-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/273820",
-   "posted": "2026-06-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -2032,15 +2014,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/273723",
-   "posted": "2026-06-12",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/273810",
    "posted": "2026-06-12",
    "found": "2026-07-28",
    "phd": false
