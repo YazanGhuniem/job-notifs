@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-30 10:46 UTC",
- "count": 310,
+ "updated": "2026-08-30 15:05 UTC",
+ "count": 311,
  "jobs": [
   {
    "title": "Software Engineer Intern - Full Stack",
@@ -1791,6 +1791,15 @@
    "url": "https://www.tesla.com/careers/search/job/278203",
    "posted": "2026-07-27",
    "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Access Control Systems Integration Engineer Intern - Vehicle Software",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/277192",
+   "posted": "2026-07-17",
+   "found": "2026-08-30",
    "phd": false
   },
   {
