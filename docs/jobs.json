@@ -1,7 +1,16 @@
 {
- "updated": "2026-08-31 16:34 UTC",
- "count": 301,
+ "updated": "2026-08-31 21:41 UTC",
+ "count": 300,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
+   "company": "Waymo",
+   "location": "San Francisco, California, United States",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323",
+   "posted": "2026-08-31",
+   "found": "2026-08-31",
+   "phd": true
+  },
   {
    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
    "company": "TikTok",
@@ -16,6 +25,15 @@
    "company": "TikTok",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7676650607912601861",
+   "posted": "2026-08-31",
+   "found": "2026-08-31",
+   "phd": false
+  },
+  {
+   "title": "Mobile App Intern - Mobile Applications - Automated Diagnostics",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281625",
    "posted": "2026-08-31",
    "found": "2026-08-31",
    "phd": false
@@ -1713,15 +1731,6 @@
    "phd": false
   },
   {
-   "title": "Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/278249",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
@@ -1799,15 +1808,6 @@
    "location": "Austin, TX",
    "url": "https://jobs.apple.com/en-us/details/200673612",
    "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Vehicle Software Intern - Vehicle Controls",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/278203",
-   "posted": "2026-07-27",
    "found": "2026-07-28",
    "phd": false
   },
@@ -1933,15 +1933,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/273819",
-   "posted": "2026-06-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/273933",
    "posted": "2026-06-16",
    "found": "2026-07-28",
    "phd": false
