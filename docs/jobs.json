@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-31 08:58 UTC",
- "count": 303,
+ "updated": "2026-08-31 16:34 UTC",
+ "count": 301,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
@@ -21,12 +21,21 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Full Stack",
-   "company": "Intuit",
-   "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
-   "posted": "2026-08-29",
-   "found": "2026-08-29",
+   "title": "Software Engineering Intern, BS, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Austin, TX, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027",
+   "posted": "2026-08-31",
+   "found": "2026-08-31",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, MS, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Austin, TX, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
+   "posted": "2026-08-31",
+   "found": "2026-08-31",
    "phd": false
   },
   {
@@ -250,15 +259,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7676276048527214901",
-   "posted": "2026-08-22",
-   "found": "2026-08-22",
-   "phd": false
-  },
-  {
-   "title": "AI Software Engineer Intern - Edge",
-   "company": "Microsoft",
-   "location": "Redmond, WA | Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
    "posted": "2026-08-22",
    "found": "2026-08-22",
    "phd": false
@@ -1812,15 +1812,6 @@
    "phd": false
   },
   {
-   "title": "Access Control Systems Integration Engineer Intern - Vehicle Software",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/277192",
-   "posted": "2026-07-17",
-   "found": "2026-08-30",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
    "company": "Cloudflare",
    "location": "In-Office",
@@ -2528,15 +2519,6 @@
    "location": "Honolulu, HI | United States",
    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
    "posted": "2025-12-11",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Development Engineer Internship - Fall 2026 (US)",
-   "company": "Amazon",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
-   "posted": "2025-10-27",
    "found": "2026-07-28",
    "phd": false
   },
