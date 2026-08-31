@@ -1,7 +1,25 @@
 {
- "updated": "2026-08-31 02:54 UTC",
- "count": 310,
+ "updated": "2026-08-31 08:58 UTC",
+ "count": 303,
  "jobs": [
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7676652813409552645",
+   "posted": "2026-08-31",
+   "found": "2026-08-31",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7676650607912601861",
+   "posted": "2026-08-31",
+   "found": "2026-08-31",
+   "phd": false
+  },
   {
    "title": "Software Engineer Intern - Full Stack",
    "company": "Intuit",
@@ -1803,15 +1821,6 @@
    "phd": false
   },
   {
-   "title": "Energy Battery Firmware Intern - Software Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/276987",
-   "posted": "2026-07-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
    "company": "Cloudflare",
    "location": "In-Office",
@@ -1821,29 +1830,11 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/276333",
-   "posted": "2026-07-10",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Applied Scientist Intern - Recommendation AI Lab",
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7659527183984019765",
    "posted": "2026-07-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/275805",
-   "posted": "2026-07-03",
    "found": "2026-07-28",
    "phd": false
   },
@@ -1875,28 +1866,10 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/275558",
-   "posted": "2026-07-01",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Machine Learning Intern - AI Engineer - Tesla AI",
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/275331",
-   "posted": "2026-07-01",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/275689",
    "posted": "2026-07-01",
    "found": "2026-07-28",
    "phd": false
@@ -1974,15 +1947,6 @@
    "phd": false
   },
   {
-   "title": "Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/273822",
-   "posted": "2026-06-16",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -2006,15 +1970,6 @@
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7532254890627696903",
    "posted": "2026-06-15",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Commercial UI Software Engineer Intern - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/273723",
-   "posted": "2026-06-12",
    "found": "2026-07-28",
    "phd": false
   },
@@ -2086,24 +2041,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/263759",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Machine Learning Engineer Intern - Reliability Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/272619",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Site Controller Software Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/272615",
    "posted": "2026-06-07",
    "found": "2026-07-28",
    "phd": false
