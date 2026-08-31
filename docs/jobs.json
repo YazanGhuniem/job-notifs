@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-30 23:58 UTC",
- "count": 311,
+ "updated": "2026-08-31 02:54 UTC",
+ "count": 310,
  "jobs": [
   {
    "title": "Software Engineer Intern - Full Stack",
@@ -426,19 +426,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -2077,15 +2077,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/271382",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Multiple Teams",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/271372",
    "posted": "2026-06-07",
    "found": "2026-07-28",
    "phd": false
