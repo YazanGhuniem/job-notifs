@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31 21:41 UTC",
+ "updated": "2026-09-01 00:50 UTC",
  "count": 300,
  "jobs": [
   {
@@ -36,6 +36,15 @@
    "url": "https://www.tesla.com/careers/search/job/281625",
    "posted": "2026-08-31",
    "found": "2026-08-31",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "company": "Stripe",
+   "location": "San Francisco, Seattle, New York City",
+   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+   "posted": "2026-08-31",
+   "found": "2026-09-01",
    "phd": false
   },
   {
@@ -1719,15 +1728,6 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
    "posted": "2026-07-29",
    "found": "2026-07-29",
-   "phd": false
-  },
-  {
-   "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
-   "company": "TikTok",
-   "location": "NYC",
-   "url": "https://lifeattiktok.com/search/7667248888103782661",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
    "phd": false
   },
   {
