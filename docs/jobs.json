@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-01 18:40 UTC",
- "count": 312,
+ "updated": "2026-09-01 21:28 UTC",
+ "count": 313,
  "jobs": [
   {
    "title": "Software Engineer Intern - Core AI Compiler & Runtime",
@@ -39,15 +39,6 @@
    "phd": false
   },
   {
-   "title": "Data Analytics Apprenticeship, February 2027 Start",
-   "company": "Google",
-   "location": "New York, NY, USA | Atlanta, GA, USA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/132315893450318534-data-analytics-apprenticeship-february-2027-start",
-   "posted": "2026-09-01",
-   "found": "2026-09-01",
-   "phd": false
-  },
-  {
    "title": "Information Technology Apprenticeship, February 2027 Start",
    "company": "Google",
    "location": "Austin, TX, USA | New York, NY, USA",
@@ -57,10 +48,28 @@
    "phd": false
   },
   {
+   "title": "Data Analytics Apprenticeship, February 2027 Start",
+   "company": "Google",
+   "location": "New York, NY, USA | Atlanta, GA, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/132315893450318534-data-analytics-apprenticeship-february-2027-start",
+   "posted": "2026-09-01",
+   "found": "2026-09-01",
+   "phd": false
+  },
+  {
    "title": "Software Engineer Co-Op - Enterprise Finance Applications - Spring 2027",
    "company": "Fifth Third Bank",
    "location": "Cincinnati, OH",
    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587",
+   "posted": "2026-09-01",
+   "found": "2026-09-01",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Atlassian",
+   "location": "Seattle, WA | SF",
+   "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
    "posted": "2026-09-01",
    "found": "2026-09-01",
    "phd": false
@@ -543,19 +552,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -1896,7 +1905,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1905,7 +1914,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
