@@ -1,7 +1,25 @@
 {
- "updated": "2026-09-01 05:47 UTC",
- "count": 301,
+ "updated": "2026-09-01 10:35 UTC",
+ "count": 302,
  "jobs": [
+  {
+   "title": "Software Engineer Intern - Core AI Compiler & Runtime",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281951",
+   "posted": "2026-09-01",
+   "found": "2026-09-01",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering",
+   "company": "Tesla",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/281462",
+   "posted": "2026-09-01",
+   "found": "2026-09-01",
+   "phd": false
+  },
   {
    "title": "Software Engineer Co-Op - Enterprise Finance Applications - Spring 2027",
    "company": "Fifth Third Bank",
@@ -1717,15 +1735,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7667690418804902149",
-   "posted": "2026-07-29",
-   "found": "2026-07-29",
-   "phd": false
-  },
-  {
-   "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7667613782697232693",
    "posted": "2026-07-29",
    "found": "2026-07-29",
    "phd": false
