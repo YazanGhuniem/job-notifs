@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-01 00:50 UTC",
- "count": 300,
+ "updated": "2026-09-01 05:47 UTC",
+ "count": 301,
  "jobs": [
+  {
+   "title": "Software Engineer Co-Op - Enterprise Finance Applications - Spring 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587",
+   "posted": "2026-09-01",
+   "found": "2026-09-01",
+   "phd": false
+  },
   {
    "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
    "company": "Waymo",
@@ -63,6 +72,15 @@
    "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
    "posted": "2026-08-31",
    "found": "2026-08-31",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "Adobe",
+   "location": "Seattle, WA | SF | Austin, TX | San Jose, CA | NYC | Lehi, UT",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+   "posted": "2026-08-31",
+   "found": "2026-09-01",
    "phd": false
   },
   {
@@ -1677,15 +1695,6 @@
    "phd": false
   },
   {
-   "title": "Software Compiler Engineer Intern - AI Inference",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/278847",
-   "posted": "2026-08-01",
-   "found": "2026-08-01",
-   "phd": false
-  },
-  {
    "title": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -1788,7 +1797,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1797,7 +1806,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
