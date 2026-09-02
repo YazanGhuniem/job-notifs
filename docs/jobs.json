@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-02 01:10 UTC",
- "count": 317,
+ "updated": "2026-09-02 05:58 UTC",
+ "count": 315,
  "jobs": [
   {
    "title": "Vehicle Software Engineer Intern - Diagnostic User Interface",
@@ -25,6 +25,15 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/281940",
+   "posted": "2026-09-02",
+   "found": "2026-09-02",
+   "phd": false
+  },
+  {
+   "title": "Physics Engine Development Engineer Intern - Optimus",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282147",
    "posted": "2026-09-02",
    "found": "2026-09-02",
    "phd": false
@@ -1857,15 +1866,6 @@
    "phd": false
   },
   {
-   "title": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/278703",
-   "posted": "2026-07-31",
-   "found": "2026-07-31",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -1950,7 +1950,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1959,7 +1959,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -2033,15 +2033,6 @@
    "location": "Washington, D.C. | United States",
    "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
    "posted": "2026-07-01",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Data Engineer Intern - Applications Engineering",
-   "company": "Tesla",
-   "location": "Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/272928",
-   "posted": "2026-06-30",
    "found": "2026-07-28",
    "phd": false
   },
@@ -2152,15 +2143,6 @@
    "posted": "2026-06-09",
    "found": "2026-07-28",
    "phd": true
-  },
-  {
-   "title": "Software Engineer Intern - Software Engineer - IT Apps",
-   "company": "Tesla",
-   "location": "Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/271209",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
   },
   {
    "title": "Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering",
