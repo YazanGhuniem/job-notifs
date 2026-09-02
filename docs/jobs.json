@@ -1,7 +1,43 @@
 {
- "updated": "2026-09-01 23:27 UTC",
- "count": 313,
+ "updated": "2026-09-02 01:10 UTC",
+ "count": 317,
  "jobs": [
+  {
+   "title": "Vehicle Software Engineer Intern - Diagnostic User Interface",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281921",
+   "posted": "2026-09-02",
+   "found": "2026-09-02",
+   "phd": false
+  },
+  {
+   "title": "Robotaxi Simulation Engineer Intern - Systems Modeling & Optimization",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281936",
+   "posted": "2026-09-02",
+   "found": "2026-09-02",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - Charging Data Modeling",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281940",
+   "posted": "2026-09-02",
+   "found": "2026-09-02",
+   "phd": false
+  },
+  {
+   "title": "Data Science Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982897",
+   "posted": "2026-09-02",
+   "found": "2026-09-02",
+   "phd": false
+  },
   {
    "title": "Software Engineer Intern - Core AI Compiler & Runtime",
    "company": "Tesla",
@@ -561,19 +597,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
