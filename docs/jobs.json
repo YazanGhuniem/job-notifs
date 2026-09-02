@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-02 10:26 UTC",
- "count": 316,
+ "updated": "2026-09-02 14:35 UTC",
+ "count": 317,
  "jobs": [
   {
    "title": "Ecosystem Analyst Intern - TikTok LIVE",
@@ -43,6 +43,15 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/282147",
+   "posted": "2026-09-02",
+   "found": "2026-09-02",
+   "phd": false
+  },
+  {
+   "title": "Internship - Machine Learning Research Engineer",
+   "company": "Perplexity",
+   "location": "Berlin | Germany | Remote",
+   "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
    "posted": "2026-09-02",
    "found": "2026-09-02",
    "phd": false
@@ -615,19 +624,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -1959,7 +1968,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -1968,7 +1977,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
