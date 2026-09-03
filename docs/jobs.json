@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-03 21:10 UTC",
- "count": 328,
+ "updated": "2026-09-03 23:21 UTC",
+ "count": 329,
  "jobs": [
   {
    "title": "2027 Summer Intern, BS, SysEng Software Engineer",
@@ -667,6 +667,24 @@
    "posted": "2026-08-19",
    "found": "2026-08-19",
    "phd": false
+  },
+  {
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "company": "Netflix",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "posted": "2026-08-19",
+   "found": "2026-08-26",
+   "phd": true
+  },
+  {
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "company": "Netflix",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "posted": "2026-08-19",
+   "found": "2026-08-26",
+   "phd": true
   },
   {
    "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
@@ -1371,21 +1389,21 @@
    "phd": false
   },
   {
+   "title": "Machine Learning Infrastructure Engineer Intern - Ads Infrastructure",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7668881813744191749",
+   "posted": "2026-08-04",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
    "title": "Cell Engineering Intern - Cell Qualification",
    "company": "Tesla",
    "location": "Palo Alto, CA | San Diego, CA",
    "url": "https://www.tesla.com/careers/search/job/278620",
    "posted": "2026-08-04",
    "found": "2026-08-04",
-   "phd": false
-  },
-  {
-   "title": "Automation Development & Tooling Engineer Intern",
-   "company": "Tesla",
-   "location": "Grand Rapids, MI | Brooklyn Park, MN | Elgin, IL",
-   "url": "https://www.tesla.com/careers/search/job/278963",
-   "posted": "2026-08-04",
-   "found": "2026-09-03",
    "phd": false
   },
   {
@@ -1402,15 +1420,6 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-   "posted": "2026-08-04",
-   "found": "2026-08-04",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Security & Identity Intern",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
    "posted": "2026-08-04",
    "found": "2026-08-04",
    "phd": false
@@ -2505,6 +2514,15 @@
    "phd": false
   },
   {
+   "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
+   "company": "Netflix",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+   "posted": "2026-04-24",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
    "company": "Palantir",
    "location": "Washington, D.C. | United States",
@@ -2789,15 +2807,6 @@
    "location": "Washington, D.C. | United States",
    "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
    "posted": "2025-08-19",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Internship, Android",
-   "company": "Ramp",
-   "location": "New York, NY (HQ) | San Francisco, CA | USA | Remote",
-   "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
-   "posted": "2025-08-07",
    "found": "2026-07-28",
    "phd": false
   },
