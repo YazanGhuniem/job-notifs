@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-03 01:14 UTC",
- "count": 316,
+ "updated": "2026-09-03 05:57 UTC",
+ "count": 318,
  "jobs": [
+  {
+   "title": "Applied Science Intern - PhD",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": true
+  },
   {
    "title": "Ecosystem Analyst Intern - TikTok LIVE",
    "company": "TikTok",
    "location": "LA",
    "url": "https://lifeattiktok.com/search/7678985103851407669",
-   "posted": "2026-09-02",
-   "found": "2026-09-02",
-   "phd": false
-  },
-  {
-   "title": "Vehicle Software Engineer Intern - Diagnostic User Interface",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/281921",
    "posted": "2026-09-02",
    "found": "2026-09-02",
    "phd": false
@@ -484,6 +484,15 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7672930401597671733",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7674029284224092421",
    "posted": "2026-08-20",
    "found": "2026-08-20",
    "phd": false
@@ -2205,6 +2214,15 @@
    "url": "https://www.tesla.com/careers/search/job/253454",
    "posted": "2026-06-07",
    "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Systems Integration Engineer Intern - Body Controls",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/270617",
+   "posted": "2026-06-07",
+   "found": "2026-09-03",
    "phd": false
   },
   {
