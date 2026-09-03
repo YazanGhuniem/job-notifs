@@ -1,7 +1,70 @@
 {
- "updated": "2026-09-03 05:57 UTC",
- "count": 318,
+ "updated": "2026-09-03 10:24 UTC",
+ "count": 326,
  "jobs": [
+  {
+   "title": "Embedded Software Engineer Intern - High Voltage Systems",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282227",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Software Integration Engineer Intern - Battery Management Systems",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282241",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Vehicle UI Development",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282242",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Embedded Software Engineer Intern - Steering - Chassis Systems",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282248",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - AI Tooling",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282291",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Finance Programs",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282303",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Embedded Engineer Intern - Infotainment Platforms",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281100",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": false
+  },
   {
    "title": "Applied Science Intern - PhD",
    "company": "Microsoft",
@@ -10,6 +73,15 @@
    "posted": "2026-09-03",
    "found": "2026-09-03",
    "phd": true
+  },
+  {
+   "title": "Design Verification Engineer Intern",
+   "company": "Apple",
+   "location": "Cupertino, CA",
+   "url": "https://jobs.apple.com/en-us/details/200681368",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": false
   },
   {
    "title": "Ecosystem Analyst Intern - TikTok LIVE",
