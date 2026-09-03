@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03 10:24 UTC",
+ "updated": "2026-09-03 14:39 UTC",
  "count": 326,
  "jobs": [
   {
@@ -453,33 +453,6 @@
    "phd": false
   },
   {
-   "title": "Client Solutions Intern - Global Business Solutions",
-   "company": "TikTok",
-   "location": "NYC",
-   "url": "https://lifeattiktok.com/search/7677467375486765317",
-   "posted": "2026-08-24",
-   "found": "2026-08-25",
-   "phd": false
-  },
-  {
-   "title": "Client Solutions Intern - Global Business Solutions",
-   "company": "TikTok",
-   "location": "LA",
-   "url": "https://lifeattiktok.com/search/7677467375487486213",
-   "posted": "2026-08-24",
-   "found": "2026-08-25",
-   "phd": false
-  },
-  {
-   "title": "Client Solutions Intern",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7677467052537776437",
-   "posted": "2026-08-24",
-   "found": "2026-08-25",
-   "phd": false
-  },
-  {
    "title": "AI Developer Technology Engineer Intern, AI - 2027",
    "company": "NVIDIA",
    "location": "2 Locations",
@@ -595,24 +568,6 @@
    "posted": "2026-08-20",
    "found": "2026-08-20",
    "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7675847556668295429",
-   "posted": "2026-08-20",
-   "found": "2026-08-20",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7675845333947812149",
-   "posted": "2026-08-20",
-   "found": "2026-08-20",
-   "phd": true
   },
   {
    "title": "Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027",
@@ -765,6 +720,15 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
    "posted": "2026-08-19",
    "found": "2026-08-19",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Multiple Teams",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1027438186737957",
+   "posted": "2026-08-19",
+   "found": "2026-09-03",
    "phd": false
   },
   {
@@ -945,6 +909,15 @@
    "url": "https://www.tesla.com/careers/search/job/279600",
    "posted": "2026-08-12",
    "found": "2026-08-12",
+   "phd": false
+  },
+  {
+   "title": "Systems Architecture & Integration Engineer Intern - LV Architecture",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/279766",
+   "posted": "2026-08-12",
+   "found": "2026-09-03",
    "phd": false
   },
   {
@@ -1422,6 +1395,15 @@
    "url": "https://www.tesla.com/careers/search/job/278620",
    "posted": "2026-08-04",
    "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Automation Development & Tooling Engineer Intern",
+   "company": "Tesla",
+   "location": "Grand Rapids, MI | Brooklyn Park, MN | Elgin, IL",
+   "url": "https://www.tesla.com/careers/search/job/278963",
+   "posted": "2026-08-04",
+   "found": "2026-09-03",
    "phd": false
   },
   {
@@ -2064,6 +2046,15 @@
    "phd": false
   },
   {
+   "title": "Access Control Systems Integration Engineer Intern - Vehicle Software",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/277192",
+   "posted": "2026-07-17",
+   "found": "2026-08-30",
+   "phd": false
+  },
+  {
    "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
    "company": "Cloudflare",
    "location": "In-Office",
@@ -2304,6 +2295,15 @@
    "url": "https://www.tesla.com/careers/search/job/270778",
    "posted": "2026-06-07",
    "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Robotics Modeling & Simulation Engineer Intern - Optimus",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/271979",
+   "posted": "2026-06-07",
+   "found": "2026-09-03",
    "phd": false
   },
   {
