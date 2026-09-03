@@ -1,12 +1,21 @@
 {
- "updated": "2026-09-03 18:09 UTC",
- "count": 326,
+ "updated": "2026-09-03 21:10 UTC",
+ "count": 328,
  "jobs": [
   {
    "title": "2027 Summer Intern, BS, SysEng Software Engineer",
    "company": "Waymo",
    "location": "Mountain View, California, USA ",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
+   "company": "Waymo",
+   "location": "San Francisco, California, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
    "posted": "2026-09-03",
    "found": "2026-09-03",
    "phd": false
@@ -658,24 +667,6 @@
    "posted": "2026-08-19",
    "found": "2026-08-19",
    "phd": false
-  },
-  {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
-   "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
-   "posted": "2026-08-19",
-   "found": "2026-08-26",
-   "phd": true
-  },
-  {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
-   "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
-   "posted": "2026-08-19",
-   "found": "2026-08-26",
-   "phd": true
   },
   {
    "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
@@ -1929,15 +1920,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/278578",
-   "posted": "2026-07-30",
-   "found": "2026-07-30",
-   "phd": false
-  },
-  {
    "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -2013,7 +1995,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -2022,7 +2004,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -2217,20 +2199,38 @@
    "phd": true
   },
   {
+   "title": "Applied Scientist Intern - Monetization GenAI - Global Frontier Tech Recruitment Program - 2027 Start - PhD",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7631062649025857797",
+   "posted": "2026-06-15",
+   "found": "2026-09-03",
+   "phd": true
+  },
+  {
+   "title": "Applied Scientist Intern - Multiple Teams",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7633668456744503557",
+   "posted": "2026-06-15",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7629248119245261061",
+   "posted": "2026-06-15",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
    "title": "2027 Software Engineer Intern",
    "company": "Anduril",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
    "posted": "2026-06-10",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "AI Software Engineer Intern - Transaction Platform",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7646621925436131637",
-   "posted": "2026-06-09",
    "found": "2026-07-28",
    "phd": false
   },
@@ -2406,15 +2406,6 @@
    "phd": false
   },
   {
-   "title": "Customer Solutions Analyst Intern - Ovip",
-   "company": "Oracle",
-   "location": "United States",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388",
-   "posted": "2026-05-21",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Machine Learning Intern/Co-op (Winter 2027)",
    "company": "Cohere",
    "location": "Canada | Europe | United States | United Kingdom | Remote",
@@ -2505,12 +2496,12 @@
    "phd": false
   },
   {
-   "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
-   "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
-   "posted": "2026-04-24",
-   "found": "2026-07-28",
+   "title": "Applied Scientist Intern - Multiple Teams",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7633670871815670069",
+   "posted": "2026-04-29",
+   "found": "2026-09-03",
    "phd": false
   },
   {
@@ -2520,6 +2511,15 @@
    "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019",
    "posted": "2026-04-23",
    "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Applied Scientist Intern - Business Integrity - Global Frontier Tech Recruitment Program",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7631063087262419205",
+   "posted": "2026-04-22",
+   "found": "2026-09-03",
    "phd": false
   },
   {
@@ -2586,11 +2586,29 @@
    "phd": true
   },
   {
+   "title": "Software Engineer Project Intern - Model Infrastructure",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7624284785283746053",
+   "posted": "2026-04-03",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
    "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
    "company": "TikTok",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7525650208522193159",
    "posted": "2026-03-31",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Project Intern - Content AI Infrastructure",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7621299118434961669",
+   "posted": "2026-03-26",
    "found": "2026-09-03",
    "phd": false
   },
