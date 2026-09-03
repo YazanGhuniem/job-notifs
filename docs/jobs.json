@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-03 14:39 UTC",
+ "updated": "2026-09-03 18:09 UTC",
  "count": 326,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, BS, SysEng Software Engineer",
+   "company": "Waymo",
+   "location": "Mountain View, California, USA ",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": false
+  },
   {
    "title": "Embedded Software Engineer Intern - High Voltage Systems",
    "company": "Tesla",
@@ -741,15 +750,6 @@
    "phd": false
   },
   {
-   "title": "Category Management Project Intern",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7674880292247406901",
-   "posted": "2026-08-18",
-   "found": "2026-08-18",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -952,15 +952,6 @@
    "company": "TikTok",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7670839752644233525",
-   "posted": "2026-08-10",
-   "found": "2026-08-10",
-   "phd": false
-  },
-  {
-   "title": "Issue Discovery Operations Intern - Content Ecosystem",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7667582040108222773",
    "posted": "2026-08-10",
    "found": "2026-08-10",
    "phd": false
@@ -2064,6 +2055,15 @@
    "phd": false
   },
   {
+   "title": "Research Scientist Intern - Compute Platform - Database Acceleration - 2026 Start - PhD",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7534790434314438919",
+   "posted": "2026-07-08",
+   "found": "2026-09-03",
+   "phd": true
+  },
+  {
    "title": "Applied Scientist Intern - Recommendation AI Lab",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -2190,6 +2190,33 @@
    "phd": false
   },
   {
+   "title": "Software Engineer Project Intern - Platform efficiency",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7530513185797359880",
+   "posted": "2026-06-15",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "General Hire \u2013 Research Scientist Intern - Monetization Technology - 2026 Start - PhD",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7559026733786548488",
+   "posted": "2026-06-15",
+   "found": "2026-09-03",
+   "phd": true
+  },
+  {
+   "title": "Research Engineer Intern - Ads ML Infra - 2026 Start - PhD",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7559986947671673095",
+   "posted": "2026-06-15",
+   "found": "2026-09-03",
+   "phd": true
+  },
+  {
    "title": "2027 Software Engineer Intern",
    "company": "Anduril",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
@@ -2203,15 +2230,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7646621925436131637",
-   "posted": "2026-06-09",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/273272",
    "posted": "2026-06-09",
    "found": "2026-07-28",
    "phd": false
@@ -2244,24 +2262,6 @@
    "phd": false
   },
   {
-   "title": "Embedded Software Engineer Intern - Keys & Authentication",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/270067",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/270354",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -2286,15 +2286,6 @@
    "url": "https://www.tesla.com/careers/search/job/270617",
    "posted": "2026-06-07",
    "found": "2026-09-03",
-   "phd": false
-  },
-  {
-   "title": "Embedded Systems Software Engineer Intern - Embedded Systems Software Engineer - AI Platforms",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/270778",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
    "phd": false
   },
   {
@@ -2595,6 +2586,15 @@
    "phd": true
   },
   {
+   "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7525650208522193159",
+   "posted": "2026-03-31",
+   "found": "2026-09-03",
+   "phd": false
+  },
+  {
    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
    "company": "Palantir",
    "location": "New York, NY | United States",
@@ -2712,15 +2712,6 @@
    "phd": false
   },
   {
-   "title": "Security Software Engineer Project Intern - Product Security - 2026 Start",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7600536394771564853",
-   "posted": "2026-02-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Data Science Intern - Advertisement Team - 2026 Start','PhD",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -2728,6 +2719,15 @@
    "posted": "2026-02-03",
    "found": "2026-08-06",
    "phd": true
+  },
+  {
+   "title": "Frontend Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7595733632086591797",
+   "posted": "2026-01-16",
+   "found": "2026-09-03",
+   "phd": false
   },
   {
    "title": "Software Engineer Intern - Ads Infrastructure",
