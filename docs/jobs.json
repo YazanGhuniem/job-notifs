@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-04 01:06 UTC",
- "count": 332,
+ "updated": "2026-09-04 06:04 UTC",
+ "count": 335,
  "jobs": [
   {
    "title": "Software Development Engineer Intern, ROBOTICS - 2027",
@@ -93,12 +93,57 @@
    "phd": false
   },
   {
-   "title": "Applied Science Intern - PhD",
-   "company": "Microsoft",
-   "location": "Redmond, WA | Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
+   "title": "Access Control Systems Integration Engineer Intern - Access Control Systems",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282258",
    "posted": "2026-09-03",
-   "found": "2026-09-03",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Torque Path & Chassis Controls - Vehicle Software",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282255",
+   "posted": "2026-09-03",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "Embedded Software Engineer Intern - Optimus",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282340",
+   "posted": "2026-09-03",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "Embedded Systems Software Engineer Intern - AI Platforms",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282331",
+   "posted": "2026-09-03",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "Software Integration Engineer Intern - Optimus",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282342",
+   "posted": "2026-09-03",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "Data Scientist PhD Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
+   "posted": "2026-09-03",
+   "found": "2026-09-04",
    "phd": true
   },
   {
@@ -108,6 +153,15 @@
    "url": "https://jobs.apple.com/en-us/details/200681368",
    "posted": "2026-09-03",
    "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Adobe",
+   "location": "Seattle, WA | SF | Austin, TX | San Jose, CA | Waltham, MA | NYC | Lehi, UT",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+   "posted": "2026-09-03",
+   "found": "2026-09-04",
    "phd": false
   },
   {
@@ -660,15 +714,6 @@
    "phd": false
   },
   {
-   "title": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7670875283026053381",
-   "posted": "2026-08-19",
-   "found": "2026-08-19",
-   "phd": false
-  },
-  {
    "title": "Data Science Intern (Winter 2027)",
    "company": "Notion",
    "location": "San Francisco, California | United States | Remote",
@@ -678,19 +723,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -1044,6 +1089,15 @@
    "url": "https://lifeattiktok.com/search/7670420117406452021",
    "posted": "2026-08-07",
    "found": "2026-08-07",
+   "phd": false
+  },
+  {
+   "title": "AI/ML Infrastructure Engineer Intern - Data-Arch-Tiktok Live",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7670876223732762933",
+   "posted": "2026-08-07",
+   "found": "2026-09-04",
    "phd": false
   },
   {
@@ -1803,15 +1857,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - ML Infra",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7668696895234197813",
-   "posted": "2026-08-03",
-   "found": "2026-08-03",
-   "phd": false
-  },
-  {
    "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -2052,15 +2097,6 @@
    "url": "https://jobs.apple.com/en-us/details/200673612",
    "posted": "2026-07-28",
    "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Access Control Systems Integration Engineer Intern - Vehicle Software",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/277192",
-   "posted": "2026-07-17",
-   "found": "2026-08-30",
    "phd": false
   },
   {
@@ -2313,15 +2349,6 @@
    "url": "https://www.tesla.com/careers/search/job/253454",
    "posted": "2026-06-07",
    "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Systems Integration Engineer Intern - Body Controls",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/270617",
-   "posted": "2026-06-07",
-   "found": "2026-09-03",
    "phd": false
   },
   {
