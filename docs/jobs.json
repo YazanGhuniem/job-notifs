@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-04 06:04 UTC",
- "count": 335,
+ "updated": "2026-09-04 11:30 UTC",
+ "count": 337,
  "jobs": [
   {
    "title": "Software Development Engineer Intern, ROBOTICS - 2027",
@@ -723,19 +723,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -2163,6 +2163,15 @@
    "phd": false
   },
   {
+   "title": "Internship - Search Backend Infra Engineer",
+   "company": "Perplexity",
+   "location": "Belgrade | Serbia | Remote",
+   "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
+   "posted": "2026-07-01",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
    "title": "Forward Deployed Software Engineer, Internship - Intel",
    "company": "Palantir",
    "location": "Washington, D.C. | United States",
@@ -2213,15 +2222,6 @@
    "location": "San Jose, CA",
    "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
    "posted": "2026-06-22",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/273819",
-   "posted": "2026-06-16",
    "found": "2026-07-28",
    "phd": false
   },
@@ -2361,6 +2361,15 @@
    "phd": false
   },
   {
+   "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/271544",
+   "posted": "2026-06-06",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
    "title": "Machine Learning Software Engineer Intern",
    "company": "Rippling",
    "location": "SF",
@@ -2466,6 +2475,15 @@
    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333",
    "posted": "2026-05-21",
    "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Data Strategy Intern",
+   "company": "Oracle",
+   "location": "Seattle, WA | Santa Monica, CA | San Carlos, CA | Santa Clara, CA | Rocklin, CA",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334396",
+   "posted": "2026-05-21",
+   "found": "2026-09-04",
    "phd": false
   },
   {
