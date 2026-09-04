@@ -1,7 +1,34 @@
 {
- "updated": "2026-09-04 11:30 UTC",
- "count": 337,
+ "updated": "2026-09-04 15:03 UTC",
+ "count": 341,
  "jobs": [
+  {
+   "title": "Fleet Management Algorithms Intern - Vehicle Software",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282483",
+   "posted": "2026-09-04",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "Audio & Sensor Software Engineer Intern - Vehicle Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282301",
+   "posted": "2026-09-04",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "AI Developer Technology Engineering Intern - 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+   "posted": "2026-09-04",
+   "found": "2026-09-04",
+   "phd": false
+  },
   {
    "title": "Software Development Engineer Intern, ROBOTICS - 2027",
    "company": "Amazon",
@@ -174,6 +201,15 @@
    "phd": false
   },
   {
+   "title": "Vehicle Software Engineer Intern - Diagnostic User Interface",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281921",
+   "posted": "2026-09-02",
+   "found": "2026-09-02",
+   "phd": false
+  },
+  {
    "title": "Robotaxi Simulation Engineer Intern - Systems Modeling & Optimization",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -223,15 +259,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/281951",
-   "posted": "2026-09-01",
-   "found": "2026-09-01",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering",
-   "company": "Tesla",
-   "location": "Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/281462",
    "posted": "2026-09-01",
    "found": "2026-09-01",
    "phd": false
@@ -369,15 +396,6 @@
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
    "posted": "2026-08-31",
    "found": "2026-09-01",
-   "phd": false
-  },
-  {
-   "title": "Backend Engineer Intern - Infrastructure Engineering",
-   "company": "Tesla",
-   "location": "Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/281467",
-   "posted": "2026-08-28",
-   "found": "2026-08-28",
    "phd": false
   },
   {
@@ -651,6 +669,24 @@
    "phd": false
   },
   {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7675847556668295429",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7675845333947812149",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": true
+  },
+  {
    "title": "Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027",
    "company": "Tesla",
    "location": "Fremont, CA",
@@ -723,19 +759,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -2076,7 +2112,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
@@ -2085,7 +2121,7 @@
    "title": "Research Engineer Intern (Fall 2026)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
