@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-04 15:03 UTC",
- "count": 341,
+ "updated": "2026-09-04 18:30 UTC",
+ "count": 339,
  "jobs": [
   {
    "title": "Fleet Management Algorithms Intern - Vehicle Software",
@@ -16,6 +16,15 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/282301",
+   "posted": "2026-09-04",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern (Summer 2027)",
+   "company": "Scale AI",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
    "posted": "2026-09-04",
    "found": "2026-09-04",
    "phd": false
@@ -759,19 +768,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -2046,15 +2055,6 @@
    "phd": false
   },
   {
-   "title": "Research Engineer Intern (Fall 2026)",
-   "company": "Cloudflare",
-   "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-   "posted": "2026-07-29",
-   "found": "2026-07-29",
-   "phd": false
-  },
-  {
    "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
@@ -2104,24 +2104,6 @@
    "company": "Google",
    "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
    "url": "https://www.google.com/about/careers/applications/jobs/results/132362676918461126-student-researcher-bsms-fall-2026",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Research Engineer Intern (Fall 2026)",
-   "company": "Cloudflare",
-   "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Research Engineer Intern (Fall 2026)",
-   "company": "Cloudflare",
-   "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": false
