@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-04 22:36 UTC",
- "count": 339,
+ "updated": "2026-09-05 00:26 UTC",
+ "count": 340,
  "jobs": [
   {
    "title": "Fleet Management Algorithms Intern - Vehicle Software",
@@ -27,6 +27,15 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
    "posted": "2026-09-04",
    "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "PayPal",
+   "location": "Austin, TX | San Jose, CA | Chicago, IL",
+   "url": "https://paypal.eightfold.ai/careers/job/274922260559",
+   "posted": "2026-09-04",
+   "found": "2026-09-05",
    "phd": false
   },
   {
