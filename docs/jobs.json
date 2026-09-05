@@ -1,7 +1,25 @@
 {
- "updated": "2026-09-05 00:26 UTC",
- "count": 340,
+ "updated": "2026-09-05 04:43 UTC",
+ "count": 342,
  "jobs": [
+  {
+   "title": "Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282598",
+   "posted": "2026-09-05",
+   "found": "2026-09-05",
+   "phd": false
+  },
+  {
+   "title": "Firmware Engineer Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Santa Clara, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+   "posted": "2026-09-05",
+   "found": "2026-09-05",
+   "phd": false
+  },
   {
    "title": "Fleet Management Algorithms Intern - Vehicle Software",
    "company": "Tesla",
