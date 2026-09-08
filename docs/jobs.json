@@ -1,12 +1,57 @@
 {
- "updated": "2026-09-08 20:22 UTC",
- "count": 335,
+ "updated": "2026-09-08 22:47 UTC",
+ "count": 340,
  "jobs": [
   {
    "title": "Software Engineering Intern (Summer)",
    "company": "Datadog",
    "location": "Boston, Massachusetts, USA; New York, New York, USA",
    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+   "posted": "2026-09-08",
+   "found": "2026-09-08",
+   "phd": false
+  },
+  {
+   "title": "Analytics Engineer Intern",
+   "company": "Coinbase",
+   "location": "Hybrid - San Francisco, CA",
+   "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+   "posted": "2026-09-08",
+   "found": "2026-09-08",
+   "phd": false
+  },
+  {
+   "title": "Data Engineer Intern",
+   "company": "Coinbase",
+   "location": "Hybrid - San Francisco, CA",
+   "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+   "posted": "2026-09-08",
+   "found": "2026-09-08",
+   "phd": false
+  },
+  {
+   "title": "Data Science Intern",
+   "company": "Coinbase",
+   "location": "Hybrid - San Francisco, CA",
+   "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
+   "posted": "2026-09-08",
+   "found": "2026-09-08",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "Coinbase",
+   "location": "Hybrid - San Francisco, CA",
+   "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+   "posted": "2026-09-08",
+   "found": "2026-09-08",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Coinbase",
+   "location": "Hybrid - San Francisco, CA",
+   "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
    "posted": "2026-09-08",
    "found": "2026-09-08",
    "phd": false
@@ -786,19 +831,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
