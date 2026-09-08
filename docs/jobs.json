@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-07 22:53 UTC",
- "count": 343,
+ "updated": "2026-09-08 00:46 UTC",
+ "count": 342,
  "jobs": [
   {
    "title": "Software Engineering Intern (Summer 2027)",
@@ -217,15 +217,6 @@
    "posted": "2026-09-03",
    "found": "2026-09-04",
    "phd": true
-  },
-  {
-   "title": "Design Verification Engineer Intern",
-   "company": "Apple",
-   "location": "Cupertino, CA",
-   "url": "https://jobs.apple.com/en-us/details/200681368",
-   "posted": "2026-09-03",
-   "found": "2026-09-03",
-   "phd": false
   },
   {
    "title": "Software Engineer Intern",
@@ -804,19 +795,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
