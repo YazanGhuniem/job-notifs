@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-08 00:46 UTC",
- "count": 342,
+ "updated": "2026-09-08 05:23 UTC",
+ "count": 341,
  "jobs": [
   {
    "title": "Software Engineering Intern (Summer 2027)",
@@ -54,15 +54,6 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
    "posted": "2026-09-04",
    "found": "2026-09-04",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern",
-   "company": "PayPal",
-   "location": "Austin, TX | San Jose, CA | Chicago, IL",
-   "url": "https://paypal.eightfold.ai/careers/job/274922260559",
-   "posted": "2026-09-04",
-   "found": "2026-09-05",
    "phd": false
   },
   {
@@ -795,19 +786,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
    "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
