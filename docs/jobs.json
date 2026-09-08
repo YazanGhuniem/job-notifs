@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08 17:39 UTC",
+ "updated": "2026-09-08 20:22 UTC",
  "count": 335,
  "jobs": [
   {
@@ -7,6 +7,15 @@
    "company": "Datadog",
    "location": "Boston, Massachusetts, USA; New York, New York, USA",
    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+   "posted": "2026-09-08",
+   "found": "2026-09-08",
+   "phd": false
+  },
+  {
+   "title": "System Dev Engineer I Co-op (Robotics), Autonomous AI Security",
+   "company": "Amazon",
+   "location": "Austin, Texas, USA",
+   "url": "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security",
    "posted": "2026-09-08",
    "found": "2026-09-08",
    "phd": false
@@ -2770,15 +2779,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7611950589973186821",
-   "posted": "2026-03-02",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Advanced Degree Software Engineer Intern",
-   "company": "Oracle",
-   "location": "Pleasanton, CA | San Carlos, CA | Santa Clara, CA",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329007",
    "posted": "2026-03-02",
    "found": "2026-07-28",
    "phd": false
