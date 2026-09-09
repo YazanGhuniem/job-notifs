@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-08 22:47 UTC",
- "count": 340,
+ "updated": "2026-09-09 00:45 UTC",
+ "count": 341,
  "jobs": [
   {
    "title": "Software Engineering Intern (Summer)",
@@ -54,6 +54,15 @@
    "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
    "posted": "2026-09-08",
    "found": "2026-09-08",
+   "phd": false
+  },
+  {
+   "title": "Design Verification Engineer Intern",
+   "company": "Apple",
+   "location": "Cupertino, CA",
+   "url": "https://jobs.apple.com/en-us/details/200682067",
+   "posted": "2026-09-08",
+   "found": "2026-09-09",
    "phd": false
   },
   {
