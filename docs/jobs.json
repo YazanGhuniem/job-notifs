@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-09 20:06 UTC",
- "count": 343,
+ "updated": "2026-09-09 22:38 UTC",
+ "count": 340,
  "jobs": [
   {
    "title": "Global Customer Experience Business Analytics Intern",
@@ -156,10 +156,10 @@
    "phd": false
   },
   {
-   "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+   "title": "Software Development Engineer Intern/Co-Op, ROBOTICS - 2027",
    "company": "Amazon",
    "location": "North Reading, Massachusetts, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
    "posted": "2026-09-04",
    "found": "2026-09-04",
    "phd": false
@@ -849,19 +849,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -2208,15 +2208,6 @@
    "phd": false
   },
   {
-   "title": "Vehicle Software Intern - Torque Path & Chassis Controls",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/274760",
-   "posted": "2026-07-01",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "RL Engineer Intern - RL Engineer - Tesla AI",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -2388,15 +2379,6 @@
    "phd": true
   },
   {
-   "title": "Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/271382",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -2430,15 +2412,6 @@
    "url": "https://www.tesla.com/careers/search/job/271979",
    "posted": "2026-06-07",
    "found": "2026-09-03",
-   "phd": false
-  },
-  {
-   "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/271544",
-   "posted": "2026-06-06",
-   "found": "2026-09-04",
    "phd": false
   },
   {
