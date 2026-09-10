@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-09 22:38 UTC",
- "count": 340,
+ "updated": "2026-09-10 00:42 UTC",
+ "count": 343,
  "jobs": [
   {
    "title": "Global Customer Experience Business Analytics Intern",
@@ -18,6 +18,33 @@
    "url": "https://www.tesla.com/careers/search/job/282233",
    "posted": "2026-09-09",
    "found": "2026-09-09",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - IT Apps",
+   "company": "Tesla",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/282774",
+   "posted": "2026-09-09",
+   "found": "2026-09-10",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Autonomy Systems Foundations",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282825",
+   "posted": "2026-09-09",
+   "found": "2026-09-10",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - Factory Software",
+   "company": "Tesla",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/282916",
+   "posted": "2026-09-09",
+   "found": "2026-09-10",
    "phd": false
   },
   {
@@ -849,19 +876,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
