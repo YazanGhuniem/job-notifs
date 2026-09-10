@@ -1,7 +1,25 @@
 {
- "updated": "2026-09-10 22:00 UTC",
- "count": 343,
+ "updated": "2026-09-10 23:45 UTC",
+ "count": 346,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+   "company": "Waymo",
+   "location": "Mountain View, California",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
+   "posted": "2026-09-10",
+   "found": "2026-09-10",
+   "phd": true
+  },
+  {
+   "title": "Data Engineer Intern - Fleet Data - Self-Driving",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/281612",
+   "posted": "2026-09-10",
+   "found": "2026-09-10",
+   "phd": false
+  },
   {
    "title": "System Software Engineering Intern, GPU - 2027",
    "company": "NVIDIA",
@@ -16,6 +34,15 @@
    "company": "Microsoft",
    "location": "Cambridge, UK",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724",
+   "posted": "2026-09-10",
+   "found": "2026-09-10",
+   "phd": false
+  },
+  {
+   "title": "Postdoctoral Researcher Intern - Foundational AI: Theory and Architectures",
+   "company": "Microsoft",
+   "location": "Cambridge, UK",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991730",
    "posted": "2026-09-10",
    "found": "2026-09-10",
    "phd": false
