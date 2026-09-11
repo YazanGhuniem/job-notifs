@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11 18:40 UTC",
+ "updated": "2026-09-11 21:23 UTC",
  "count": 349,
  "jobs": [
   {
@@ -21,10 +21,10 @@
    "phd": false
   },
   {
-   "title": "Data Science Intern, Algorithms (Summer 2027)",
+   "title": "Data Analyst Intern (Summer 2027)",
    "company": "Lyft",
    "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -34,6 +34,15 @@
    "company": "Lyft",
    "location": "San Francisco, CA",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "posted": "2026-09-11",
+   "found": "2026-09-11",
+   "phd": false
+  },
+  {
+   "title": "Data Science Intern, Algorithms (Summer 2027)",
+   "company": "Lyft",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1096,15 +1105,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7674032146438162693",
-   "posted": "2026-08-17",
-   "found": "2026-08-17",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern (Winter)",
-   "company": "Datadog",
-   "location": "Boston, Massachusetts, USA; New York, New York, USA",
-   "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
    "posted": "2026-08-17",
    "found": "2026-08-17",
    "phd": false
