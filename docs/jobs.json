@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-11 21:23 UTC",
- "count": 349,
+ "updated": "2026-09-11 23:23 UTC",
+ "count": 353,
  "jobs": [
   {
    "title": "Software Engineer Intern - Data Platforms",
@@ -16,6 +16,42 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/283128",
+   "posted": "2026-09-11",
+   "found": "2026-09-11",
+   "phd": false
+  },
+  {
+   "title": "Content Integration Engineer Intern - Vehicle Firmware",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/283220",
+   "posted": "2026-09-11",
+   "found": "2026-09-11",
+   "phd": false
+  },
+  {
+   "title": "Data Engineer Intern - Fleet Analytics",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/283138",
+   "posted": "2026-09-11",
+   "found": "2026-09-11",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+   "posted": "2026-09-11",
+   "found": "2026-09-11",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Microsoft",
+   "location": "Reston, VA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
