@@ -1,12 +1,21 @@
 {
- "updated": "2026-09-13 21:10 UTC",
- "count": 349,
+ "updated": "2026-09-13 23:15 UTC",
+ "count": 350,
  "jobs": [
   {
    "title": "PhD Research Intern, Circuits - 2027",
    "company": "NVIDIA",
    "location": "2 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174",
+   "posted": "2026-09-13",
+   "found": "2026-09-13",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
    "posted": "2026-09-13",
    "found": "2026-09-13",
    "phd": true
@@ -1029,19 +1038,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
