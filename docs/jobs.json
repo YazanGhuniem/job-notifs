@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-14 13:10 UTC",
- "count": 350,
+ "updated": "2026-09-14 18:45 UTC",
+ "count": 366,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, BS/MS, Software Engineer",
+   "company": "Waymo",
+   "location": "San Francisco, California",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
   {
    "title": "Software Engineering Intern, Android (Summer 2027)",
    "company": "Robinhood",
@@ -34,6 +43,141 @@
    "company": "Robinhood",
    "location": "Menlo Park, CA; New York, NY",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "User Experience Engineer Intern, BS/MS, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Atlanta, GA, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/112499004540887750-user-experience-engineer-intern-bsms-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Data Scientist, Research Intern, PhD, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/89965613241246406-data-scientist-research-intern-phd-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": true
+  },
+  {
+   "title": "User Experience Research Intern, MS, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/89541201752924870-user-experience-research-intern-ms-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Customer and Partner Solutions Engineering Intern, BS/MS, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bsms-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/131518356678156998-student-researcher-bsms-wintersummer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Product Design Engineering Intern, BS/MS, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/135755874491605702-product-design-engineering-intern-bsms-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "User Experience Research Intern, PhD, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/137409539979780806-user-experience-research-intern-phd-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": true
+  },
+  {
+   "title": "User Experience Engineer Intern, PhD, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Atlanta, GA, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": true
+  },
+  {
+   "title": "Student Researcher, PhD, Winter-Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/134313315235963590-student-researcher-phd-wintersummer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": true
+  },
+  {
+   "title": "Business Data Scientist Intern, PhD, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": true
+  },
+  {
+   "title": "Security Engineering Intern, BS/MS, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bsms-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Data Center Engineering Intern, BS/MS, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Palo Alto, CA, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/115313754307994310-data-center-engineering-intern-bsms-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Data Scientist, Product Intern, MS, Summer 2027",
+   "company": "Google",
+   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Data Science Intern (2027)",
+   "company": "Figma",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern (Summer 2027)",
+   "company": "Figma",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
    "posted": "2026-09-14",
    "found": "2026-09-14",
    "phd": false
@@ -1056,19 +1200,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
