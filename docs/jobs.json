@@ -1,7 +1,43 @@
 {
- "updated": "2026-09-14 06:30 UTC",
- "count": 346,
+ "updated": "2026-09-14 13:10 UTC",
+ "count": 350,
  "jobs": [
+  {
+   "title": "Software Engineering Intern, Android (Summer 2027)",
+   "company": "Robinhood",
+   "location": "Menlo Park, CA; New York, NY",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, Backend (Summer 2027)",
+   "company": "Robinhood",
+   "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, iOS (Summer 2027)",
+   "company": "Robinhood",
+   "location": "Menlo Park, CA; New York, NY",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, Web (Summer 2027)",
+   "company": "Robinhood",
+   "location": "Menlo Park, CA; New York, NY",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
   {
    "title": "PhD Research Intern, Circuits - 2027",
    "company": "NVIDIA",
@@ -1020,19 +1056,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
