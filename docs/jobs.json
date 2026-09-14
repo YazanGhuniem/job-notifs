@@ -1,12 +1,57 @@
 {
- "updated": "2026-09-14 18:45 UTC",
- "count": 366,
+ "updated": "2026-09-14 22:10 UTC",
+ "count": 377,
  "jobs": [
   {
    "title": "2027 Summer Intern, BS/MS, Software Engineer",
    "company": "Waymo",
    "location": "San Francisco, California",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+   "company": "Waymo",
+   "location": "Mountain View, California, United States; San Francisco, California, United States",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Camera & Robotics",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/283274",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Product Engineer Intern - Applications Engineering",
+   "company": "Tesla",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/283298",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Software Integration Engineer Intern - Factory Firmware",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/283395",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "System Integration and Test Automation Engineer Intern - Energy Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/283396",
    "posted": "2026-09-14",
    "found": "2026-09-14",
    "phd": false
@@ -43,6 +88,60 @@
    "company": "Robinhood",
    "location": "Menlo Park, CA; New York, NY",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Fraud & Risk Intern",
+   "company": "Intuit",
+   "location": "NYC | Mountain View, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ms-fraud-and-risk-intern/27595/100620927744",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Cybersecurity",
+   "company": "Intuit",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Mobile Software Engineer Intern - iOS",
+   "company": "Intuit",
+   "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "AI Scientist Intern",
+   "company": "Intuit",
+   "location": "NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Mobile Software Engineer Intern - Android",
+   "company": "Intuit",
+   "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "AI Research Intern",
+   "company": "Intuit",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776",
    "posted": "2026-09-14",
    "found": "2026-09-14",
    "phd": false
@@ -266,8 +365,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -275,8 +374,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -846,6 +945,15 @@
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
    "posted": "2026-08-31",
    "found": "2026-09-01",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Full Stack",
+   "company": "Intuit",
+   "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
+   "posted": "2026-08-29",
+   "found": "2026-08-29",
    "phd": false
   },
   {
@@ -2555,15 +2663,6 @@
    "location": "Chicago, IL | United States",
    "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
    "posted": "2026-06-24",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Data Analytics Intern - People Analytics",
-   "company": "Tesla",
-   "location": "Austin, TX",
-   "url": "https://www.tesla.com/careers/search/job/274560",
-   "posted": "2026-06-23",
    "found": "2026-07-28",
    "phd": false
   },
