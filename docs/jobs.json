@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-15 19:06 UTC",
- "count": 387,
+ "updated": "2026-09-15 22:21 UTC",
+ "count": 388,
  "jobs": [
   {
    "title": "Internship - Software Integration Engineer - Factory Firmware Team - Winter/Spring 2027",
@@ -39,6 +39,15 @@
    "phd": false
   },
   {
+   "title": "PhD Research Intern, Generative AI for Physical AI - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": true
+  },
+  {
    "title": "Research Intern, Fundamental Generative AI - 2027",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
@@ -61,6 +70,15 @@
    "company": "Duolingo",
    "location": "Pittsburgh, PA",
    "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "2027 Flight Software Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
    "posted": "2026-09-15",
    "found": "2026-09-15",
    "phd": false
@@ -455,8 +473,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -464,8 +482,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1404,15 +1422,6 @@
    "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
-   "phd": true
-  },
-  {
-   "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475",
-   "posted": "2026-08-19",
-   "found": "2026-08-19",
    "phd": true
   },
   {
