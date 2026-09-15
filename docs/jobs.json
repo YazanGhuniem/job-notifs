@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-14 22:10 UTC",
- "count": 377,
+ "updated": "2026-09-15 00:43 UTC",
+ "count": 378,
  "jobs": [
   {
    "title": "2027 Summer Intern, BS/MS, Software Engineer",
@@ -279,6 +279,15 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
    "posted": "2026-09-14",
    "found": "2026-09-14",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer, Intern (Summer 2027) - US",
+   "company": "DoorDash",
+   "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+   "posted": "2026-09-14",
+   "found": "2026-09-15",
    "phd": false
   },
   {
