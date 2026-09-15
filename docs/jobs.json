@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-15 15:19 UTC",
- "count": 382,
+ "updated": "2026-09-15 19:06 UTC",
+ "count": 387,
  "jobs": [
   {
    "title": "Internship - Software Integration Engineer - Factory Firmware Team - Winter/Spring 2027",
@@ -30,10 +30,55 @@
    "phd": false
   },
   {
-   "title": "System Software Intern 2027 (Evergreen)",
+   "title": "Physical Design and Timing Engineer Intern - Summer 2027",
    "company": "NVIDIA",
-   "location": "3 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "Research Intern, Fundamental Generative AI - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer, Intern",
+   "company": "Duolingo",
+   "location": "New York, NY; New York, NY; Pittsburgh, PA; Pittsburgh, PA; Seattle, WA; Seattle, WA",
+   "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer, Thrive Intern",
+   "company": "Duolingo",
+   "location": "Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "Winter 2027 Software Engineer Co-op",
+   "company": "Anduril",
+   "location": "Quincy, Massachusetts, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "Winter 2027 Systems Engineer Co-op",
+   "company": "Anduril",
+   "location": "Quincy, Massachusetts, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
    "posted": "2026-09-15",
    "found": "2026-09-15",
    "phd": false
@@ -1344,19 +1389,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
