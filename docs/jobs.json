@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-15 10:32 UTC",
- "count": 381,
+ "updated": "2026-09-15 15:19 UTC",
+ "count": 382,
  "jobs": [
   {
    "title": "Internship - Software Integration Engineer - Factory Firmware Team - Winter/Spring 2027",
@@ -25,6 +25,15 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/283423",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "System Software Intern 2027 (Evergreen)",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Intern-2027--Evergreen-_JR2025833",
    "posted": "2026-09-15",
    "found": "2026-09-15",
    "phd": false
