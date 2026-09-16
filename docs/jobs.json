@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-16 00:33 UTC",
- "count": 387,
+ "updated": "2026-09-16 05:23 UTC",
+ "count": 388,
  "jobs": [
+  {
+   "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
+   "posted": "2026-09-16",
+   "found": "2026-09-16",
+   "phd": false
+  },
   {
    "title": "Internship - Software Integration Engineer - Factory Firmware Team - Winter/Spring 2027",
    "company": "Tesla",
@@ -473,8 +482,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -482,8 +491,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
