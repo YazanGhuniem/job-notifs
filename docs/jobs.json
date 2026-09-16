@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16 18:57 UTC",
+ "updated": "2026-09-16 21:48 UTC",
  "count": 389,
  "jobs": [
   {
@@ -16,6 +16,15 @@
    "company": "Waymo",
    "location": "Mountain View, California, United States",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
+   "posted": "2026-09-16",
+   "found": "2026-09-16",
+   "phd": true
+  },
+  {
+   "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+   "company": "Waymo",
+   "location": "Mountain View, California, United States | San Francisco, California, United States",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
    "posted": "2026-09-16",
    "found": "2026-09-16",
    "phd": true
@@ -75,13 +84,13 @@
    "phd": true
   },
   {
-   "title": "Research Intern, Fundamental Generative AI - 2027",
+   "title": "PhD Research Intern, Fundamental Generative AI - 2027",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
    "posted": "2026-09-15",
    "found": "2026-09-15",
-   "phd": false
+   "phd": true
   },
   {
    "title": "Software Engineer, Intern",
@@ -500,8 +509,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -509,8 +518,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1546,15 +1555,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7673663349758675205",
-   "posted": "2026-08-14",
-   "found": "2026-08-14",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - User Modeling and Personalization",
-   "company": "Snap",
-   "location": "LA | Bellevue, WA",
-   "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Research-Intern--User-Modeling-and-Personalization_R0046464-1",
    "posted": "2026-08-14",
    "found": "2026-08-14",
    "phd": false
