@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-16 10:06 UTC",
- "count": 388,
+ "updated": "2026-09-16 15:03 UTC",
+ "count": 387,
  "jobs": [
   {
    "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
@@ -1416,19 +1416,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -2115,15 +2115,6 @@
    "url": "https://lifeattiktok.com/search/7668881813744191749",
    "posted": "2026-08-04",
    "found": "2026-09-03",
-   "phd": false
-  },
-  {
-   "title": "Cell Engineering Intern - Cell Qualification",
-   "company": "Tesla",
-   "location": "Palo Alto, CA | San Diego, CA",
-   "url": "https://www.tesla.com/careers/search/job/278620",
-   "posted": "2026-08-04",
-   "found": "2026-08-04",
    "phd": false
   },
   {
