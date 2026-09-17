@@ -1,7 +1,25 @@
 {
- "updated": "2026-09-17 17:10 UTC",
- "count": 394,
+ "updated": "2026-09-17 20:25 UTC",
+ "count": 396,
  "jobs": [
+  {
+   "title": "PhD Research Intern, Hardware and Systems Architecture - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893",
+   "posted": "2026-09-17",
+   "found": "2026-09-17",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Generalist Embodied Agents Research - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103",
+   "posted": "2026-09-17",
+   "found": "2026-09-17",
+   "phd": true
+  },
   {
    "title": "PhD Research Intern, Architecture \u2013 2027",
    "company": "NVIDIA",
@@ -10,6 +28,15 @@
    "posted": "2026-09-17",
    "found": "2026-09-17",
    "phd": true
+  },
+  {
+   "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559",
+   "posted": "2026-09-17",
+   "found": "2026-09-17",
+   "phd": false
   },
   {
    "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
@@ -21,7 +48,7 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, MS/PhD, Software Engineer",
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
    "company": "Waymo",
    "location": "Mountain View, California, USA",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
@@ -545,8 +572,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -554,8 +581,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3229,15 +3256,6 @@
    "company": "Amazon",
    "location": "Seattle, Washington, USA",
    "url": "https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
-   "posted": "2026-04-16",
-   "found": "2026-07-28",
-   "phd": true
-  },
-  {
-   "title": "2026 Fall Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting",
-   "company": "Amazon",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting",
    "posted": "2026-04-16",
    "found": "2026-07-28",
    "phd": true
