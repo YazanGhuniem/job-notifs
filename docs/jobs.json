@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-18 00:54 UTC",
- "count": 395,
+ "updated": "2026-09-18 05:20 UTC",
+ "count": 396,
  "jobs": [
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7686283601340369205",
+   "posted": "2026-09-18",
+   "found": "2026-09-18",
+   "phd": false
+  },
   {
    "title": "PhD Research Intern, Hardware and Systems Architecture - 2027",
    "company": "NVIDIA",
@@ -1515,19 +1524,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
