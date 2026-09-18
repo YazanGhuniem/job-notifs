@@ -1,12 +1,57 @@
 {
- "updated": "2026-09-18 05:20 UTC",
- "count": 396,
+ "updated": "2026-09-18 09:55 UTC",
+ "count": 400,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7686283601340369205",
+   "posted": "2026-09-18",
+   "found": "2026-09-18",
+   "phd": false
+  },
+  {
+   "title": "Internship - Software Engineering - People Products - Winter/Spring 2027",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/284003",
+   "posted": "2026-09-18",
+   "found": "2026-09-18",
+   "phd": false
+  },
+  {
+   "title": "Site Controller Software Engineer Intern - Energy Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/283956",
+   "posted": "2026-09-18",
+   "found": "2026-09-18",
+   "phd": false
+  },
+  {
+   "title": "Internship - Software Engineering - People Products - Summer 2027",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/284004",
+   "posted": "2026-09-18",
+   "found": "2026-09-18",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Energy Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/283950",
+   "posted": "2026-09-18",
+   "found": "2026-09-18",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Santa Clara, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
    "posted": "2026-09-18",
    "found": "2026-09-18",
    "phd": false
@@ -955,15 +1000,6 @@
    "posted": "2026-09-03",
    "found": "2026-09-04",
    "phd": false
-  },
-  {
-   "title": "Data Scientist PhD Intern",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
-   "posted": "2026-09-03",
-   "found": "2026-09-04",
-   "phd": true
   },
   {
    "title": "Software Engineer Intern",
