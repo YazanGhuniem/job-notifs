@@ -1,9 +1,18 @@
 {
- "updated": "2026-09-18 21:58 UTC",
+ "updated": "2026-09-18 23:49 UTC",
  "count": 401,
  "jobs": [
   {
-   "title": "2027 Summer Intern, PhD, Data Science",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+   "company": "Waymo",
+   "location": "Mountain View, California, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+   "posted": "2026-09-18",
+   "found": "2026-09-18",
+   "phd": true
+  },
+  {
+   "title": "2027 Summer Intern, PhD, Product Data Science",
    "company": "Waymo",
    "location": "San Francisco, California, United States",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
@@ -644,8 +653,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -653,8 +662,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1569,19 +1578,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -2906,15 +2915,6 @@
    "location": "San Jose, CA",
    "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
    "posted": "2026-06-22",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - State Estimation for Dexterous Manipulation",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/2774289902955470",
-   "posted": "2026-06-16",
    "found": "2026-07-28",
    "phd": false
   },
