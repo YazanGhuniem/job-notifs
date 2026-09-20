@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-20 01:49 UTC",
- "count": 402,
+ "updated": "2026-09-20 07:09 UTC",
+ "count": 401,
  "jobs": [
   {
    "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
@@ -1587,19 +1587,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -1717,15 +1717,6 @@
    "company": "Notion",
    "location": "San Francisco, California | New York, New York | United States | Remote",
    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
-   "posted": "2026-08-14",
-   "found": "2026-08-14",
-   "phd": false
-  },
-  {
-   "title": "Optoelectronics Device Engineer Intern",
-   "company": "Microsoft",
-   "location": "Cambridge, UK",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962583",
    "posted": "2026-08-14",
    "found": "2026-08-14",
    "phd": false
