@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-22 15:48 UTC",
- "count": 409,
+ "updated": "2026-09-22 19:18 UTC",
+ "count": 408,
  "jobs": [
   {
    "title": "Firmware Integration Engineer Intern - Factory Firmware",
@@ -1686,19 +1686,19 @@
    "phd": false
   },
   {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
   },
   {
-   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
    "company": "Netflix",
-   "location": "Los Gatos,California,United States of America | Los Angeles,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
    "posted": "2026-08-19",
    "found": "2026-08-26",
    "phd": true
@@ -3105,15 +3105,6 @@
    "url": "https://www.tesla.com/careers/search/job/253454",
    "posted": "2026-06-07",
    "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Robotics Modeling & Simulation Engineer Intern - Optimus",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/271979",
-   "posted": "2026-06-07",
-   "found": "2026-09-03",
    "phd": false
   },
   {
