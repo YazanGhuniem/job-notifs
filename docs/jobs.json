@@ -1,7 +1,43 @@
 {
- "updated": "2026-09-22 01:18 UTC",
- "count": 410,
+ "updated": "2026-09-22 06:23 UTC",
+ "count": 412,
  "jobs": [
+  {
+   "title": "Firmware Integration Engineer Intern - Factory Firmware",
+   "company": "Tesla",
+   "location": "Austin, TX",
+   "url": "https://www.tesla.com/careers/search/job/284156",
+   "posted": "2026-09-22",
+   "found": "2026-09-22",
+   "phd": false
+  },
+  {
+   "title": "Residential Energy Device Software Engineer Intern - Energy Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/284275",
+   "posted": "2026-09-22",
+   "found": "2026-09-22",
+   "phd": false
+  },
+  {
+   "title": "Power Electronics Firmware Engineer Intern",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/284029",
+   "posted": "2026-09-22",
+   "found": "2026-09-22",
+   "phd": false
+  },
+  {
+   "title": "Reliability Test Engineer Intern - Energy Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/284278",
+   "posted": "2026-09-22",
+   "found": "2026-09-22",
+   "phd": false
+  },
   {
    "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
    "company": "NVIDIA",
@@ -761,8 +797,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -770,8 +806,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2541,15 +2577,6 @@
    "phd": false
   },
   {
-   "title": "Backend Software Engineer Intern",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7667933770819897605",
-   "posted": "2026-08-03",
-   "found": "2026-08-03",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern - Ads Measurement Signal and Privacy",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -2915,15 +2942,6 @@
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7659527183984019765",
    "posted": "2026-07-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Frontend Software Engineer Project Intern - Global CRM",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7654431844394322229",
-   "posted": "2026-07-02",
    "found": "2026-07-28",
    "phd": false
   },
