@@ -1,7 +1,25 @@
 {
- "updated": "2026-09-22 19:18 UTC",
- "count": 408,
+ "updated": "2026-09-22 22:20 UTC",
+ "count": 413,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+   "company": "Waymo",
+   "location": "San Francisco, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+   "posted": "2026-09-22",
+   "found": "2026-09-22",
+   "phd": true
+  },
+  {
+   "title": "2027 Summer Intern, PhD, Data Science",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
+   "posted": "2026-09-22",
+   "found": "2026-09-22",
+   "phd": true
+  },
   {
    "title": "Firmware Integration Engineer Intern - Factory Firmware",
    "company": "Tesla",
@@ -43,6 +61,33 @@
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405",
+   "posted": "2026-09-22",
+   "found": "2026-09-22",
+   "phd": true
+  },
+  {
+   "title": "Product Design Intern, AI Infrastructure - Summer 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784",
+   "posted": "2026-09-22",
+   "found": "2026-09-22",
+   "phd": false
+  },
+  {
+   "title": "2027 Quantum Applied Science Internship, Quantum Technologies team",
+   "company": "Amazon",
+   "location": "Pasadena, California, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team",
+   "posted": "2026-09-22",
+   "found": "2026-09-22",
+   "phd": false
+  },
+  {
+   "title": "2027 Data Science Internship - United States, PhD or Masters Student",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student",
    "posted": "2026-09-22",
    "found": "2026-09-22",
    "phd": true
