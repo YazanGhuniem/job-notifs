@@ -1,7 +1,52 @@
 {
- "updated": "2026-09-23 00:45 UTC",
- "count": 420,
+ "updated": "2026-09-23 05:19 UTC",
+ "count": 425,
  "jobs": [
+  {
+   "title": "Software Engineering Intern, Compiler Verification - Spring 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
+   "title": "Performance Software Intern, Deep Learning Libraries - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
+   "title": "AI Computing Software Development Intern - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
+   "title": "AI Computing Software Development Intern, LLM Inference - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
+   "title": "AI Computing Software Intern, GPU Kernel Libraries - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": false
+  },
   {
    "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
    "company": "Waymo",
