@@ -1,7 +1,52 @@
 {
- "updated": "2026-09-24 00:37 UTC",
- "count": 430,
+ "updated": "2026-09-24 05:33 UTC",
+ "count": 435,
  "jobs": [
+  {
+   "title": "Software Engineer Industrial Firmware Intern - Energy Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/284448",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Internship, Frontend",
+   "company": "Ramp",
+   "location": "New York, NY (HQ) | USA | Remote",
+   "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, Android",
+   "company": "Ramp",
+   "location": "New York, NY (HQ) | USA",
+   "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, iOS",
+   "company": "Ramp",
+   "location": "New York, NY (HQ) | USA | Remote",
+   "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
+  {
+   "title": "Data Scientist Intern - Multiple Teams",
+   "company": "Atlassian",
+   "location": "Seattle, WA",
+   "url": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
   {
    "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
    "company": "Waymo",
