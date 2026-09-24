@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-24 15:32 UTC",
- "count": 433,
+ "updated": "2026-09-24 19:32 UTC",
+ "count": 434,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": true
+  },
   {
    "title": "Software Engineer Industrial Firmware Intern - Energy Engineering",
    "company": "Tesla",
@@ -1049,8 +1058,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1058,8 +1067,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
