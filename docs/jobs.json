@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-24 19:32 UTC",
- "count": 434,
+ "updated": "2026-09-24 22:46 UTC",
+ "count": 437,
  "jobs": [
   {
    "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
@@ -43,6 +43,33 @@
    "company": "Ramp",
    "location": "New York, NY (HQ) | USA | Remote",
    "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern, Mobile (Winter 2027)",
+   "company": "Notion",
+   "location": "San Francisco, California | New York, New York | United States | Remote",
+   "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
+  {
+   "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
+  {
+   "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+   "company": "Amazon",
+   "location": "Redmond, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
    "posted": "2026-09-24",
    "found": "2026-09-24",
    "phd": false
@@ -279,15 +306,6 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784",
    "posted": "2026-09-22",
    "found": "2026-09-22",
-   "phd": false
-  },
-  {
-   "title": "Security Engineer Internship \u2013 2027 (US)",
-   "company": "Amazon",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
-   "posted": "2026-09-22",
-   "found": "2026-09-23",
    "phd": false
   },
   {
@@ -1058,8 +1076,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1067,8 +1085,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3680,6 +3698,15 @@
    "location": "New York, NY | United States",
    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
    "posted": "2026-03-10",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - AI Alignment",
+   "company": "Meta",
+   "location": "Boston, MA | Seattle, WA | SF | Menlo Park, CA | NYC | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1782902493113620",
+   "posted": "2026-03-05",
    "found": "2026-07-28",
    "phd": false
   },
