@@ -1,7 +1,52 @@
 {
- "updated": "2026-09-25 19:36 UTC",
- "count": 441,
+ "updated": "2026-09-25 22:52 UTC",
+ "count": 446,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+   "posted": "2026-09-25",
+   "found": "2026-09-25",
+   "phd": false
+  },
+  {
+   "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
+   "posted": "2026-09-25",
+   "found": "2026-09-25",
+   "phd": true
+  },
+  {
+   "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+   "posted": "2026-09-25",
+   "found": "2026-09-25",
+   "phd": true
+  },
+  {
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+   "posted": "2026-09-25",
+   "found": "2026-09-25",
+   "phd": true
+  },
+  {
+   "title": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA ",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
+   "posted": "2026-09-25",
+   "found": "2026-09-25",
+   "phd": true
+  },
   {
    "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
    "company": "Snowflake",
@@ -25,6 +70,24 @@
    "company": "Snowflake",
    "location": "US-CA-Menlo Park | US-WA-Bellevue | United States",
    "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
+   "posted": "2026-09-25",
+   "found": "2026-09-25",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Intern (PhD) - Summer 2027",
+   "company": "DoorDash",
+   "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953",
+   "posted": "2026-09-25",
+   "found": "2026-09-25",
+   "phd": true
+  },
+  {
+   "title": "Data Scientist Intern",
+   "company": "Atlassian",
+   "location": "Seattle, WA",
+   "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
    "posted": "2026-09-25",
    "found": "2026-09-25",
    "phd": false
@@ -189,6 +252,15 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
    "posted": "2026-09-23",
    "found": "2026-09-23",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Intern (Masters) - Summer 2027",
+   "company": "DoorDash",
+   "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
+   "posted": "2026-09-23",
+   "found": "2026-09-25",
    "phd": false
   },
   {
@@ -3637,33 +3709,6 @@
    "posted": "2026-04-17",
    "found": "2026-07-28",
    "phd": false
-  },
-  {
-   "title": "2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
-   "company": "Amazon",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
-   "posted": "2026-04-16",
-   "found": "2026-07-28",
-   "phd": true
-  },
-  {
-   "title": "2026 Fall Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting",
-   "company": "Amazon",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10391901/2026-fall-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting",
-   "posted": "2026-04-14",
-   "found": "2026-07-28",
-   "phd": true
-  },
-  {
-   "title": "2026 Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
-   "company": "Amazon",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
-   "posted": "2026-04-14",
-   "found": "2026-07-28",
-   "phd": true
   },
   {
    "title": "Software Engineering Intern, Backend",
