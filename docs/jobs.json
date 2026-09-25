@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-25 05:38 UTC",
- "count": 443,
+ "updated": "2026-09-25 10:38 UTC",
+ "count": 444,
  "jobs": [
   {
    "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
@@ -79,6 +79,15 @@
    "company": "Notion",
    "location": "San Francisco, California | New York, New York | United States | Remote",
    "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
+  {
+   "title": "Data Scientist Intern - Multiple Teams",
+   "company": "Atlassian",
+   "location": "Seattle, WA",
+   "url": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
    "posted": "2026-09-24",
    "found": "2026-09-24",
    "phd": false
