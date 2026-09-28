@@ -1,7 +1,34 @@
 {
- "updated": "2026-09-28 16:08 UTC",
- "count": 447,
+ "updated": "2026-09-28 22:10 UTC",
+ "count": 449,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, PhD, Machine Learning Research",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+   "posted": "2026-09-28",
+   "found": "2026-09-28",
+   "phd": true
+  },
+  {
+   "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+   "company": "Waymo",
+   "location": "San Francisco, California",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+   "posted": "2026-09-28",
+   "found": "2026-09-28",
+   "phd": true
+  },
+  {
+   "title": "Applied Scientist Intern (Summer 2027)",
+   "company": "Lyft",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
+   "posted": "2026-09-28",
+   "found": "2026-09-28",
+   "phd": false
+  },
   {
    "title": "Mobile Application Software Engineer Intern - Energy Engineering",
    "company": "Tesla",
@@ -1202,8 +1229,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1211,8 +1238,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3618,15 +3645,6 @@
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
    "posted": "2026-05-07",
    "found": "2026-08-29",
-   "phd": false
-  },
-  {
-   "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
-   "company": "Amazon",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
-   "posted": "2026-05-06",
-   "found": "2026-07-28",
    "phd": false
   },
   {
