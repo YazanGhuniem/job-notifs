@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-28 22:10 UTC",
- "count": 449,
+ "updated": "2026-09-29 02:06 UTC",
+ "count": 450,
  "jobs": [
   {
-   "title": "2027 Summer Intern, PhD, Machine Learning Research",
+   "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
@@ -75,7 +75,7 @@
    "phd": true
   },
   {
-   "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
@@ -756,6 +756,15 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
    "posted": "2026-09-16",
    "found": "2026-09-16",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern (2027) - Austin, TX",
+   "company": "Cloudflare",
+   "location": "In-Office",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+   "posted": "2026-09-16",
+   "found": "2026-09-29",
    "phd": false
   },
   {
