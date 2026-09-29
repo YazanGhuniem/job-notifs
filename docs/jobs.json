@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-29 20:04 UTC",
- "count": 442,
+ "updated": "2026-09-29 23:48 UTC",
+ "count": 449,
  "jobs": [
   {
    "title": "2027 Summer Intern, PhD, Planner Machine Learning",
@@ -12,6 +12,51 @@
    "phd": true
   },
   {
+   "title": "Software Engineer Intern - Data Transformations",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/284925",
+   "posted": "2026-09-29",
+   "found": "2026-09-29",
+   "phd": false
+  },
+  {
+   "title": "Software Integration Engineer Intern - AI Platforms",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/277009",
+   "posted": "2026-09-29",
+   "found": "2026-09-29",
+   "phd": false
+  },
+  {
+   "title": "AI Hardware RTL Design Engineer Intern - AI Hardware",
+   "company": "Tesla",
+   "location": "Palo Alto, CA | Austin, TX",
+   "url": "https://www.tesla.com/careers/search/job/285089",
+   "posted": "2026-09-29",
+   "found": "2026-09-29",
+   "phd": false
+  },
+  {
+   "title": "AI Hardware Signal & Power Integrity Engineer Intern - AI Hardware",
+   "company": "Tesla",
+   "location": "Palo Alto, CA | Austin, TX",
+   "url": "https://www.tesla.com/careers/search/job/285120",
+   "posted": "2026-09-29",
+   "found": "2026-09-29",
+   "phd": false
+  },
+  {
+   "title": "Data Science Intern (Summer 2027)",
+   "company": "Robinhood",
+   "location": "Menlo Park, CA",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738",
+   "posted": "2026-09-29",
+   "found": "2026-09-29",
+   "phd": false
+  },
+  {
    "title": "Software CAD Engineer, VLSI (RDSS Intern)",
    "company": "NVIDIA",
    "location": "2 Locations",
@@ -19,6 +64,15 @@
    "posted": "2026-09-29",
    "found": "2026-09-29",
    "phd": false
+  },
+  {
+   "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
+   "posted": "2026-09-29",
+   "found": "2026-09-29",
+   "phd": true
   },
   {
    "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
@@ -1193,8 +1247,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1202,8 +1256,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3421,6 +3475,15 @@
    "posted": "2026-06-10",
    "found": "2026-07-28",
    "phd": false
+  },
+  {
+   "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+   "company": "Block",
+   "location": "Bay Area, CA, United States of America",
+   "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
+   "posted": "2026-06-09",
+   "found": "2026-07-28",
+   "phd": true
   },
   {
    "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
