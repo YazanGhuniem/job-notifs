@@ -1,7 +1,25 @@
 {
- "updated": "2026-09-30 15:59 UTC",
- "count": 457,
+ "updated": "2026-09-30 20:31 UTC",
+ "count": 463,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": false
+  },
+  {
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": true
+  },
   {
    "title": "Embedded Software Engineer Intern - Silicon Development",
    "company": "Tesla",
@@ -30,6 +48,15 @@
    "phd": false
   },
   {
+   "title": "High School Internship, Software Engineering (Summer 2027)",
+   "company": "Stripe",
+   "location": "Seattle, San Francisco",
+   "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": false
+  },
+  {
    "title": "Deep Learning Performance Software Intern - 2027",
    "company": "NVIDIA",
    "location": "2 Locations",
@@ -52,6 +79,24 @@
    "company": "NVIDIA",
    "location": "2 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": false
+  },
+  {
+   "title": "PhD Research Intern, Programming Systems - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": true
+  },
+  {
+   "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
    "posted": "2026-09-30",
    "found": "2026-09-30",
    "phd": false
@@ -891,6 +936,15 @@
    "url": "https://www.tesla.com/careers/search/job/283423",
    "posted": "2026-09-15",
    "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "Applied Scientist Intern",
+   "company": "Ramp",
+   "location": "New York, NY (HQ) | USA | Remote",
+   "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+   "posted": "2026-09-15",
+   "found": "2026-09-30",
    "phd": false
   },
   {
