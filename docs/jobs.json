@@ -1,7 +1,70 @@
 {
- "updated": "2026-09-29 23:48 UTC",
- "count": 449,
+ "updated": "2026-09-30 02:33 UTC",
+ "count": 455,
  "jobs": [
+  {
+   "title": "Embedded Software Engineer Intern - Silicon Development",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/285084",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": false
+  },
+  {
+   "title": "Embedded Software Developer Intern - Vehicle Suspension",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/285153",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": false
+  },
+  {
+   "title": "Software Developer Intern - Integration Tools",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/284924",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": false
+  },
+  {
+   "title": "2027 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10564601/2027-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": true
+  },
+  {
+   "title": "2027 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10564598/2027-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": true
+  },
+  {
+   "title": "2027 Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": true
+  },
+  {
+   "title": "2027 Summer Applied Science Internship - Information & Knowledge Management (Machine Learning)- United States, PhD Student Science Recruiting",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": true
+  },
   {
    "title": "2027 Summer Intern, PhD, Planner Machine Learning",
    "company": "Waymo",
@@ -2041,15 +2104,6 @@
    "company": "Fifth Third Bank",
    "location": "Cincinnati, OH",
    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Spring-2027_R71590",
-   "posted": "2026-08-20",
-   "found": "2026-08-20",
-   "phd": false
-  },
-  {
-   "title": "Information Security Co-op \u2013 Identity & Access Management \u2013 Summer 2027",
-   "company": "Fifth Third Bank",
-   "location": "Cincinnati, OH",
-   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591",
    "posted": "2026-08-20",
    "found": "2026-08-20",
    "phd": false
