@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-01 06:12 UTC",
- "count": 464,
+ "updated": "2026-10-01 13:35 UTC",
+ "count": 468,
  "jobs": [
   {
    "title": "Commercial UI Software Engineer Intern",
@@ -34,6 +34,15 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
+   "posted": "2026-10-01",
+   "found": "2026-10-01",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Azure Databases",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557002476",
    "posted": "2026-10-01",
    "found": "2026-10-01",
    "phd": false
@@ -282,15 +291,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern",
-   "company": "Microsoft",
-   "location": "Atlanta, GA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714",
-   "posted": "2026-09-26",
-   "found": "2026-09-26",
-   "phd": false
-  },
-  {
    "title": "Research Intern",
    "company": "Atlassian",
    "location": "Seattle, WA",
@@ -505,15 +505,6 @@
    "posted": "2026-09-23",
    "found": "2026-09-23",
    "phd": true
-  },
-  {
-   "title": "Software Engineer Intern",
-   "company": "Microsoft",
-   "location": "Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
-   "posted": "2026-09-23",
-   "found": "2026-09-24",
-   "phd": false
   },
   {
    "title": "Data Engineer Intern (2027)",
@@ -1114,15 +1105,6 @@
    "company": "Robinhood",
    "location": "Menlo Park, CA; New York, NY",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
-   "title": "Fraud & Risk Intern",
-   "company": "Intuit",
-   "location": "NYC | Mountain View, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ms-fraud-and-risk-intern/27595/100620927744",
    "posted": "2026-09-14",
    "found": "2026-09-14",
    "phd": false
@@ -1881,6 +1863,15 @@
    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
    "posted": "2026-08-29",
    "found": "2026-08-29",
+   "phd": false
+  },
+  {
+   "title": "Backend Engineer Intern - Infrastructure Engineering",
+   "company": "Tesla",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/281467",
+   "posted": "2026-08-28",
+   "found": "2026-08-28",
    "phd": false
   },
   {
@@ -2892,6 +2883,42 @@
    "phd": false
   },
   {
+   "title": "Software Engineer: AI/ML & LLM Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Data Platform & Analytics",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Full-Stack Product Engineer Intern - Web + Services",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Cloud & Distributed Backend",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
    "title": "Research Scientist Intern - Trust and Safety",
    "company": "TikTok",
    "location": "Seattle, WA",
@@ -3346,6 +3373,15 @@
    "company": "SpaceX",
    "location": "Flexible - Any SpaceX Site",
    "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - CoreAI",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
    "posted": "2026-08-03",
    "found": "2026-08-03",
    "phd": false
