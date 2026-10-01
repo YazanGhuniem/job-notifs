@@ -1,7 +1,43 @@
 {
- "updated": "2026-10-01 00:13 UTC",
- "count": 463,
+ "updated": "2026-10-01 06:12 UTC",
+ "count": 464,
  "jobs": [
+  {
+   "title": "Commercial UI Software Engineer Intern",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/285202",
+   "posted": "2026-10-01",
+   "found": "2026-10-01",
+   "phd": false
+  },
+  {
+   "title": "Data Engineer Intern - Data Engineer - Applications Engineering",
+   "company": "Tesla",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/285179",
+   "posted": "2026-10-01",
+   "found": "2026-10-01",
+   "phd": false
+  },
+  {
+   "title": "Data Engineer Intern - Data Engineering & Business Intelligence",
+   "company": "Tesla",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/285291",
+   "posted": "2026-10-01",
+   "found": "2026-10-01",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Quantum Algorithms",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
+   "posted": "2026-10-01",
+   "found": "2026-10-01",
+   "phd": false
+  },
   {
    "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
    "company": "Waymo",
@@ -975,24 +1011,6 @@
    "phd": true
   },
   {
-   "title": "Software Engineer, Intern",
-   "company": "Duolingo",
-   "location": "New York, NY; Pittsburgh, PA; Seattle, WA",
-   "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
-   "posted": "2026-09-15",
-   "found": "2026-09-15",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer, Thrive Intern",
-   "company": "Duolingo",
-   "location": "Pittsburgh, PA",
-   "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
-   "posted": "2026-09-15",
-   "found": "2026-09-15",
-   "phd": false
-  },
-  {
    "title": "2027 Flight Software Engineer Intern",
    "company": "Anduril",
    "location": "Costa Mesa, California, United States",
@@ -1798,15 +1816,6 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
-   "posted": "2026-09-01",
-   "found": "2026-09-01",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Co-Op - Enterprise Finance Applications - Spring 2027",
-   "company": "Fifth Third Bank",
-   "location": "Cincinnati, OH",
-   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587",
    "posted": "2026-09-01",
    "found": "2026-09-01",
    "phd": false
