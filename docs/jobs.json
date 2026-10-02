@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-02 20:00 UTC",
- "count": 486,
+ "updated": "2026-10-02 23:33 UTC",
+ "count": 492,
  "jobs": [
+  {
+   "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/285508",
+   "posted": "2026-10-02",
+   "found": "2026-10-02",
+   "phd": false
+  },
   {
    "title": "PhD Research Intern, Embodied and Agentic AI - 2027",
    "company": "NVIDIA",
@@ -10,6 +19,24 @@
    "posted": "2026-10-02",
    "found": "2026-10-02",
    "phd": true
+  },
+  {
+   "title": "Research Intern - Maia Development",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557023070",
+   "posted": "2026-10-02",
+   "found": "2026-10-02",
+   "phd": false
+  },
+  {
+   "title": "Finance Transformation & Analytics Intern",
+   "company": "Intuit",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
+   "posted": "2026-10-02",
+   "found": "2026-10-02",
+   "phd": false
   },
   {
    "title": "2027 Industrial Engineer Intern",
@@ -25,6 +52,24 @@
    "company": "Amazon",
    "location": "Seattle, Washington, USA",
    "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+   "posted": "2026-10-02",
+   "found": "2026-10-02",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern (Summer 2027)",
+   "company": "Affirm",
+   "location": "San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+   "posted": "2026-10-02",
+   "found": "2026-10-02",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+   "company": "Affirm",
+   "location": "San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
    "posted": "2026-10-02",
    "found": "2026-10-02",
    "phd": false
@@ -1864,6 +1909,15 @@
    "posted": "2026-09-03",
    "found": "2026-09-04",
    "phd": false
+  },
+  {
+   "title": "Data Scientist PhD Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
+   "posted": "2026-09-03",
+   "found": "2026-09-04",
+   "phd": true
   },
   {
    "title": "Software Engineer Intern",
