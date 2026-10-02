@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-01 23:16 UTC",
- "count": 483,
+ "updated": "2026-10-02 02:20 UTC",
+ "count": 484,
  "jobs": [
   {
    "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
@@ -2685,6 +2685,15 @@
    "phd": false
   },
   {
+   "title": "Data Science Intern - Advertisement Team - 2026 Start - PhD",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7602395891774802181",
+   "posted": "2026-08-06",
+   "found": "2026-08-06",
+   "phd": true
+  },
+  {
    "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search",
    "company": "TikTok",
    "location": "Seattle, WA",
@@ -3031,6 +3040,15 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Security & Identity Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
    "posted": "2026-08-04",
    "found": "2026-08-04",
    "phd": false
@@ -4150,15 +4168,6 @@
    "posted": "2026-02-24",
    "found": "2026-07-28",
    "phd": false
-  },
-  {
-   "title": "Data Science Intern - Advertisement Team - 2026 Start','PhD",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7602395891774802181",
-   "posted": "2026-02-03",
-   "found": "2026-08-06",
-   "phd": true
   },
   {
    "title": "Forward Deployed Software Engineer, Internship - US Government",
