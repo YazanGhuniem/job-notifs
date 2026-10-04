@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-04 14:28 UTC",
- "count": 497,
+ "updated": "2026-10-04 18:16 UTC",
+ "count": 500,
  "jobs": [
   {
    "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
@@ -25,6 +25,15 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557023070",
+   "posted": "2026-10-02",
+   "found": "2026-10-02",
+   "phd": false
+  },
+  {
+   "title": "Finance Transformation & Analytics Intern",
+   "company": "Intuit",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
    "posted": "2026-10-02",
    "found": "2026-10-02",
    "phd": false
@@ -232,6 +241,15 @@
    "company": "Meta",
    "location": "Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/1940312740718917",
+   "posted": "2026-10-01",
+   "found": "2026-10-01",
+   "phd": false
+  },
+  {
+   "title": "Business Data Analyst Intern - Strategy & Planning",
+   "company": "Intuit",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
    "posted": "2026-10-01",
    "found": "2026-10-01",
    "phd": false
@@ -3835,6 +3853,15 @@
    "posted": "2026-06-15",
    "found": "2026-09-03",
    "phd": false
+  },
+  {
+   "title": "General Hire \u2013 Research Scientist Intern - Monetization Technology - 2026 Start - PhD",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7559026733786548488",
+   "posted": "2026-06-15",
+   "found": "2026-09-03",
+   "phd": true
   },
   {
    "title": "Research Engineer Intern - Ads ML Infra - 2026 Start - PhD",
