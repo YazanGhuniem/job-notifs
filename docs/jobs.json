@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-04 02:46 UTC",
- "count": 491,
+ "updated": "2026-10-04 08:53 UTC",
+ "count": 488,
  "jobs": [
   {
    "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
@@ -835,15 +835,6 @@
    "company": "Rippling",
    "location": "SF",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "posted": "2026-09-22",
-   "found": "2026-09-23",
-   "phd": false
-  },
-  {
-   "title": "Full Stack Software Engineer Intern",
-   "company": "Rippling",
-   "location": "Seattle, WA | SF | NYC",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "posted": "2026-09-22",
    "found": "2026-09-23",
    "phd": false
@@ -2586,15 +2577,6 @@
    "phd": false
   },
   {
-   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7672881840860940597",
-   "posted": "2026-08-12",
-   "found": "2026-08-12",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern - AI Inference Co Design",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -3445,15 +3427,6 @@
    "company": "TikTok",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7668582086899763461",
-   "posted": "2026-08-03",
-   "found": "2026-08-03",
-   "phd": false
-  },
-  {
-   "title": "Backend Software Engineer Intern",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7667935739300317493",
    "posted": "2026-08-03",
    "found": "2026-08-03",
    "phd": false
