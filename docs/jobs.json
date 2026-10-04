@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-04 08:53 UTC",
- "count": 488,
+ "updated": "2026-10-04 14:28 UTC",
+ "count": 497,
  "jobs": [
   {
    "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
@@ -25,15 +25,6 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557023070",
-   "posted": "2026-10-02",
-   "found": "2026-10-02",
-   "phd": false
-  },
-  {
-   "title": "Finance Transformation & Analytics Intern",
-   "company": "Intuit",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
    "posted": "2026-10-02",
    "found": "2026-10-02",
    "phd": false
@@ -241,15 +232,6 @@
    "company": "Meta",
    "location": "Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/1940312740718917",
-   "posted": "2026-10-01",
-   "found": "2026-10-01",
-   "phd": false
-  },
-  {
-   "title": "Business Data Analyst Intern - Strategy & Planning",
-   "company": "Intuit",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
    "posted": "2026-10-01",
    "found": "2026-10-01",
    "phd": false
@@ -498,12 +480,12 @@
    "phd": false
   },
   {
-   "title": "Research Intern",
-   "company": "Atlassian",
-   "location": "Seattle, WA",
-   "url": "https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job",
+   "title": "Research Intern - Data Systems",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
    "posted": "2026-09-26",
-   "found": "2026-09-26",
+   "found": "2026-10-04",
    "phd": false
   },
   {
@@ -840,6 +822,15 @@
    "phd": false
   },
   {
+   "title": "Full Stack Software Engineer Intern",
+   "company": "Rippling",
+   "location": "Seattle, WA | SF | NYC",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "posted": "2026-09-22",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
    "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
@@ -1099,6 +1090,15 @@
    "posted": "2026-09-16",
    "found": "2026-09-16",
    "phd": true
+  },
+  {
+   "title": "Client Solutions Intern",
+   "company": "TikTok",
+   "location": "NYC",
+   "url": "https://lifeattiktok.com/search/7684622182248548661",
+   "posted": "2026-09-16",
+   "found": "2026-10-04",
+   "phd": false
   },
   {
    "title": "Service Program & Project Management Intern",
@@ -1920,15 +1920,6 @@
    "phd": false
   },
   {
-   "title": "Ecosystem Analyst Intern - TikTok LIVE",
-   "company": "TikTok",
-   "location": "LA",
-   "url": "https://lifeattiktok.com/search/7678985103851407669",
-   "posted": "2026-09-02",
-   "found": "2026-09-02",
-   "phd": false
-  },
-  {
    "title": "Vehicle Software Engineer Intern - Diagnostic User Interface",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -2226,6 +2217,33 @@
    "phd": false
   },
   {
+   "title": "Client Solutions Intern - Global Business Solutions",
+   "company": "TikTok",
+   "location": "NYC",
+   "url": "https://lifeattiktok.com/search/7677467375486765317",
+   "posted": "2026-08-24",
+   "found": "2026-08-25",
+   "phd": false
+  },
+  {
+   "title": "Client Solutions Intern - Global Business Solutions",
+   "company": "TikTok",
+   "location": "LA",
+   "url": "https://lifeattiktok.com/search/7677467375487486213",
+   "posted": "2026-08-24",
+   "found": "2026-08-25",
+   "phd": false
+  },
+  {
+   "title": "Client Solutions Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7677467052537776437",
+   "posted": "2026-08-24",
+   "found": "2026-08-25",
+   "phd": false
+  },
+  {
    "title": "AI Developer Technology Engineer Intern, AI - 2027",
    "company": "NVIDIA",
    "location": "2 Locations",
@@ -2394,6 +2412,15 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
    "posted": "2026-08-20",
    "found": "2026-08-20",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7670875283026053381",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
    "phd": false
   },
   {
@@ -2572,6 +2599,15 @@
    "company": "TikTok",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7672920375646488885",
+   "posted": "2026-08-12",
+   "found": "2026-08-12",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7672881840860940597",
    "posted": "2026-08-12",
    "found": "2026-08-12",
    "phd": false
@@ -3432,6 +3468,24 @@
    "phd": false
   },
   {
+   "title": "Backend Software Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7667935739300317493",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - ML Infra",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7668696895234197813",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
    "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -3657,6 +3711,15 @@
    "phd": false
   },
   {
+   "title": "Leave of Absence Analyst Project Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7662343067223263541",
+   "posted": "2026-07-15",
+   "found": "2026-10-04",
+   "phd": false
+  },
+  {
    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
    "company": "Palantir",
    "location": "Washington, D.C. | United States",
@@ -3774,15 +3837,6 @@
    "phd": false
   },
   {
-   "title": "General Hire \u2013 Research Scientist Intern - Monetization Technology - 2026 Start - PhD",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7559026733786548488",
-   "posted": "2026-06-15",
-   "found": "2026-09-03",
-   "phd": true
-  },
-  {
    "title": "Research Engineer Intern - Ads ML Infra - 2026 Start - PhD",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -3828,11 +3882,38 @@
    "phd": false
   },
   {
+   "title": "Seller Strategy Business Analyst Intern - TikTok Shop - US Operation",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7558622480857188626",
+   "posted": "2026-06-15",
+   "found": "2026-10-04",
+   "phd": false
+  },
+  {
+   "title": "Business Analyst Project Intern",
+   "company": "TikTok",
+   "location": "NYC",
+   "url": "https://lifeattiktok.com/search/7600202821496998197",
+   "posted": "2026-06-15",
+   "found": "2026-10-04",
+   "phd": false
+  },
+  {
    "title": "2027 Software Engineer Intern",
    "company": "Anduril",
    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
    "posted": "2026-06-10",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "AI Software Engineer Intern - Transaction Platform",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7646621925436131637",
+   "posted": "2026-06-09",
    "found": "2026-07-28",
    "phd": false
   },
