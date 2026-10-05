@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-05 13:01 UTC",
- "count": 504,
+ "updated": "2026-10-05 21:20 UTC",
+ "count": 507,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8257159",
+   "posted": "2026-10-05",
+   "found": "2026-10-05",
+   "phd": true
+  },
+  {
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
+   "posted": "2026-10-05",
+   "found": "2026-10-05",
+   "phd": true
+  },
   {
    "title": "Data Processing Developer Technology Intern - 2027",
    "company": "NVIDIA",
@@ -39,6 +57,15 @@
    "phd": false
   },
   {
+   "title": "Software Engineering Intern, Nsight Systems - 2026",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248",
+   "posted": "2026-10-05",
+   "found": "2026-10-05",
+   "phd": false
+  },
+  {
    "title": "Firmware Engineer Intern",
    "company": "Microsoft",
    "location": "Santa Clara, CA",
@@ -46,6 +73,15 @@
    "posted": "2026-10-05",
    "found": "2026-10-05",
    "phd": false
+  },
+  {
+   "title": "PhD Intern, AI Applied Scientist (2027)",
+   "company": "Figma",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
+   "posted": "2026-10-05",
+   "found": "2026-10-05",
+   "phd": true
   },
   {
    "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
@@ -696,7 +732,7 @@
    "phd": true
   },
   {
-   "title": "2027 Summer Intern, PhD, Road Understanding, ML Engineer",
+   "title": "2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
    "company": "Waymo",
    "location": "Mountain View, California",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
@@ -4310,15 +4346,6 @@
    "location": "New York, NY | United States",
    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
    "posted": "2026-03-10",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - AI Alignment",
-   "company": "Meta",
-   "location": "Boston, MA | Seattle, WA | SF | Menlo Park, CA | NYC | Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/1782902493113620",
-   "posted": "2026-03-05",
    "found": "2026-07-28",
    "phd": false
   },
