@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-05 21:20 UTC",
- "count": 507,
+ "updated": "2026-10-06 01:48 UTC",
+ "count": 512,
  "jobs": [
   {
    "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
@@ -19,6 +19,15 @@
    "posted": "2026-10-05",
    "found": "2026-10-05",
    "phd": true
+  },
+  {
+   "title": "Embedded Software Engineer Intern - Thermal Systems",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/285797",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
   },
   {
    "title": "Data Processing Developer Technology Intern - 2027",
@@ -84,12 +93,48 @@
    "phd": true
   },
   {
-   "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/285508",
-   "posted": "2026-10-02",
-   "found": "2026-10-02",
+   "title": "Data Engineer Intern",
+   "company": "Atlassian",
+   "location": "Seattle, WA",
+   "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "2027 Quality & Test Engineer Intern",
+   "company": "Anduril",
+   "location": "Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "2027 Reliability Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "2027 Systems Engineer Intern",
+   "company": "Anduril",
+   "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "Applied and Research Scientist/Engineer Intern",
+   "company": "Adobe",
+   "location": "Cambridge, MA | Seattle, WA | College Park, MD | SF | San Jose, CA | NYC",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
    "phd": false
   },
   {
