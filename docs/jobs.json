@@ -1,12 +1,39 @@
 {
- "updated": "2026-10-06 20:25 UTC",
- "count": 517,
+ "updated": "2026-10-06 23:55 UTC",
+ "count": 529,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": false
+  },
   {
    "title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "2027 Summer Intern, MS, PhD, Software Engineer",
+   "company": "Waymo",
+   "location": "Mountain View, California, United States",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": true
+  },
+  {
+   "title": "Process Engineer Intern - Dielectric Deposition",
+   "company": "Tesla",
+   "location": "Austin, TX",
+   "url": "https://www.tesla.com/careers/search/job/285641",
    "posted": "2026-10-06",
    "found": "2026-10-06",
    "phd": false
@@ -30,13 +57,67 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern, Machine Learning, PhD (Summer 2027)",
+   "title": "PhD Research Intern, Cross-Disciplinary Vision Science - Summer 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": true
+  },
+  {
+   "title": "Software Engineer Intern - Systems and Infrastructure - PhD",
+   "company": "Meta",
+   "location": "Seattle, WA | Burlingame, CA | Redmond, WA | Menlo Park, CA | NYC | Bellevue, WA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/945520495299801",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": true
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Meta",
+   "location": "Seattle, WA | Menlo Park, CA | NYC | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1952991802037374",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "Data Scientist Intern - Product Analytics",
+   "company": "Meta",
+   "location": "Menlo Park, CA | NYC",
+   "url": "https://www.metacareers.com/jobs/1633096478817942",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Machine Learning",
+   "company": "Meta",
+   "location": "Seattle, WA | Burlingame, CA | Redmond, WA | Menlo Park, CA | NYC | Bellevue, WA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/2180490782513668",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
    "company": "Lyft",
    "location": "San Francisco, CA",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
    "posted": "2026-10-06",
    "found": "2026-10-06",
    "phd": true
+  },
+  {
+   "title": "Security Engineer Intern [Winter 2027]",
+   "company": "Figure AI",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4719593006",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": false
   },
   {
    "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
@@ -1778,8 +1859,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1787,8 +1868,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2395,6 +2476,15 @@
    "posted": "2026-08-26",
    "found": "2026-08-26",
    "phd": false
+  },
+  {
+   "title": "Applied Scientist PhD Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556868271",
+   "posted": "2026-08-26",
+   "found": "2026-10-06",
+   "phd": true
   },
   {
    "title": "AI Research Intern, TAO Multi-Modal Model Development - 2026",
@@ -4482,6 +4572,24 @@
    "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
    "posted": "2025-10-08",
    "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Validation Engineering Intern [Winter 2027]",
+   "company": "Figure AI",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4606072006",
+   "posted": "2025-10-01",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Firmware Engineering Intern [Winter 2027]",
+   "company": "Figure AI",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4601309006",
+   "posted": "2025-09-12",
+   "found": "2026-10-06",
    "phd": false
   },
   {
