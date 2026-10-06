@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-06 01:48 UTC",
- "count": 512,
+ "updated": "2026-10-06 08:13 UTC",
+ "count": 516,
  "jobs": [
+  {
+   "title": "APAC Ecommerce Backend Intern - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "Research Intern, Efficient Deep Learning - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": false
+  },
   {
    "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
    "company": "Waymo",
@@ -91,6 +109,24 @@
    "posted": "2026-10-05",
    "found": "2026-10-05",
    "phd": true
+  },
+  {
+   "title": "Software Engineer Intern (2027)",
+   "company": "Cloudflare",
+   "location": "In-Office",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern (2027)",
+   "company": "Cloudflare",
+   "location": "In-Office",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
   },
   {
    "title": "Data Engineer Intern",
