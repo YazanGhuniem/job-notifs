@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-06 23:55 UTC",
- "count": 529,
+ "updated": "2026-10-07 02:49 UTC",
+ "count": 530,
  "jobs": [
+  {
+   "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
+   "company": "Amazon",
+   "location": "Redmond, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
+   "posted": "2026-10-07",
+   "found": "2026-10-07",
+   "phd": false
+  },
   {
    "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
    "company": "Waymo",
