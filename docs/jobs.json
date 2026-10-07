@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-07 09:25 UTC",
- "count": 526,
+ "updated": "2026-10-07 16:42 UTC",
+ "count": 525,
  "jobs": [
   {
    "title": "Data Scientist Intern - Product Analytics",
@@ -240,7 +240,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -249,7 +249,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1393,15 +1393,6 @@
    "company": "Tesla",
    "location": "Austin, TX",
    "url": "https://www.tesla.com/careers/search/job/283443",
-   "posted": "2026-09-16",
-   "found": "2026-09-16",
-   "phd": false
-  },
-  {
-   "title": "Factory Firmware Integration Intern - Energy Engineering",
-   "company": "Tesla",
-   "location": "Buffalo, NY",
-   "url": "https://www.tesla.com/careers/search/job/283630",
    "posted": "2026-09-16",
    "found": "2026-09-16",
    "phd": false
