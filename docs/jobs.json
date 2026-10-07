@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-07 16:42 UTC",
+ "updated": "2026-10-07 21:40 UTC",
  "count": 525,
  "jobs": [
+  {
+   "title": "PhD Research Intern, AI-Aided Engineering \u2013 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
+   "posted": "2026-10-07",
+   "found": "2026-10-07",
+   "phd": true
+  },
   {
    "title": "Data Scientist Intern - Product Analytics",
    "company": "Meta",
@@ -66,13 +75,13 @@
    "phd": false
   },
   {
-   "title": "Research Intern, Efficient Deep Learning - 2027",
+   "title": "PhD Research Intern, Efficient Deep Learning - 2027",
    "company": "NVIDIA",
    "location": "2 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
    "posted": "2026-10-06",
    "found": "2026-10-06",
-   "phd": false
+   "phd": true
   },
   {
    "title": "PhD Research Intern, Cross-Disciplinary Vision Science - Summer 2027",
@@ -2932,15 +2941,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/279763",
-   "posted": "2026-08-10",
-   "found": "2026-08-10",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern (Winter 2027)",
-   "company": "Figma",
-   "location": "San Francisco, CA \u2022 New York, NY",
-   "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
    "posted": "2026-08-10",
    "found": "2026-08-10",
    "phd": false
