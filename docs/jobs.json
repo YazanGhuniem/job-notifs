@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-07 02:49 UTC",
- "count": 530,
+ "updated": "2026-10-07 09:25 UTC",
+ "count": 526,
  "jobs": [
+  {
+   "title": "Data Scientist Intern - Product Analytics",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/929757023499411",
+   "posted": "2026-10-07",
+   "found": "2026-10-07",
+   "phd": false
+  },
   {
    "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
    "company": "Amazon",
@@ -493,15 +502,6 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
-   "posted": "2026-10-01",
-   "found": "2026-10-01",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Azure Databases",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557002476",
    "posted": "2026-10-01",
    "found": "2026-10-01",
    "phd": false
@@ -4026,15 +4026,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern - Compute Platform - Database Acceleration - 2026 Start - PhD",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7534790434314438919",
-   "posted": "2026-07-08",
-   "found": "2026-09-03",
-   "phd": true
-  },
-  {
    "title": "Applied Scientist Intern - Recommendation AI Lab",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -4134,15 +4125,6 @@
    "phd": true
   },
   {
-   "title": "Applied Scientist Intern - Monetization GenAI - Global Frontier Tech Recruitment Program - 2027 Start - PhD",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7631062649025857797",
-   "posted": "2026-06-15",
-   "found": "2026-09-03",
-   "phd": true
-  },
-  {
    "title": "Applied Scientist Intern - Multiple Teams",
    "company": "TikTok",
    "location": "Seattle, WA",
@@ -4174,15 +4156,6 @@
    "company": "TikTok",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7558622480857188626",
-   "posted": "2026-06-15",
-   "found": "2026-10-04",
-   "phd": false
-  },
-  {
-   "title": "Business Analyst Project Intern",
-   "company": "TikTok",
-   "location": "NYC",
-   "url": "https://lifeattiktok.com/search/7600202821496998197",
    "posted": "2026-06-15",
    "found": "2026-10-04",
    "phd": false
@@ -4229,15 +4202,6 @@
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/253454",
    "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Software Engineer Intern",
-   "company": "Rippling",
-   "location": "SF",
-   "url": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781",
-   "posted": "2026-06-05",
    "found": "2026-07-28",
    "phd": false
   },
