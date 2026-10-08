@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-08 14:59 UTC",
- "count": 534,
+ "updated": "2026-10-08 20:29 UTC",
+ "count": 538,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": true
+  },
   {
    "title": "Machine Learning Engineer Intern",
    "company": "TikTok",
@@ -75,6 +84,33 @@
    "phd": false
   },
   {
+   "title": "[2027] Applied Scientist - PhD Intern",
+   "company": "Roblox",
+   "location": "San Mateo, CA, United States",
+   "url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": true
+  },
+  {
+   "title": "[2027] Data Scientist - PhD Intern",
+   "company": "Roblox",
+   "location": "San Mateo, CA, United States",
+   "url": "https://careers.roblox.com/jobs/8242619?gh_jid=8242619",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": true
+  },
+  {
+   "title": "Solutions Engineer Intern 2027 (USA)",
+   "company": "Pinterest",
+   "location": "San Francisco, CA, US; Remote, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214788",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
    "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
    "company": "NVIDIA",
    "location": "2 Locations",
@@ -93,10 +129,19 @@
    "phd": false
   },
   {
-   "title": "Software Engineer, Intern - Labs (Summer 2027)",
-   "company": "DoorDash",
-   "location": " San Francisco, CA; Sunnyvale, CA",
-   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+   "title": "Systems Development Engineer Intern, (US) 2027",
+   "company": "Amazon",
+   "location": "Bellevue, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Embedded Firmware Co-op, Amazon Robotics - Spring 2027",
+   "company": "Amazon",
+   "location": "North Reading, Massachusetts, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
    "posted": "2026-10-08",
    "found": "2026-10-08",
    "phd": false
@@ -375,7 +420,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -384,7 +429,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2035,15 +2080,6 @@
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
-  },
-  {
-   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-   "company": "Waymo",
-   "location": "Mountain View, California",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
-   "posted": "2026-09-10",
-   "found": "2026-09-10",
-   "phd": true
   },
   {
    "title": "Data Engineer Intern - Fleet Data - Self-Driving",
