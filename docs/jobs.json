@@ -1,7 +1,97 @@
 {
- "updated": "2026-10-08 01:23 UTC",
- "count": 527,
+ "updated": "2026-10-08 07:35 UTC",
+ "count": 537,
  "jobs": [
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7694045969844209973",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7694040502082521397",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7694044547207268661",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7694045967754889477",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7694045969156426037",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7694048048843147573",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Data Analyst Intern - People Products",
+   "company": "Tesla",
+   "location": "Palo Alto, CA | Austin, TX",
+   "url": "https://www.tesla.com/careers/search/job/286085",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer, Intern - Labs (Summer 2027)",
+   "company": "DoorDash",
+   "location": " San Francisco, CA; Sunnyvale, CA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Tableau Research Intern",
+   "company": "Salesforce",
+   "location": "Palo Alto, CA | Seattle, WA",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1",
+   "posted": "2026-10-07",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Tableau Research Intern",
+   "company": "Salesforce",
+   "location": "Palo Alto, CA | Seattle, WA",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252",
+   "posted": "2026-10-07",
+   "found": "2026-10-08",
+   "phd": false
+  },
   {
    "title": "PhD Research Intern, AI-Aided Engineering \u2013 2027",
    "company": "NVIDIA",
@@ -10,6 +100,15 @@
    "posted": "2026-10-07",
    "found": "2026-10-07",
    "phd": true
+  },
+  {
+   "title": "Applied Scientist Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
+   "posted": "2026-10-07",
+   "found": "2026-10-08",
+   "phd": false
   },
   {
    "title": "Data Scientist Intern - Product Analytics",
@@ -249,7 +348,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -258,7 +357,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1886,8 +1985,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1895,8 +1994,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2275,15 +2374,6 @@
    "company": "Tesla",
    "location": "Fremont, CA",
    "url": "https://www.tesla.com/careers/search/job/281462",
-   "posted": "2026-09-01",
-   "found": "2026-09-01",
-   "phd": false
-  },
-  {
-   "title": "Data Scientist Intern",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
    "posted": "2026-09-01",
    "found": "2026-09-01",
    "phd": false
