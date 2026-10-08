@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-08 07:35 UTC",
- "count": 537,
+ "updated": "2026-10-08 14:59 UTC",
+ "count": 534,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern",
@@ -57,10 +57,37 @@
    "phd": false
   },
   {
+   "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7687630614472149301",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
    "title": "Data Analyst Intern - People Products",
    "company": "Tesla",
    "location": "Palo Alto, CA | Austin, TX",
    "url": "https://www.tesla.com/careers/search/job/286085",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Remote/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2026322",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": true
+  },
+  {
+   "title": "AI Developer Technology Intern - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
    "posted": "2026-10-08",
    "found": "2026-10-08",
    "phd": false
@@ -348,7 +375,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -357,7 +384,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1985,8 +2012,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -1994,8 +2021,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2023,6 +2050,15 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/281612",
+   "posted": "2026-09-10",
+   "found": "2026-09-10",
+   "phd": false
+  },
+  {
+   "title": "Robotics Systems and Control Intern",
+   "company": "Microsoft",
+   "location": "Cambridge, UK",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724",
    "posted": "2026-09-10",
    "found": "2026-09-10",
    "phd": false
@@ -2793,15 +2829,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027",
-   "company": "Fifth Third Bank",
-   "location": "Cincinnati, OH",
-   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
-   "posted": "2026-08-20",
-   "found": "2026-08-20",
-   "phd": false
-  },
-  {
    "title": "Information Security Co-op \u2013 Code Security \u2013 Spring 2027",
    "company": "Fifth Third Bank",
    "location": "Cincinnati, OH",
@@ -3486,51 +3513,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer: AI/ML & LLM Intern",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-   "posted": "2026-08-04",
-   "found": "2026-08-04",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Data Platform & Analytics",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-   "posted": "2026-08-04",
-   "found": "2026-08-04",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Security & Identity Intern",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-   "posted": "2026-08-04",
-   "found": "2026-08-04",
-   "phd": false
-  },
-  {
-   "title": "Full-Stack Product Engineer Intern - Web + Services",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-   "posted": "2026-08-04",
-   "found": "2026-08-04",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Cloud & Distributed Backend",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-   "posted": "2026-08-04",
-   "found": "2026-08-04",
-   "phd": false
-  },
-  {
    "title": "Research Scientist Intern - Trust and Safety",
    "company": "TikTok",
    "location": "Seattle, WA",
@@ -3994,15 +3976,6 @@
    "company": "SpaceX",
    "location": "Flexible - Any SpaceX Site",
    "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
-   "posted": "2026-08-03",
-   "found": "2026-08-03",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - CoreAI",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
    "posted": "2026-08-03",
    "found": "2026-08-03",
    "phd": false
