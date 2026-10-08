@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-07 21:40 UTC",
- "count": 525,
+ "updated": "2026-10-08 01:23 UTC",
+ "count": 527,
  "jobs": [
   {
    "title": "PhD Research Intern, AI-Aided Engineering \u2013 2027",
@@ -1314,6 +1314,24 @@
    "url": "https://www.tesla.com/careers/search/job/283990",
    "posted": "2026-09-18",
    "found": "2026-09-19",
+   "phd": false
+  },
+  {
+   "title": "Data Engineer Internship - 2027 (US)",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+   "posted": "2026-09-18",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Business Intelligence Engineer Internship - 2027 (US)",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us",
+   "posted": "2026-09-18",
+   "found": "2026-10-08",
    "phd": false
   },
   {
@@ -2685,6 +2703,15 @@
    "phd": false
   },
   {
+   "title": "Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027",
+   "company": "Fifth Third Bank",
+   "location": "Cincinnati, OH",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
+   "posted": "2026-08-20",
+   "found": "2026-08-20",
+   "phd": false
+  },
+  {
    "title": "Information Security Co-op \u2013 Code Security \u2013 Spring 2027",
    "company": "Fifth Third Bank",
    "location": "Cincinnati, OH",
@@ -3043,15 +3070,6 @@
    "posted": "2026-08-06",
    "found": "2026-08-06",
    "phd": true
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7668415591670417717",
-   "posted": "2026-08-05",
-   "found": "2026-08-05",
-   "phd": false
   },
   {
    "title": "Data Science Intern - TikTok Product",
