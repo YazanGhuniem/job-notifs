@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09 13:54 UTC",
+ "updated": "2026-10-09 19:06 UTC",
  "count": 546,
  "jobs": [
   {
@@ -34,6 +34,24 @@
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
+   "posted": "2026-10-09",
+   "found": "2026-10-09",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+   "company": "Meta",
+   "location": "Burlingame, CA | Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2211974449401350",
+   "posted": "2026-10-09",
+   "found": "2026-10-09",
+   "phd": false
+  },
+  {
+   "title": "Forward Deployed Engineer Intern (HR Technology)",
+   "company": "Coinbase",
+   "location": "Hybrid - New York, NY",
+   "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
    "posted": "2026-10-09",
    "found": "2026-10-09",
    "phd": false
@@ -154,15 +172,6 @@
    "posted": "2026-10-08",
    "found": "2026-10-08",
    "phd": false
-  },
-  {
-   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
-   "company": "NVIDIA",
-   "location": "2 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Remote/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2026322",
-   "posted": "2026-10-08",
-   "found": "2026-10-08",
-   "phd": true
   },
   {
    "title": "AI Developer Technology Intern - 2027",
@@ -492,7 +501,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -501,7 +510,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -559,15 +568,6 @@
    "posted": "2026-10-02",
    "found": "2026-10-02",
    "phd": true
-  },
-  {
-   "title": "Research Intern - Maia Development",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557023070",
-   "posted": "2026-10-02",
-   "found": "2026-10-02",
-   "phd": false
   },
   {
    "title": "Finance Transformation & Analytics Intern",
