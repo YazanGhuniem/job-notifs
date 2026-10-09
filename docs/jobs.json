@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-09 19:06 UTC",
- "count": 546,
+ "updated": "2026-10-09 23:21 UTC",
+ "count": 552,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern",
@@ -39,6 +39,24 @@
    "phd": false
   },
   {
+   "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
+   "posted": "2026-10-09",
+   "found": "2026-10-09",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Document Intelligence and Content Understanding",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557037649",
+   "posted": "2026-10-09",
+   "found": "2026-10-09",
+   "phd": false
+  },
+  {
    "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
    "company": "Meta",
    "location": "Burlingame, CA | Redmond, WA",
@@ -48,10 +66,37 @@
    "phd": false
   },
   {
+   "title": "Research Scientist Intern - Spatial Audio Capture and Reproduction",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1674394627579563",
+   "posted": "2026-10-09",
+   "found": "2026-10-09",
+   "phd": false
+  },
+  {
+   "title": "Production Systems Engineer Intern",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1772445513807075",
+   "posted": "2026-10-09",
+   "found": "2026-10-09",
+   "phd": false
+  },
+  {
    "title": "Forward Deployed Engineer Intern (HR Technology)",
    "company": "Coinbase",
    "location": "Hybrid - New York, NY",
    "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+   "posted": "2026-10-09",
+   "found": "2026-10-09",
+   "phd": false
+  },
+  {
+   "title": "IT Engineer Intern (Early Careers Summer 2027)",
+   "company": "Affirm",
+   "location": "San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
    "posted": "2026-10-09",
    "found": "2026-10-09",
    "phd": false
@@ -207,6 +252,15 @@
    "url": "https://www.metacareers.com/jobs/1144327871507763",
    "posted": "2026-10-08",
    "found": "2026-10-09",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer, Intern - Labs (Summer 2027)",
+   "company": "DoorDash",
+   "location": " San Francisco, CA; Sunnyvale, CA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
    "phd": false
   },
   {
@@ -501,7 +555,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -510,7 +564,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1719,15 +1773,6 @@
    "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
    "posted": "2026-09-15",
    "found": "2026-09-30",
-   "phd": false
-  },
-  {
-   "title": "Physical Design and Timing Engineer Intern - Summer 2027",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
-   "posted": "2026-09-15",
-   "found": "2026-09-15",
    "phd": false
   },
   {
@@ -3004,6 +3049,15 @@
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
+  },
+  {
+   "title": "AI Software Engineer Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
    "posted": "2026-08-19",
    "found": "2026-08-19",
    "phd": false
