@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10 08:44 UTC",
+ "updated": "2026-10-10 14:51 UTC",
  "count": 553,
  "jobs": [
   {
@@ -538,15 +538,6 @@
    "company": "NVIDIA",
    "location": "2 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248",
-   "posted": "2026-10-05",
-   "found": "2026-10-05",
-   "phd": false
-  },
-  {
-   "title": "Firmware Engineer Intern",
-   "company": "Microsoft",
-   "location": "Santa Clara, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
    "posted": "2026-10-05",
    "found": "2026-10-05",
    "phd": false
@@ -3672,6 +3663,15 @@
    "url": "https://lifeattiktok.com/search/7668881813744191749",
    "posted": "2026-08-04",
    "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Cell Engineering Intern - Cell Qualification",
+   "company": "Tesla",
+   "location": "Palo Alto, CA | San Diego, CA",
+   "url": "https://www.tesla.com/careers/search/job/278620",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
    "phd": false
   },
   {
