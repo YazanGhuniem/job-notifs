@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-12 09:28 UTC",
- "count": 546,
+ "updated": "2026-10-12 19:12 UTC",
+ "count": 547,
  "jobs": [
   {
    "title": "Accelerated Computing Research Intern",
@@ -16,6 +16,15 @@
    "company": "Google",
    "location": "Sunnyvale, CA, USA | New York, NY, USA",
    "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027",
+   "posted": "2026-10-12",
+   "found": "2026-10-12",
+   "phd": false
+  },
+  {
+   "title": "Deployment Engineering Intern",
+   "company": "Figure AI",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
    "posted": "2026-10-12",
    "found": "2026-10-12",
    "phd": false
@@ -480,15 +489,6 @@
    "phd": true
   },
   {
-   "title": "Security Engineer Intern [Winter 2027]",
-   "company": "Figure AI",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/figureai/jobs/4719593006",
-   "posted": "2026-10-06",
-   "found": "2026-10-06",
-   "phd": false
-  },
-  {
    "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
    "company": "Amazon",
    "location": "Seattle, Washington, USA",
@@ -582,7 +582,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -591,7 +591,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -4843,6 +4843,15 @@
    "posted": "2023-11-07",
    "found": "2026-07-28",
    "phd": true
+  },
+  {
+   "title": "Software Engineering Intern (2027)",
+   "company": "Databricks",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+   "posted": "2023-08-04",
+   "found": "2026-10-12",
+   "phd": false
   },
   {
    "title": "Information Security Engineer, Internship",
