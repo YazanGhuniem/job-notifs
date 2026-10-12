@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-12 02:03 UTC",
- "count": 552,
+ "updated": "2026-10-12 09:28 UTC",
+ "count": 546,
  "jobs": [
+  {
+   "title": "Accelerated Computing Research Intern",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Sweden-Remote/Accelerated-Computing-Research-Intern_JR2027378",
+   "posted": "2026-10-12",
+   "found": "2026-10-12",
+   "phd": false
+  },
+  {
+   "title": "Forward Deployed Engineering Intern, BS/MS, Summer 2027",
+   "company": "Google",
+   "location": "Sunnyvale, CA, USA | New York, NY, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027",
+   "posted": "2026-10-12",
+   "found": "2026-10-12",
+   "phd": false
+  },
   {
    "title": "CPU Compiler Intern - 2027",
    "company": "NVIDIA",
@@ -564,7 +582,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -573,7 +591,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1015,15 +1033,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA | Austin, TX",
    "url": "https://www.tesla.com/careers/search/job/285120",
-   "posted": "2026-09-29",
-   "found": "2026-09-29",
-   "phd": false
-  },
-  {
-   "title": "Data Science Intern (Summer 2027)",
-   "company": "Robinhood",
-   "location": "Menlo Park, CA",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738",
    "posted": "2026-09-29",
    "found": "2026-09-29",
    "phd": false
@@ -1956,15 +1965,6 @@
    "phd": false
   },
   {
-   "title": "User Experience Engineer Intern, BS/MS, Summer 2027",
-   "company": "Google",
-   "location": "Mountain View, CA, USA | Atlanta, GA, USA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/112499004540887750-user-experience-engineer-intern-bsms-summer-2027",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
    "title": "Data Scientist, Research Intern, PhD, Summer 2027",
    "company": "Google",
    "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
@@ -1974,37 +1974,10 @@
    "phd": true
   },
   {
-   "title": "User Experience Research Intern, MS, Summer 2027",
-   "company": "Google",
-   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/89541201752924870-user-experience-research-intern-ms-summer-2027",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
-   "title": "Customer and Partner Solutions Engineering Intern, BS/MS, Summer 2027",
-   "company": "Google",
-   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bsms-summer-2027",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
    "title": "Student Researcher, BS/MS, Winter-Summer 2027",
    "company": "Google",
    "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
    "url": "https://www.google.com/about/careers/applications/jobs/results/131518356678156998-student-researcher-bsms-wintersummer-2027",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
-   "title": "Product Design Engineering Intern, BS/MS, Summer 2027",
-   "company": "Google",
-   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/135755874491605702-product-design-engineering-intern-bsms-summer-2027",
    "posted": "2026-09-14",
    "found": "2026-09-14",
    "phd": false
@@ -2044,33 +2017,6 @@
    "posted": "2026-09-14",
    "found": "2026-09-14",
    "phd": true
-  },
-  {
-   "title": "Security Engineering Intern, BS/MS, Summer 2027",
-   "company": "Google",
-   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bsms-summer-2027",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
-   "title": "Data Center Engineering Intern, BS/MS, Summer 2027",
-   "company": "Google",
-   "location": "Mountain View, CA, USA | Palo Alto, CA, USA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/115313754307994310-data-center-engineering-intern-bsms-summer-2027",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
-   "title": "Data Scientist, Product Intern, MS, Summer 2027",
-   "company": "Google",
-   "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
   },
   {
    "title": "Data Science Intern (2027)",
