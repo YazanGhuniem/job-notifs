@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-13 15:37 UTC",
- "count": 544,
+ "updated": "2026-10-13 20:51 UTC",
+ "count": 545,
  "jobs": [
   {
    "title": "Applied Deep Learning Algorithm Intern, Autonomous Driving - 2027",
@@ -46,6 +46,15 @@
    "posted": "2026-10-13",
    "found": "2026-10-13",
    "phd": false
+  },
+  {
+   "title": "PhD Intern, Software Engineer - Graphics (2027)",
+   "company": "Figma",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004",
+   "posted": "2026-10-13",
+   "found": "2026-10-13",
+   "phd": true
   },
   {
    "title": "Accelerated Computing Research Intern",
@@ -563,7 +572,7 @@
   {
    "title": "Data Processing Developer Technology Intern - 2027",
    "company": "NVIDIA",
-   "location": "6 Locations",
+   "location": "4 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
    "posted": "2026-10-05",
    "found": "2026-10-05",
@@ -959,8 +968,8 @@
   {
    "title": "Developer Technology Engineering Intern - Compute Performance",
    "company": "NVIDIA",
-   "location": "5 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
    "posted": "2026-09-30",
    "found": "2026-09-30",
    "phd": false
