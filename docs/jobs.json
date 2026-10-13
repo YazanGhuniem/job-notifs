@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-12 19:12 UTC",
- "count": 547,
+ "updated": "2026-10-13 01:29 UTC",
+ "count": 542,
  "jobs": [
+  {
+   "title": "Applied Deep Learning Algorithm Intern, Autonomous Driving - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181",
+   "posted": "2026-10-13",
+   "found": "2026-10-13",
+   "phd": false
+  },
+  {
+   "title": "Differentiable Simulation Research Intern - Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
+   "posted": "2026-10-13",
+   "found": "2026-10-13",
+   "phd": false
+  },
   {
    "title": "Accelerated Computing Research Intern",
    "company": "NVIDIA",
@@ -9,6 +27,15 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Sweden-Remote/Accelerated-Computing-Research-Intern_JR2027378",
    "posted": "2026-10-12",
    "found": "2026-10-12",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Robotics",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2586686598441521",
+   "posted": "2026-10-12",
+   "found": "2026-10-13",
    "phd": false
   },
   {
@@ -489,15 +516,6 @@
    "phd": true
   },
   {
-   "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
-   "company": "Amazon",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
-   "posted": "2026-10-06",
-   "found": "2026-10-06",
-   "phd": false
-  },
-  {
    "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
@@ -582,7 +600,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -591,7 +609,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2129,8 +2147,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2138,8 +2156,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2374,15 +2392,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/282303",
-   "posted": "2026-09-03",
-   "found": "2026-09-03",
-   "phd": false
-  },
-  {
-   "title": "Embedded Engineer Intern - Infotainment Platforms",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/281100",
    "posted": "2026-09-03",
    "found": "2026-09-03",
    "phd": false
@@ -2667,24 +2676,6 @@
    "phd": false
   },
   {
-   "title": "Fullstack C++ Engineer Intern - Vehicle User Interface",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/280604",
-   "posted": "2026-08-26",
-   "found": "2026-08-26",
-   "phd": false
-  },
-  {
-   "title": "Embedded Software Engineer Intern - Firmware Platforms",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/281102",
-   "posted": "2026-08-26",
-   "found": "2026-08-26",
-   "phd": false
-  },
-  {
    "title": "Fullstack Software Engineer Intern - Fleetnet - Fullstack Software Engineering",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -2707,15 +2698,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/280960",
-   "posted": "2026-08-26",
-   "found": "2026-08-26",
-   "phd": false
-  },
-  {
-   "title": "Android Engineer Intern - Mobile Software",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/280605",
    "posted": "2026-08-26",
    "found": "2026-08-26",
    "phd": false
@@ -2941,15 +2923,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7670875283026053381",
-   "posted": "2026-08-19",
-   "found": "2026-08-19",
-   "phd": false
-  },
-  {
-   "title": "Data Science Intern (Winter 2027)",
-   "company": "Notion",
-   "location": "San Francisco, California | United States | Remote",
-   "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
    "posted": "2026-08-19",
    "found": "2026-08-19",
    "phd": false
@@ -4107,15 +4080,6 @@
    "phd": true
   },
   {
-   "title": "PhD Software Engineering Intern, Decision Intelligence - Fall 2026",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": true
-  },
-  {
    "title": "PhD Research Intern, Generative AI - 2026",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
@@ -4123,15 +4087,6 @@
    "posted": "2026-07-28",
    "found": "2026-07-28",
    "phd": true
-  },
-  {
-   "title": "Applied Research Intern, NLP - Fall 2026",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
-   "posted": "2026-07-28",
-   "found": "2026-07-28",
-   "phd": false
   },
   {
    "title": "Student Researcher, PhD, Fall 2026",
