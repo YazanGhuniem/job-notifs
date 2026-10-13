@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-13 01:29 UTC",
- "count": 542,
+ "updated": "2026-10-13 08:00 UTC",
+ "count": 545,
  "jobs": [
   {
    "title": "Applied Deep Learning Algorithm Intern, Autonomous Driving - 2027",
@@ -16,6 +16,33 @@
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
+   "posted": "2026-10-13",
+   "found": "2026-10-13",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, Deep Learning - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596",
+   "posted": "2026-10-13",
+   "found": "2026-10-13",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Agentic Graph Learning",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557039243",
+   "posted": "2026-10-13",
+   "found": "2026-10-13",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Language and Agents",
+   "company": "Meta",
+   "location": "Menlo Park, CA | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/2168438160696161",
    "posted": "2026-10-13",
    "found": "2026-10-13",
    "phd": false
