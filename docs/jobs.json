@@ -1,7 +1,34 @@
 {
- "updated": "2026-10-13 20:51 UTC",
- "count": 545,
+ "updated": "2026-10-14 00:00 UTC",
+ "count": 557,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": true
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "ServiceNow",
+   "location": "Santa Clara, CA | West Palm Beach, FL | Kirkland, WA | San Diego, CA",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345689",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "AI Engineering Associate Software Engineer Intern",
+   "company": "ServiceNow",
+   "location": "Santa Clara, CA | West Palm Beach, FL | Kirkland, WA | San Diego, CA",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
   {
    "title": "Applied Deep Learning Algorithm Intern, Autonomous Driving - 2027",
    "company": "NVIDIA",
@@ -39,12 +66,111 @@
    "phd": false
   },
   {
+   "title": "Research Intern - Agentic Data Memory",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Machine Learning for Biology and Healthcare",
+   "company": "Microsoft",
+   "location": "Cambridge, MA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
    "title": "Research Scientist Intern - Language and Agents",
    "company": "Meta",
    "location": "Menlo Park, CA | Bellevue, WA",
    "url": "https://www.metacareers.com/jobs/2168438160696161",
    "posted": "2026-10-13",
    "found": "2026-10-13",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - VLM and Omni Model Post-Training",
+   "company": "Meta",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/2988199118196184",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Production Systems Engineer Intern",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1423159169992675",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
+   "company": "Meta",
+   "location": "Redmond, WA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1139865145249047",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - 3D World Modeling - Robotics and Generative AI",
+   "company": "Meta",
+   "location": "Burlingame, CA | Redmond, WA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1839680137188723",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/3364701000388712",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - AI & System Co-Design",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1062032900196411",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Egocentric Vision-Language Models",
+   "company": "Meta",
+   "location": "Redmond, WA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/2067000203934229",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Multiple Teams",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/2192664358300823",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - AI & Compute Foundation",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1866761794487684",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
    "phd": false
   },
   {
@@ -55,6 +181,15 @@
    "posted": "2026-10-13",
    "found": "2026-10-13",
    "phd": true
+  },
+  {
+   "title": "2027 Firmware Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
   },
   {
    "title": "Accelerated Computing Research Intern",
@@ -340,15 +475,6 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557027326",
-   "posted": "2026-10-08",
-   "found": "2026-10-09",
-   "phd": false
-  },
-  {
-   "title": "Production Systems Engineering Intern",
-   "company": "Meta",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1144327871507763",
    "posted": "2026-10-08",
    "found": "2026-10-09",
    "phd": false
@@ -2174,8 +2300,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2183,8 +2309,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2212,15 +2338,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7681633701767612677",
-   "posted": "2026-09-09",
-   "found": "2026-09-09",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Service Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/282233",
    "posted": "2026-09-09",
    "found": "2026-09-09",
    "phd": false
@@ -3328,15 +3445,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7670120579999385861",
-   "posted": "2026-08-05",
-   "found": "2026-09-04",
-   "phd": false
-  },
-  {
-   "title": "Hardware Validation Engineer Intern - Optimus",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/278982",
    "posted": "2026-08-05",
    "found": "2026-09-04",
    "phd": false
