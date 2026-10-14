@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-14 19:00 UTC",
- "count": 557,
+ "updated": "2026-10-14 22:03 UTC",
+ "count": 558,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
@@ -21,10 +21,28 @@
    "phd": false
   },
   {
+   "title": "PhD Research Intern, Security and Privacy - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096",
+   "posted": "2026-10-14",
+   "found": "2026-10-14",
+   "phd": true
+  },
+  {
    "title": "Research Intern - Machine Learning and Statistics",
    "company": "Microsoft",
    "location": "Cambridge, MA | Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
+   "posted": "2026-10-14",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Embedded Software Engineering Intern, Platform",
+   "company": "Figure AI",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
    "posted": "2026-10-14",
    "found": "2026-10-14",
    "phd": false
@@ -2790,15 +2808,6 @@
    "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
    "posted": "2026-08-27",
    "found": "2026-08-28",
-   "phd": false
-  },
-  {
-   "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
-   "company": "Amazon",
-   "location": "Westborough, Massachusetts, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026",
-   "posted": "2026-08-27",
-   "found": "2026-08-27",
    "phd": false
   },
   {
