@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-14 00:00 UTC",
- "count": 557,
+ "updated": "2026-10-14 03:32 UTC",
+ "count": 559,
  "jobs": [
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7694357619162532149",
+   "posted": "2026-10-14",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Machine Learning and Statistics",
+   "company": "Microsoft",
+   "location": "Cambridge, MA | Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
+   "posted": "2026-10-14",
+   "found": "2026-10-14",
+   "phd": false
+  },
   {
    "title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
    "company": "Waymo",
