@@ -1,12 +1,21 @@
 {
- "updated": "2026-10-14 09:04 UTC",
- "count": 554,
+ "updated": "2026-10-14 14:35 UTC",
+ "count": 556,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
    "company": "TikTok",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7694357619162532149",
+   "posted": "2026-10-14",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Data Processing Developer Technology Intern - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948",
    "posted": "2026-10-14",
    "found": "2026-10-14",
    "phd": false
@@ -2302,6 +2311,15 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/281612",
+   "posted": "2026-09-10",
+   "found": "2026-09-10",
+   "phd": false
+  },
+  {
+   "title": "System Software Engineering Intern, GPU - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334",
    "posted": "2026-09-10",
    "found": "2026-09-10",
    "phd": false
