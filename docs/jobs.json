@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-14 03:32 UTC",
- "count": 559,
+ "updated": "2026-10-14 09:04 UTC",
+ "count": 554,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
@@ -243,15 +243,6 @@
    "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
    "posted": "2026-10-12",
    "found": "2026-10-12",
-   "phd": false
-  },
-  {
-   "title": "CPU Compiler Intern - 2027",
-   "company": "NVIDIA",
-   "location": "2 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1",
-   "posted": "2026-10-11",
-   "found": "2026-10-11",
    "phd": false
   },
   {
@@ -2073,42 +2064,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineering Intern, Android (Summer 2027)",
-   "company": "Robinhood",
-   "location": "Menlo Park, CA; New York, NY",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern, Backend (Summer 2027)",
-   "company": "Robinhood",
-   "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern, iOS (Summer 2027)",
-   "company": "Robinhood",
-   "location": "Menlo Park, CA; New York, NY",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern, Web (Summer 2027)",
-   "company": "Robinhood",
-   "location": "Menlo Park, CA; New York, NY",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern - Cybersecurity",
    "company": "Intuit",
    "location": "Mountain View, CA",
@@ -2318,8 +2273,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2327,8 +2282,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
