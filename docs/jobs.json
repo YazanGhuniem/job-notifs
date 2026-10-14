@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-14 14:35 UTC",
- "count": 556,
+ "updated": "2026-10-14 19:00 UTC",
+ "count": 557,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
@@ -25,6 +25,15 @@
    "company": "Microsoft",
    "location": "Cambridge, MA | Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
+   "posted": "2026-10-14",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "2027 Flight Test Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
    "posted": "2026-10-14",
    "found": "2026-10-14",
    "phd": false
@@ -2282,8 +2291,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2291,8 +2300,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
