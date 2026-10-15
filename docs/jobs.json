@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-14 22:03 UTC",
- "count": 558,
+ "updated": "2026-10-15 00:38 UTC",
+ "count": 571,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
@@ -9,6 +9,78 @@
    "url": "https://lifeattiktok.com/search/7694357619162532149",
    "posted": "2026-10-14",
    "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7694360101507762485",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7694362230074673461",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Live",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7694360097210861829",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7679220954338494773",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7694362229701069109",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7694365861943953717",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - E-Commerce Governance",
+   "company": "TikTok",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7694366551807265029",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Generative Media Research Intern",
+   "company": "Snap",
+   "location": "LA",
+   "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
    "phd": false
   },
   {
@@ -39,6 +111,42 @@
    "phd": false
   },
   {
+   "title": "Research Intern - Interactive Multimodal Futures Group - Situated, Social & Ubiquitous Computing",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041012",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
+   "company": "Meta",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1758435721926913",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Robotics Foundation Models Mid-Training - PhD",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1658187582680157",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": true
+  },
+  {
+   "title": "Display Array Modeling Engineer Intern",
+   "company": "Meta",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/2773227806411499",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
    "title": "Embedded Software Engineering Intern, Platform",
    "company": "Figure AI",
    "location": "San Jose, CA",
@@ -54,6 +162,15 @@
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
    "posted": "2026-10-14",
    "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Winter 2027 Research Engineer Co-op",
+   "company": "Anduril",
+   "location": "Santa Ana, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
    "phd": false
   },
   {
@@ -2309,8 +2426,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2318,8 +2435,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
