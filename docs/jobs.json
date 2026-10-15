@@ -1,12 +1,21 @@
 {
- "updated": "2026-10-15 05:21 UTC",
- "count": 571,
+ "updated": "2026-10-15 10:08 UTC",
+ "count": 569,
  "jobs": [
   {
    "title": "Research Engineer Intern - Video and Edge - Multimedia Lab",
    "company": "TikTok",
    "location": "San Diego, CA",
    "url": "https://lifeattiktok.com/search/7696664743112788277",
+   "posted": "2026-10-15",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Researcher Intern - Coreai",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
    "posted": "2026-10-15",
    "found": "2026-10-15",
    "phd": false
@@ -369,15 +378,6 @@
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
    "posted": "2026-10-13",
    "found": "2026-10-14",
-   "phd": false
-  },
-  {
-   "title": "Accelerated Computing Research Intern",
-   "company": "NVIDIA",
-   "location": "2 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Sweden-Remote/Accelerated-Computing-Research-Intern_JR2027378",
-   "posted": "2026-10-12",
-   "found": "2026-10-12",
    "phd": false
   },
   {
@@ -915,7 +915,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -924,7 +924,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2226,28 +2226,10 @@
    "phd": false
   },
   {
-   "title": "Mobile Software Engineer Intern - iOS",
-   "company": "Intuit",
-   "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
    "title": "AI Scientist Intern",
    "company": "Intuit",
    "location": "NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
-   "title": "Mobile Software Engineer Intern - Android",
-   "company": "Intuit",
-   "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552",
    "posted": "2026-09-14",
    "found": "2026-09-14",
    "phd": false
