@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-15 19:16 UTC",
- "count": 569,
+ "updated": "2026-10-15 22:30 UTC",
+ "count": 571,
  "jobs": [
   {
    "title": "Research Engineer Intern - Video and Edge - Multimedia Lab",
@@ -28,6 +28,24 @@
    "posted": "2026-10-15",
    "found": "2026-10-15",
    "phd": false
+  },
+  {
+   "title": "Data Scientist, Intern",
+   "company": "Duolingo",
+   "location": "New York, NY; Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+   "posted": "2026-10-15",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Data Scientist, Intern (PhD)",
+   "company": "Duolingo",
+   "location": "New York, NY; Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+   "posted": "2026-10-15",
+   "found": "2026-10-15",
+   "phd": true
   },
   {
    "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
@@ -924,7 +942,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -933,7 +951,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
