@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-16 21:25 UTC",
- "count": 574,
+ "updated": "2026-10-16 23:43 UTC",
+ "count": 580,
  "jobs": [
   {
    "title": "Software Engineer Intern - Recommendation Performance Efficiency",
@@ -12,10 +12,64 @@
    "phd": false
   },
   {
+   "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
+   "company": "Snowflake",
+   "location": "US-CA-Menlo Park | United States",
+   "url": "https://jobs.ashbyhq.com/snowflake/45f2aa43-731d-4bab-a02b-9ef979f2c86e",
+   "posted": "2026-10-16",
+   "found": "2026-10-16",
+   "phd": false
+  },
+  {
    "title": "Research Intern - Efficient AI Software Systems",
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+   "posted": "2026-10-16",
+   "found": "2026-10-16",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - MSR AI Interaction and Learning",
+   "company": "Microsoft",
+   "location": "Redmond, WA | NYC",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
+   "posted": "2026-10-16",
+   "found": "2026-10-16",
+   "phd": false
+  },
+  {
+   "title": "Research Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041730",
+   "posted": "2026-10-16",
+   "found": "2026-10-16",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Machine Learning",
+   "company": "Microsoft",
+   "location": "Cambridge, MA | NYC",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
+   "posted": "2026-10-16",
+   "found": "2026-10-16",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1141752241867684",
+   "posted": "2026-10-16",
+   "found": "2026-10-16",
+   "phd": false
+  },
+  {
+   "title": "Production Systems Engineer Intern",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/4536253699919879",
    "posted": "2026-10-16",
    "found": "2026-10-16",
    "phd": false
@@ -318,6 +372,15 @@
    "phd": false
   },
   {
+   "title": "Research Intern - Agentic Data Memory",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
    "title": "Research Intern - Machine Learning for Biology and Healthcare",
    "company": "Microsoft",
    "location": "Cambridge, MA",
@@ -340,15 +403,6 @@
    "company": "Meta",
    "location": "Sunnyvale, CA",
    "url": "https://www.metacareers.com/jobs/2988199118196184",
-   "posted": "2026-10-13",
-   "found": "2026-10-14",
-   "phd": false
-  },
-  {
-   "title": "Production Systems Engineer Intern",
-   "company": "Meta",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1423159169992675",
    "posted": "2026-10-13",
    "found": "2026-10-14",
    "phd": false
@@ -969,7 +1023,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -978,7 +1032,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2453,8 +2507,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2462,8 +2516,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
