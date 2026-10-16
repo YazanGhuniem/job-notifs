@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-15 22:30 UTC",
- "count": 571,
+ "updated": "2026-10-16 00:34 UTC",
+ "count": 572,
  "jobs": [
   {
    "title": "Research Engineer Intern - Video and Edge - Multimedia Lab",
@@ -27,6 +27,15 @@
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
    "posted": "2026-10-15",
    "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Quality and Reliability Engineer Intern",
+   "company": "Meta",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1624891432439039",
+   "posted": "2026-10-15",
+   "found": "2026-10-16",
    "phd": false
   },
   {
@@ -2426,8 +2435,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2435,8 +2444,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
