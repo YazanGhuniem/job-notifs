@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 05:12 UTC",
+ "updated": "2026-10-16 09:57 UTC",
  "count": 575,
  "jobs": [
   {
@@ -2757,6 +2757,15 @@
    "phd": false
   },
   {
+   "title": "Software Engineer Intern - SI Data Infrastructure",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/282292",
+   "posted": "2026-09-03",
+   "found": "2026-10-16",
+   "phd": false
+  },
+  {
    "title": "Data Scientist PhD Intern",
    "company": "Microsoft",
    "location": "Redmond, WA",
@@ -4435,15 +4444,6 @@
    "company": "Palantir",
    "location": "Palo Alto, CA | United States",
    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
-   "posted": "2026-07-10",
-   "found": "2026-09-25",
-   "phd": false
-  },
-  {
-   "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-   "company": "Palantir",
-   "location": "New York, NY | United States",
-   "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
    "posted": "2026-07-10",
    "found": "2026-09-25",
    "phd": false
