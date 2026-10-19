@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19 01:56 UTC",
- "count": 581,
+ "updated": "2026-10-19 07:05 UTC",
+ "count": 580,
  "jobs": [
   {
    "title": "Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure",
@@ -993,15 +993,6 @@
    "phd": false
   },
   {
-   "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-   "posted": "2026-10-05",
-   "found": "2026-10-05",
-   "phd": false
-  },
-  {
    "title": "AI Compiler Formal Verification Intern",
    "company": "NVIDIA",
    "location": "2 Locations",
@@ -1041,7 +1032,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1050,7 +1041,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
