@@ -1,7 +1,52 @@
 {
- "updated": "2026-10-19 14:48 UTC",
- "count": 580,
+ "updated": "2026-10-19 20:17 UTC",
+ "count": 581,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, PhD, Research Scientist, Visual Reasoning",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8292367",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": true
+  },
+  {
+   "title": "Machine Learning Research Intern (Summer 2027)",
+   "company": "Scale AI",
+   "location": "New York, NY; San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "2027 Field Test Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States; Quincy, Massachusetts, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "2027 Guidance, Navigation, & Control Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "2027 Low Observables Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
   {
    "title": "Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure",
    "company": "Tesla",
@@ -1032,7 +1077,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1041,7 +1086,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -4530,15 +4575,6 @@
    "phd": false
   },
   {
-   "title": "Forward Deployed Software Engineer, Internship - Intel",
-   "company": "Palantir",
-   "location": "Washington, D.C. | United States",
-   "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
-   "posted": "2026-07-01",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Forward Deployed Software Engineer, Internship - Commercial",
    "company": "Palantir",
    "location": "Chicago, IL | United States",
@@ -5097,15 +5133,6 @@
    "phd": false
   },
   {
-   "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
-   "company": "Palantir",
-   "location": "Washington, D.C. | United States",
-   "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
-   "posted": "2024-08-05",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Software Engineer, Internship - Defense Tech",
    "company": "Palantir",
    "location": "New York, NY | United States",
@@ -5160,29 +5187,11 @@
    "phd": false
   },
   {
-   "title": "Forward Deployed Software Engineer, Internship - US Government",
-   "company": "Palantir",
-   "location": "New York, NY | United States",
-   "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
-   "posted": "2022-06-30",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
    "title": "Software Engineer, Internship",
    "company": "Palantir",
    "location": "New York, NY | United States",
    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
    "posted": "2022-06-30",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Forward Deployed Software Engineer, Internship - US Government",
-   "company": "Palantir",
-   "location": "Washington, D.C. | United States",
-   "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
-   "posted": "2021-07-01",
    "found": "2026-07-28",
    "phd": false
   },
