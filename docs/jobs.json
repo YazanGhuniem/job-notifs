@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-19 20:17 UTC",
- "count": 581,
+ "updated": "2026-10-19 23:49 UTC",
+ "count": 592,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
+   "company": "Waymo",
+   "location": "Mountain View, California, United States",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8283558",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": true
+  },
   {
    "title": "2027 Summer Intern, PhD, Research Scientist, Visual Reasoning",
    "company": "Waymo",
@@ -19,6 +28,87 @@
    "posted": "2026-10-19",
    "found": "2026-10-19",
    "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Salesforce",
+   "location": "SF | Bellevue, WA",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer, Internship - Query Engines",
+   "company": "Palantir",
+   "location": "New York, NY | United States",
+   "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Algorithms Group - Generative Modeling",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Smart Glasses in Wearables AI",
+   "company": "Meta",
+   "location": "Burlingame, CA | Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1584033410435097",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - On-Device AI Model Optimization",
+   "company": "Meta",
+   "location": "Burlingame, CA | Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/4455569504707135",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "Optical Engineering AI and Data Analytics Intern",
+   "company": "Meta",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1851348099357899",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Robotics Hardware",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2105411693413958",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - 3D-grounded Generalist Model for Robotics",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2267351860492630",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Multimodal LLM and Speech-to-Speech Translation - PhD",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/4723409617931131",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": true
   },
   {
    "title": "2027 Field Test Engineer Intern",
@@ -396,6 +486,15 @@
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889",
    "posted": "2026-10-13",
    "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Summer 2027",
+   "company": "Netflix",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
+   "posted": "2026-10-13",
+   "found": "2026-10-19",
    "phd": false
   },
   {
@@ -2561,8 +2660,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2570,8 +2669,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
