@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-20 21:45 UTC",
- "count": 593,
+ "updated": "2026-10-21 00:12 UTC",
+ "count": 598,
  "jobs": [
+  {
+   "title": "AI Research Intern",
+   "company": "Salesforce",
+   "location": "Palo Alto, CA",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111",
+   "posted": "2026-10-20",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "AI Research Intern",
+   "company": "Salesforce",
+   "location": "Palo Alto, CA",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
+   "posted": "2026-10-20",
+   "found": "2026-10-21",
+   "phd": false
+  },
   {
    "title": "Developer Technology Engineering Intern - Compute Performance",
    "company": "NVIDIA",
@@ -28,6 +46,51 @@
    "posted": "2026-10-20",
    "found": "2026-10-20",
    "phd": true
+  },
+  {
+   "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+   "company": "Meta",
+   "location": "Cambridge, UK | Z\u00fcrich, Switzerland",
+   "url": "https://www.metacareers.com/jobs/1476285977740386",
+   "posted": "2026-10-20",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Computational Imaging and Robotics",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2857194467985784",
+   "posted": "2026-10-20",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Audio Quality with AI",
+   "company": "Meta",
+   "location": "Cambridge, UK",
+   "url": "https://www.metacareers.com/jobs/4556622427930384",
+   "posted": "2026-10-20",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Artificial Intelligence-Driven Neural Interfaces",
+   "company": "Meta",
+   "location": "Burlingame, CA | Menlo Park, CA | NYC",
+   "url": "https://www.metacareers.com/jobs/1436615821934863",
+   "posted": "2026-10-20",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Multimodal Behavioral AI",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1428978125312655",
+   "posted": "2026-10-20",
+   "found": "2026-10-21",
+   "phd": false
   },
   {
    "title": "Industrial Design Engineer Intern , Summer 2027",
@@ -1194,7 +1257,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1203,7 +1266,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1467,15 +1530,6 @@
    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
    "posted": "2026-10-01",
    "found": "2026-10-01",
-   "phd": false
-  },
-  {
-   "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
-   "company": "Waymo",
-   "location": "Mountain View, CA, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
-   "posted": "2026-09-30",
-   "found": "2026-09-30",
    "phd": false
   },
   {
@@ -2707,15 +2761,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/281612",
-   "posted": "2026-09-10",
-   "found": "2026-09-10",
-   "phd": false
-  },
-  {
-   "title": "System Software Engineering Intern, GPU - 2027",
-   "company": "NVIDIA",
-   "location": "2 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334",
    "posted": "2026-09-10",
    "found": "2026-09-10",
    "phd": false
