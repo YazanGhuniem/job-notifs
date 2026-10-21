@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21 05:03 UTC",
- "count": 597,
+ "updated": "2026-10-21 10:21 UTC",
+ "count": 598,
  "jobs": [
   {
    "title": "Software Engineer Intern",
@@ -12,10 +12,28 @@
    "phd": false
   },
   {
+   "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+   "posted": "2026-10-21",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
    "title": "Research Scientist Intern",
    "company": "Meta",
    "location": "Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/1510576574212840",
+   "posted": "2026-10-21",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+   "company": "Meta",
+   "location": "Cambridge, UK",
+   "url": "https://www.metacareers.com/jobs/2288012098648243",
    "posted": "2026-10-21",
    "found": "2026-10-21",
    "phd": false
@@ -73,15 +91,6 @@
    "posted": "2026-10-20",
    "found": "2026-10-20",
    "phd": true
-  },
-  {
-   "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
-   "company": "Meta",
-   "location": "Cambridge, UK | Z\u00fcrich, Switzerland",
-   "url": "https://www.metacareers.com/jobs/1476285977740386",
-   "posted": "2026-10-20",
-   "found": "2026-10-21",
-   "phd": false
   },
   {
    "title": "Research Scientist Intern - Computational Imaging and Robotics",
@@ -2750,8 +2759,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -2759,8 +2768,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
