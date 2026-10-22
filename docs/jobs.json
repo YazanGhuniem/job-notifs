@@ -1,7 +1,34 @@
 {
- "updated": "2026-10-22 17:22 UTC",
- "count": 605,
+ "updated": "2026-10-22 20:38 UTC",
+ "count": 608,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, PhD, AI Foundations - Recipes",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8306841",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": true
+  },
+  {
+   "title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
+   "company": "Twitch",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+   "company": "Twitch",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
   {
    "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
    "company": "NVIDIA",
@@ -124,15 +151,6 @@
    "company": "LinkedIn",
    "location": "Mountain View, CA",
    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
-   "posted": "2026-10-21",
-   "found": "2026-10-21",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
-   "company": "Apple",
-   "location": "Cambridge, UK",
-   "url": "https://jobs.apple.com/en-us/details/200690125",
    "posted": "2026-10-21",
    "found": "2026-10-21",
    "phd": false
@@ -1740,6 +1758,15 @@
    "phd": true
   },
   {
+   "title": "2027 Frontier AI & Robotics Internship (Undergraduate) - United States, Frontier AI & Robotics, Frontier AI & Robotics",
+   "company": "Amazon",
+   "location": "San Francisco, California, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
+   "posted": "2026-09-30",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
    "title": "2027 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
    "company": "Amazon",
    "location": "Seattle, Washington, USA",
@@ -2458,15 +2485,6 @@
    "posted": "2026-09-16",
    "found": "2026-09-17",
    "phd": false
-  },
-  {
-   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
-   "company": "Waymo",
-   "location": "Mountain View, California, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
-   "posted": "2026-09-16",
-   "found": "2026-09-16",
-   "phd": true
   },
   {
    "title": "2027 Summer Intern, MS, PhD, Quantitative Software Engineer",
@@ -5383,6 +5401,15 @@
    "posted": "2023-11-07",
    "found": "2026-07-28",
    "phd": true
+  },
+  {
+   "title": "Data Science Intern (2027 Start)",
+   "company": "Databricks",
+   "location": "Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+   "posted": "2023-08-17",
+   "found": "2026-10-22",
+   "phd": false
   },
   {
    "title": "Software Engineering Intern (2027)",
