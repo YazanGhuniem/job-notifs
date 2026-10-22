@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22 20:38 UTC",
- "count": 608,
+ "updated": "2026-10-22 23:42 UTC",
+ "count": 622,
  "jobs": [
   {
    "title": "2027 Summer Intern, PhD, AI Foundations - Recipes",
@@ -30,6 +30,15 @@
    "phd": false
   },
   {
+   "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+   "company": "Palantir",
+   "location": "New York, NY | United States",
+   "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
    "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
@@ -48,10 +57,109 @@
    "phd": true
   },
   {
+   "title": "Research Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
    "title": "Research Scientist Intern - Central Applied Science",
    "company": "Meta",
    "location": "Menlo Park, CA | NYC",
    "url": "https://www.metacareers.com/jobs/1582569213186235",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Feed Recommendations",
+   "company": "Meta",
+   "location": "Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/29044546168568671",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Fair - Video Generation",
+   "company": "Meta",
+   "location": "Seattle, WA | Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/3549654831867862",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1136354555738164",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - World-Model Aware Perception & Communication",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1097992326377524",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - FAIR - Multimodal Foundations",
+   "company": "Meta",
+   "location": "Boston, MA | SF | Menlo Park, CA | NYC | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/2322361288548512",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Multi-Agent Systems and Memory",
+   "company": "Meta",
+   "location": "Seattle, WA | NYC | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/2615214025585454",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Physical Engineering AI",
+   "company": "Meta",
+   "location": "Seattle, WA | NYC",
+   "url": "https://www.metacareers.com/jobs/1081255008061721",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - AI Alignment",
+   "company": "Meta",
+   "location": "Boston, MA | Seattle, WA | SF | Menlo Park, CA | NYC",
+   "url": "https://www.metacareers.com/jobs/2356892281747003",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - FAIR Chemistry",
+   "company": "Meta",
+   "location": "SF",
+   "url": "https://www.metacareers.com/jobs/2162858564439476",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "System Development Engineer Intern/Co-op, ROBOTICS - 2027",
+   "company": "Amazon",
+   "location": "North Reading, Massachusetts, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
    "posted": "2026-10-22",
    "found": "2026-10-22",
    "phd": false
@@ -372,6 +480,15 @@
    "phd": true
   },
   {
+   "title": "Operations Research Intern (PhD), Summer 2027",
+   "company": "DoorDash",
+   "location": "Sunnyvale, CA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965",
+   "posted": "2026-10-19",
+   "found": "2026-10-22",
+   "phd": true
+  },
+  {
    "title": "2027 Field Test Engineer Intern",
    "company": "Anduril",
    "location": "Costa Mesa, California, United States; Quincy, Massachusetts, United States",
@@ -448,15 +565,6 @@
    "company": "Microsoft",
    "location": "Redmond, WA | NYC",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
-   "posted": "2026-10-16",
-   "found": "2026-10-16",
-   "phd": false
-  },
-  {
-   "title": "Research Intern",
-   "company": "Microsoft",
-   "location": "Redmond, WA | Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041730",
    "posted": "2026-10-16",
    "found": "2026-10-16",
    "phd": false
@@ -1392,7 +1500,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1401,7 +1509,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -5430,11 +5538,29 @@
    "phd": false
   },
   {
+   "title": "Forward Deployed Software Engineer, Internship - US Government",
+   "company": "Palantir",
+   "location": "New York, NY | United States",
+   "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
+   "posted": "2022-06-30",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
    "title": "Software Engineer, Internship",
    "company": "Palantir",
    "location": "New York, NY | United States",
    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
    "posted": "2022-06-30",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
+   "title": "Forward Deployed Software Engineer, Internship - US Government",
+   "company": "Palantir",
+   "location": "Washington, D.C. | United States",
+   "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
+   "posted": "2021-07-01",
    "found": "2026-07-28",
    "phd": false
   },
