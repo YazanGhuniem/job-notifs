@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22 06:12 UTC",
+ "updated": "2026-10-22 12:08 UTC",
  "count": 605,
  "jobs": [
   {
@@ -3315,15 +3315,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Maps & Navigation Validation",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/281271",
-   "posted": "2026-08-26",
-   "found": "2026-08-26",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern - Maps & Navigation - Robotaxi",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -4192,6 +4183,15 @@
    "company": "Tesla",
    "location": "Palo Alto, CA | San Diego, CA",
    "url": "https://www.tesla.com/careers/search/job/278620",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
+   "phd": false
+  },
+  {
+   "title": "Full-Stack Product Engineer Intern - Web + Services",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
    "posted": "2026-08-04",
    "found": "2026-08-04",
    "phd": false
