@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23 20:42 UTC",
- "count": 633,
+ "updated": "2026-10-23 23:36 UTC",
+ "count": 638,
  "jobs": [
   {
    "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
@@ -48,6 +48,15 @@
    "phd": false
   },
   {
+   "title": "Software Engineer Intern - Security & Identity",
+   "company": "Microsoft",
+   "location": "United States",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+   "posted": "2026-10-23",
+   "found": "2026-10-23",
+   "phd": false
+  },
+  {
    "title": "Research Scientist Intern - Video Recommendations - PhD",
    "company": "Meta",
    "location": "Menlo Park, CA | Bellevue, WA",
@@ -55,6 +64,51 @@
    "posted": "2026-10-23",
    "found": "2026-10-23",
    "phd": true
+  },
+  {
+   "title": "Research Scientist Intern - AI Core Machine Learning",
+   "company": "Meta",
+   "location": "Seattle, WA | Bellevue, WA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1648122343381284",
+   "posted": "2026-10-23",
+   "found": "2026-10-23",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Meta Recommendation Systems - Core ML",
+   "company": "Meta",
+   "location": "Seattle, WA | Menlo Park, CA | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1023154190171838",
+   "posted": "2026-10-23",
+   "found": "2026-10-23",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Meta Recommendation Systems - PhD",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1416549056773684",
+   "posted": "2026-10-23",
+   "found": "2026-10-23",
+   "phd": true
+  },
+  {
+   "title": "Research Scientist Intern - Wearable Sensing & Human Motion Analysis",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1137225375529389",
+   "posted": "2026-10-23",
+   "found": "2026-10-23",
+   "phd": false
+  },
+  {
+   "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+   "company": "Amazon",
+   "location": "Redmond, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+   "posted": "2026-10-23",
+   "found": "2026-10-23",
+   "phd": false
   },
   {
    "title": "2027 Summer Intern, PhD, AI Foundations - Recipes",
@@ -2190,15 +2244,6 @@
    "phd": false
   },
   {
-   "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
-   "company": "Amazon",
-   "location": "Redmond, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
-   "posted": "2026-09-24",
-   "found": "2026-09-24",
-   "phd": false
-  },
-  {
    "title": "2027 Summer Intern, MS/PhD, Software Engineer",
    "company": "Waymo",
    "location": "Mountain View, California",
@@ -3020,8 +3065,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3029,8 +3074,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
