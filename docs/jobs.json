@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-23 17:32 UTC",
- "count": 629,
+ "updated": "2026-10-23 20:42 UTC",
+ "count": 633,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
+   "posted": "2026-10-23",
+   "found": "2026-10-23",
+   "phd": true
+  },
   {
    "title": "Seller Content Project Intern",
    "company": "TikTok",
@@ -129,6 +138,15 @@
    "phd": false
   },
   {
+   "title": "Research Scientist Intern - Fair - Video Generation",
+   "company": "Meta",
+   "location": "Seattle, WA | Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/3549654831867862",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
    "title": "Research Scientist Intern",
    "company": "Meta",
    "location": "Menlo Park, CA",
@@ -142,6 +160,24 @@
    "company": "Meta",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/1097992326377524",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - FAIR - Multimodal Foundations",
+   "company": "Meta",
+   "location": "Boston, MA | SF | Menlo Park, CA | NYC | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/2322361288548512",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Multi-Agent Systems and Memory",
+   "company": "Meta",
+   "location": "Seattle, WA | NYC | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/2615214025585454",
    "posted": "2026-10-22",
    "found": "2026-10-22",
    "phd": false
@@ -259,6 +295,15 @@
    "company": "Meta",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/27730225806654441",
+   "posted": "2026-10-21",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Audio Hardware",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1445807477756644",
    "posted": "2026-10-21",
    "found": "2026-10-22",
    "phd": false
@@ -5453,15 +5498,6 @@
    "location": "Honolulu, HI | United States",
    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
    "posted": "2025-12-11",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
-   "company": "Amazon",
-   "location": "North Reading, Massachusetts, USA",
-   "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
-   "posted": "2025-10-08",
    "found": "2026-07-28",
    "phd": false
   },
