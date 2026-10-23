@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23 07:44 UTC",
- "count": 625,
+ "updated": "2026-10-23 12:54 UTC",
+ "count": 582,
  "jobs": [
   {
    "title": "Seller Content Project Intern",
@@ -16,6 +16,15 @@
    "company": "TikTok",
    "location": "NYC",
    "url": "https://lifeattiktok.com/search/7699388672743950645",
+   "posted": "2026-10-23",
+   "found": "2026-10-23",
+   "phd": false
+  },
+  {
+   "title": "Deep Learning Model and System Optimization Engineering Intern \u2013 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784",
    "posted": "2026-10-23",
    "found": "2026-10-23",
    "phd": false
@@ -111,15 +120,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern - Fair - Video Generation",
-   "company": "Meta",
-   "location": "Seattle, WA | Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/3549654831867862",
-   "posted": "2026-10-22",
-   "found": "2026-10-22",
-   "phd": false
-  },
-  {
    "title": "Research Scientist Intern",
    "company": "Meta",
    "location": "Menlo Park, CA",
@@ -133,24 +133,6 @@
    "company": "Meta",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/1097992326377524",
-   "posted": "2026-10-22",
-   "found": "2026-10-22",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - FAIR - Multimodal Foundations",
-   "company": "Meta",
-   "location": "Boston, MA | SF | Menlo Park, CA | NYC | Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/2322361288548512",
-   "posted": "2026-10-22",
-   "found": "2026-10-22",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - Multi-Agent Systems and Memory",
-   "company": "Meta",
-   "location": "Seattle, WA | NYC | Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/2615214025585454",
    "posted": "2026-10-22",
    "found": "2026-10-22",
    "phd": false
@@ -273,15 +255,6 @@
    "phd": false
   },
   {
-   "title": "Research Intern - Audio Hardware",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1445807477756644",
-   "posted": "2026-10-21",
-   "found": "2026-10-22",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern",
    "company": "LinkedIn",
    "location": "Mountain View, CA",
@@ -296,24 +269,6 @@
    "location": "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007",
    "posted": "2026-10-21",
-   "found": "2026-10-21",
-   "phd": false
-  },
-  {
-   "title": "AI Research Intern",
-   "company": "Salesforce",
-   "location": "Palo Alto, CA",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111",
-   "posted": "2026-10-20",
-   "found": "2026-10-21",
-   "phd": false
-  },
-  {
-   "title": "AI Research Intern",
-   "company": "Salesforce",
-   "location": "Palo Alto, CA",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
-   "posted": "2026-10-20",
    "found": "2026-10-21",
    "phd": false
   },
@@ -423,15 +378,6 @@
    "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
    "posted": "2026-10-19",
    "found": "2026-10-19",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern",
-   "company": "Salesforce",
-   "location": "SF | Bellevue, WA",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
-   "posted": "2026-10-19",
-   "found": "2026-10-20",
    "phd": false
   },
   {
@@ -561,15 +507,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Recommendation Performance Efficiency",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7673636206961641781",
-   "posted": "2026-10-16",
-   "found": "2026-10-16",
-   "phd": false
-  },
-  {
    "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
    "company": "Snowflake",
    "location": "US-CA-Menlo Park | United States",
@@ -624,15 +561,6 @@
    "phd": false
   },
   {
-   "title": "Research Engineer Intern - Video and Edge - Multimedia Lab",
-   "company": "TikTok",
-   "location": "San Diego, CA",
-   "url": "https://lifeattiktok.com/search/7696664743112788277",
-   "posted": "2026-10-15",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
    "title": "Developer Technology Engineering Intern - Compute Performance",
    "company": "NVIDIA",
    "location": "2 Locations",
@@ -648,15 +576,6 @@
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
    "posted": "2026-10-15",
    "found": "2026-10-15",
-   "phd": false
-  },
-  {
-   "title": "Quality and Reliability Engineer Intern",
-   "company": "Meta",
-   "location": "Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/1624891432439039",
-   "posted": "2026-10-15",
-   "found": "2026-10-16",
    "phd": false
   },
   {
@@ -676,87 +595,6 @@
    "posted": "2026-10-15",
    "found": "2026-10-15",
    "phd": true
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694357619162532149",
-   "posted": "2026-10-14",
-   "found": "2026-10-14",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694360101507762485",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694362230074673461",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Live",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694360097210861829",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7679220954338494773",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694362229701069109",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694365861943953717",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce Governance",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694366551807265029",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
-   "title": "Generative Media Research Intern",
-   "company": "Snap",
-   "location": "LA",
-   "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
   },
   {
    "title": "Data Processing Developer Technology Intern - 2027",
@@ -984,15 +822,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern - AI & System Co-Design",
-   "company": "Meta",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1062032900196411",
-   "posted": "2026-10-13",
-   "found": "2026-10-14",
-   "phd": false
-  },
-  {
    "title": "Research Scientist Intern - Egocentric Vision-Language Models",
    "company": "Meta",
    "location": "Redmond, WA | Sunnyvale, CA",
@@ -1006,15 +835,6 @@
    "company": "Meta",
    "location": "Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/2192664358300823",
-   "posted": "2026-10-13",
-   "found": "2026-10-14",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - AI & Compute Foundation",
-   "company": "Meta",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1866761794487684",
    "posted": "2026-10-13",
    "found": "2026-10-14",
    "phd": false
@@ -1062,33 +882,6 @@
    "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
    "posted": "2026-10-12",
    "found": "2026-10-12",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Conversational AI",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7670689681491364101",
-   "posted": "2026-10-10",
-   "found": "2026-10-10",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694356134081972533",
-   "posted": "2026-10-09",
-   "found": "2026-10-09",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7694354937320868149",
-   "posted": "2026-10-09",
-   "found": "2026-10-09",
    "phd": false
   },
   {
@@ -1162,69 +955,6 @@
    "posted": "2026-10-08",
    "found": "2026-10-08",
    "phd": true
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694045969844209973",
-   "posted": "2026-10-08",
-   "found": "2026-10-08",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7694040502082521397",
-   "posted": "2026-10-08",
-   "found": "2026-10-08",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7694044547207268661",
-   "posted": "2026-10-08",
-   "found": "2026-10-08",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7694045967754889477",
-   "posted": "2026-10-08",
-   "found": "2026-10-08",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7694045969156426037",
-   "posted": "2026-10-08",
-   "found": "2026-10-08",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7694048048843147573",
-   "posted": "2026-10-08",
-   "found": "2026-10-08",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7687630614472149301",
-   "posted": "2026-10-08",
-   "found": "2026-10-08",
-   "phd": false
   },
   {
    "title": "Data Analyst Intern - People Products",
@@ -1317,24 +1047,6 @@
    "phd": false
   },
   {
-   "title": "Tableau Research Intern",
-   "company": "Salesforce",
-   "location": "Palo Alto, CA | Seattle, WA",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1",
-   "posted": "2026-10-07",
-   "found": "2026-10-08",
-   "phd": false
-  },
-  {
-   "title": "Tableau Research Intern",
-   "company": "Salesforce",
-   "location": "Palo Alto, CA | Seattle, WA",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252",
-   "posted": "2026-10-07",
-   "found": "2026-10-08",
-   "phd": false
-  },
-  {
    "title": "PhD Research Intern, AI-Aided Engineering \u2013 2027",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
@@ -1414,24 +1126,6 @@
    "posted": "2026-10-06",
    "found": "2026-10-06",
    "phd": true
-  },
-  {
-   "title": "Software Engineer Intern - Systems and Infrastructure - PhD",
-   "company": "Meta",
-   "location": "Seattle, WA | Burlingame, CA | Redmond, WA | Menlo Park, CA | NYC | Bellevue, WA | Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/945520495299801",
-   "posted": "2026-10-06",
-   "found": "2026-10-06",
-   "phd": true
-  },
-  {
-   "title": "Software Engineer Intern",
-   "company": "Meta",
-   "location": "Seattle, WA | Menlo Park, CA | NYC | Bellevue, WA",
-   "url": "https://www.metacareers.com/jobs/1952991802037374",
-   "posted": "2026-10-06",
-   "found": "2026-10-06",
-   "phd": false
   },
   {
    "title": "Data Scientist Intern - Product Analytics",
@@ -1578,15 +1272,6 @@
    "phd": false
   },
   {
-   "title": "Applied and Research Scientist/Engineer Intern",
-   "company": "Adobe",
-   "location": "Cambridge, MA | Seattle, WA | College Park, MD | SF | San Jose, CA | NYC",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064",
-   "posted": "2026-10-05",
-   "found": "2026-10-06",
-   "phd": false
-  },
-  {
    "title": "PhD Research Intern, Embodied and Agentic AI - 2027",
    "company": "NVIDIA",
    "location": "2 Locations",
@@ -1594,15 +1279,6 @@
    "posted": "2026-10-02",
    "found": "2026-10-02",
    "phd": true
-  },
-  {
-   "title": "Finance Transformation & Analytics Intern",
-   "company": "Intuit",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
-   "posted": "2026-10-02",
-   "found": "2026-10-02",
-   "phd": false
   },
   {
    "title": "2027 Industrial Engineer Intern",
@@ -1780,15 +1456,6 @@
    "company": "Meta",
    "location": "Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/1940312740718917",
-   "posted": "2026-10-01",
-   "found": "2026-10-01",
-   "phd": false
-  },
-  {
-   "title": "Business Data Analyst Intern - Strategy & Planning",
-   "company": "Intuit",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
    "posted": "2026-10-01",
    "found": "2026-10-01",
    "phd": false
@@ -2280,15 +1947,6 @@
    "phd": true
   },
   {
-   "title": "Data Engineer Intern - Data Platform - TikTok BP",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7681783406632782085",
-   "posted": "2026-09-22",
-   "found": "2026-09-23",
-   "phd": false
-  },
-  {
    "title": "Firmware Integration Engineer Intern - Factory Firmware",
    "company": "Tesla",
    "location": "Austin, TX",
@@ -2329,42 +1987,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/284436",
-   "posted": "2026-09-22",
-   "found": "2026-09-23",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Backend Focused",
-   "company": "Rippling",
-   "location": "Seattle, WA | SF | NYC",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "posted": "2026-09-22",
-   "found": "2026-09-23",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Software Engineer Intern - Summer 2027",
-   "company": "Rippling",
-   "location": "SF",
-   "url": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
-   "posted": "2026-09-22",
-   "found": "2026-09-23",
-   "phd": false
-  },
-  {
-   "title": "Data Science Intern - Summer 2027",
-   "company": "Rippling",
-   "location": "SF",
-   "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "posted": "2026-09-22",
-   "found": "2026-09-23",
-   "phd": false
-  },
-  {
-   "title": "Full Stack Software Engineer Intern",
-   "company": "Rippling",
-   "location": "Seattle, WA | SF | NYC",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "posted": "2026-09-22",
    "found": "2026-09-23",
    "phd": false
@@ -2485,15 +2107,6 @@
    "posted": "2026-09-18",
    "found": "2026-09-18",
    "phd": true
-  },
-  {
-   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7686283601340369205",
-   "posted": "2026-09-18",
-   "found": "2026-09-18",
-   "phd": false
   },
   {
    "title": "Internship - Software Engineering - People Products - Winter/Spring 2027",
@@ -2640,15 +2253,6 @@
    "phd": true
   },
   {
-   "title": "Client Solutions Intern",
-   "company": "TikTok",
-   "location": "NYC",
-   "url": "https://lifeattiktok.com/search/7684622182248548661",
-   "posted": "2026-09-16",
-   "found": "2026-10-04",
-   "phd": false
-  },
-  {
    "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
    "company": "NVIDIA",
    "location": "2 Locations",
@@ -2766,15 +2370,6 @@
    "phd": false
   },
   {
-   "title": "Product Engineer Intern - Applications Engineering",
-   "company": "Tesla",
-   "location": "Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/283298",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
    "title": "Software Integration Engineer Intern - Factory Firmware",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -2797,15 +2392,6 @@
    "company": "Intuit",
    "location": "Mountain View, CA",
    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
-   "title": "AI Scientist Intern",
-   "company": "Intuit",
-   "location": "NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536",
    "posted": "2026-09-14",
    "found": "2026-09-14",
    "phd": false
@@ -3006,15 +2592,6 @@
    "url": "https://www.tesla.com/careers/search/job/281612",
    "posted": "2026-09-10",
    "found": "2026-09-10",
-   "phd": false
-  },
-  {
-   "title": "Global Customer Experience Business Analytics Intern",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7681633701767612677",
-   "posted": "2026-09-09",
-   "found": "2026-09-09",
    "phd": false
   },
   {
@@ -3267,6 +2844,15 @@
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
    "posted": "2026-09-03",
    "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "Ecosystem Analyst Intern - TikTok LIVE",
+   "company": "TikTok",
+   "location": "LA",
+   "url": "https://lifeattiktok.com/search/7678985103851407669",
+   "posted": "2026-09-02",
+   "found": "2026-09-02",
    "phd": false
   },
   {
@@ -5025,12 +4611,30 @@
    "phd": false
   },
   {
-   "title": "Seller Strategy Business Analyst Intern - TikTok Shop - US Operation",
+   "title": "AI Agent Development Project Intern",
    "company": "TikTok",
    "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7558622480857188626",
+   "url": "https://lifeattiktok.com/search/7540063663148747026",
    "posted": "2026-06-15",
-   "found": "2026-10-04",
+   "found": "2026-10-23",
+   "phd": false
+  },
+  {
+   "title": "Researcher Intern - Vision and Graphics",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7528196025854380306",
+   "posted": "2026-06-15",
+   "found": "2026-10-23",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Project Intern - Lead Ads",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7584179082162653445",
+   "posted": "2026-06-15",
+   "found": "2026-10-23",
    "phd": false
   },
   {
@@ -5283,6 +4887,15 @@
    "url": "https://lifeattiktok.com/search/7631063087262419205",
    "posted": "2026-04-22",
    "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Project Intern - Recommendation Infrastructure",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7629500062003218741",
+   "posted": "2026-04-20",
+   "found": "2026-10-23",
    "phd": false
   },
   {
