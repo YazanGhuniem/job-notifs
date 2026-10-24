@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24 16:06 UTC",
- "count": 639,
+ "updated": "2026-10-24 18:52 UTC",
+ "count": 635,
  "jobs": [
   {
    "title": "Research Scientist Intern - Policy Learning for Robotics - PhD",
@@ -1668,15 +1668,6 @@
    "phd": false
   },
   {
-   "title": "Data Engineer Intern",
-   "company": "Atlassian",
-   "location": "Seattle, WA",
-   "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
-   "posted": "2026-10-05",
-   "found": "2026-10-06",
-   "phd": false
-  },
-  {
    "title": "2027 Quality & Test Engineer Intern",
    "company": "Anduril",
    "location": "Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States",
@@ -2208,15 +2199,6 @@
    "phd": true
   },
   {
-   "title": "Data Scientist Intern",
-   "company": "Atlassian",
-   "location": "Seattle, WA",
-   "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
-   "posted": "2026-09-25",
-   "found": "2026-09-25",
-   "phd": false
-  },
-  {
    "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
@@ -2548,15 +2530,6 @@
    "posted": "2026-09-21",
    "found": "2026-09-21",
    "phd": true
-  },
-  {
-   "title": "Machine Learning Intern",
-   "company": "Atlassian",
-   "location": "Seattle, WA | SF",
-   "url": "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job",
-   "posted": "2026-09-21",
-   "found": "2026-09-21",
-   "phd": false
   },
   {
    "title": "Software Engineering Intern, DLFW Comms - 2027",
@@ -3436,15 +3409,6 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
-   "posted": "2026-09-01",
-   "found": "2026-09-01",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern",
-   "company": "Atlassian",
-   "location": "Seattle, WA | SF",
-   "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
    "posted": "2026-09-01",
    "found": "2026-09-01",
    "phd": false
