@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24 07:26 UTC",
- "count": 577,
+ "updated": "2026-10-24 12:07 UTC",
+ "count": 639,
  "jobs": [
   {
    "title": "Research Scientist Intern - Policy Learning for Robotics - PhD",
@@ -52,6 +52,15 @@
    "company": "TikTok",
    "location": "NYC",
    "url": "https://lifeattiktok.com/search/7699388672743950645",
+   "posted": "2026-10-23",
+   "found": "2026-10-23",
+   "phd": false
+  },
+  {
+   "title": "Deep Learning Model and System Optimization Engineering Intern \u2013 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784",
    "posted": "2026-10-23",
    "found": "2026-10-23",
    "phd": false
@@ -163,6 +172,24 @@
    "posted": "2026-10-22",
    "found": "2026-10-22",
    "phd": false
+  },
+  {
+   "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Robotic Perception and Learning - 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089",
+   "posted": "2026-10-22",
+   "found": "2026-10-22",
+   "phd": true
   },
   {
    "title": "Research Intern",
@@ -282,6 +309,24 @@
    "phd": false
   },
   {
+   "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+   "posted": "2026-10-21",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "GPU Computing Software Engineering Intern, Autonomous Driving - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546",
+   "posted": "2026-10-21",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
    "title": "Research Scientist Intern",
    "company": "Meta",
    "location": "Menlo Park, CA",
@@ -378,6 +423,24 @@
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
    "posted": "2026-10-20",
    "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "Developer Technology Engineering Intern - Compute Performance",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210",
+   "posted": "2026-10-20",
+   "found": "2026-10-20",
+   "phd": false
+  },
+  {
+   "title": "GenAI Algorithms Intern \u2013 Model Optimization for Inference",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377",
+   "posted": "2026-10-20",
+   "found": "2026-10-20",
    "phd": false
   },
   {
@@ -495,6 +558,15 @@
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
    "posted": "2026-10-19",
    "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Extended Perception, Interaction & Cognition",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
+   "posted": "2026-10-19",
+   "found": "2026-10-24",
    "phd": false
   },
   {
@@ -687,6 +759,15 @@
    "phd": false
   },
   {
+   "title": "Developer Technology Engineering Intern - Compute Performance",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949",
+   "posted": "2026-10-15",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
    "title": "Researcher Intern - Coreai",
    "company": "Microsoft",
    "location": "Redmond, WA | Mountain View, CA",
@@ -804,6 +885,24 @@
    "phd": false
   },
   {
+   "title": "Data Processing Developer Technology Intern - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948",
+   "posted": "2026-10-14",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "PhD Research Intern, Security and Privacy - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096",
+   "posted": "2026-10-14",
+   "found": "2026-10-14",
+   "phd": true
+  },
+  {
    "title": "Research Intern - Machine Learning and Statistics",
    "company": "Microsoft",
    "location": "Cambridge, MA | Redmond, WA",
@@ -909,6 +1008,33 @@
    "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
    "posted": "2026-10-13",
    "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "Applied Deep Learning Algorithm Intern, Autonomous Driving - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181",
+   "posted": "2026-10-13",
+   "found": "2026-10-13",
+   "phd": false
+  },
+  {
+   "title": "Differentiable Simulation Research Intern - Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
+   "posted": "2026-10-13",
+   "found": "2026-10-13",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, Deep Learning - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596",
+   "posted": "2026-10-13",
+   "found": "2026-10-13",
    "phd": false
   },
   {
@@ -1087,6 +1213,24 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7694354937320868149",
+   "posted": "2026-10-09",
+   "found": "2026-10-09",
+   "phd": false
+  },
+  {
+   "title": "Research Intern, Spatial Intelligence - Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
+   "posted": "2026-10-09",
+   "found": "2026-10-09",
+   "phd": false
+  },
+  {
+   "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
    "posted": "2026-10-09",
    "found": "2026-10-09",
    "phd": false
@@ -1317,6 +1461,15 @@
    "phd": false
   },
   {
+   "title": "PhD Research Intern, AI-Aided Engineering \u2013 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
+   "posted": "2026-10-07",
+   "found": "2026-10-07",
+   "phd": true
+  },
+  {
    "title": "Applied Scientist Intern",
    "company": "Microsoft",
    "location": "Redmond, WA",
@@ -1360,6 +1513,33 @@
    "posted": "2026-10-06",
    "found": "2026-10-06",
    "phd": false
+  },
+  {
+   "title": "APAC Ecommerce Backend Intern - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "PhD Research Intern, Efficient Deep Learning - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Cross-Disciplinary Vision Science - Summer 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": true
   },
   {
    "title": "Software Engineer Intern - Systems and Infrastructure - PhD",
@@ -1434,6 +1614,33 @@
    "phd": false
   },
   {
+   "title": "Data Processing Developer Technology Intern - 2027",
+   "company": "NVIDIA",
+   "location": "4 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+   "posted": "2026-10-05",
+   "found": "2026-10-05",
+   "phd": false
+  },
+  {
+   "title": "AI Agent Development Engineer (RDSS Intern)",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
+   "posted": "2026-10-05",
+   "found": "2026-10-05",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, Nsight Systems - 2026",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248",
+   "posted": "2026-10-05",
+   "found": "2026-10-05",
+   "phd": false
+  },
+  {
    "title": "PhD Intern, AI Applied Scientist (2027)",
    "company": "Figma",
    "location": "San Francisco, CA \u2022 New York, NY",
@@ -1446,7 +1653,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1455,7 +1662,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1504,6 +1711,15 @@
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
+  },
+  {
+   "title": "PhD Research Intern, Embodied and Agentic AI - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792",
+   "posted": "2026-10-02",
+   "found": "2026-10-02",
+   "phd": true
   },
   {
    "title": "Finance Transformation & Analytics Intern",
@@ -1749,6 +1965,42 @@
    "phd": false
   },
   {
+   "title": "Deep Learning Performance Software Intern - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": false
+  },
+  {
+   "title": "Developer Technology Engineering Intern - Compute Performance",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": false
+  },
+  {
+   "title": "Deep Learning Compiler Intern - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": false
+  },
+  {
+   "title": "PhD Research Intern, Programming Systems - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
+   "posted": "2026-09-30",
+   "found": "2026-09-30",
+   "phd": true
+  },
+  {
    "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
    "company": "Amazon",
    "location": "Seattle, Washington, USA",
@@ -1846,6 +2098,24 @@
    "posted": "2026-09-29",
    "found": "2026-09-29",
    "phd": false
+  },
+  {
+   "title": "Software CAD Engineer, VLSI (RDSS Intern)",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181",
+   "posted": "2026-09-29",
+   "found": "2026-09-29",
+   "phd": false
+  },
+  {
+   "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
+   "posted": "2026-09-29",
+   "found": "2026-09-29",
+   "phd": true
   },
   {
    "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
@@ -2028,6 +2298,60 @@
    "phd": true
   },
   {
+   "title": "Software Engineering Intern, Compiler Verification - Spring 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
+   "title": "Performance Software Intern, Deep Learning Libraries - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
+   "title": "AI Computing Software Development Intern - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
+   "title": "AI Computing Software Development Intern, LLM Inference - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
+   "title": "AI Computing Software Intern, GPU Kernel Libraries - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
+   "title": "PhD Research Intern, Quantum Simulation and AI - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
+   "posted": "2026-09-23",
+   "found": "2026-09-23",
+   "phd": true
+  },
+  {
    "title": "Data Engineer Intern (2027)",
    "company": "Figma",
    "location": "San Francisco, CA \u2022 New York, NY",
@@ -2154,6 +2478,15 @@
    "phd": false
   },
   {
+   "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405",
+   "posted": "2026-09-22",
+   "found": "2026-09-22",
+   "phd": true
+  },
+  {
    "title": "2027 Quantum Applied Science Internship, Quantum Technologies team",
    "company": "Amazon",
    "location": "Pasadena, California, USA",
@@ -2190,6 +2523,24 @@
    "phd": true
   },
   {
+   "title": "PhD Research Intern, Robotics - Summer 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647",
+   "posted": "2026-09-21",
+   "found": "2026-09-21",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Networking - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098",
+   "posted": "2026-09-21",
+   "found": "2026-09-21",
+   "phd": true
+  },
+  {
    "title": "PhD Intern, Data Science (2027)",
    "company": "Figma",
    "location": "San Francisco, CA \u2022 New York, NY",
@@ -2205,6 +2556,24 @@
    "url": "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job",
    "posted": "2026-09-21",
    "found": "2026-09-21",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, DLFW Comms - 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
+   "posted": "2026-09-20",
+   "found": "2026-09-20",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
+   "posted": "2026-09-20",
+   "found": "2026-09-20",
    "phd": false
   },
   {
@@ -2298,6 +2667,42 @@
    "phd": false
   },
   {
+   "title": "PhD Research Intern, Hardware and Systems Architecture - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893",
+   "posted": "2026-09-17",
+   "found": "2026-09-17",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Generalist Embodied Agents Research - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103",
+   "posted": "2026-09-17",
+   "found": "2026-09-17",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Architecture \u2013 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395",
+   "posted": "2026-09-17",
+   "found": "2026-09-17",
+   "phd": true
+  },
+  {
+   "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559",
+   "posted": "2026-09-17",
+   "found": "2026-09-17",
+   "phd": false
+  },
+  {
    "title": "Software Development Engineer Intern - Summer 2027 (USA)",
    "company": "Amazon",
    "location": "Seattle, Washington, USA",
@@ -2340,6 +2745,15 @@
    "url": "https://lifeattiktok.com/search/7684622182248548661",
    "posted": "2026-09-16",
    "found": "2026-10-04",
+   "phd": false
+  },
+  {
+   "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
+   "posted": "2026-09-16",
+   "found": "2026-09-16",
    "phd": false
   },
   {
@@ -2395,6 +2809,24 @@
    "posted": "2026-09-15",
    "found": "2026-09-30",
    "phd": false
+  },
+  {
+   "title": "PhD Research Intern, Physical AI - Foundation Models - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Fundamental Generative AI - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": true
   },
   {
    "title": "2027 Flight Software Engineer Intern",
@@ -2575,6 +3007,24 @@
    "posted": "2026-09-14",
    "found": "2026-09-15",
    "phd": false
+  },
+  {
+   "title": "PhD Research Intern, Circuits - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174",
+   "posted": "2026-09-13",
+   "found": "2026-09-13",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
+   "posted": "2026-09-13",
+   "found": "2026-09-13",
+   "phd": true
   },
   {
    "title": "Software Engineer Intern - Data Platforms",
@@ -2779,6 +3229,15 @@
    "company": "Scale AI",
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+   "posted": "2026-09-04",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
+   "title": "AI Developer Technology Engineering Intern - 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
    "posted": "2026-09-04",
    "found": "2026-09-04",
    "phd": false
@@ -3081,6 +3540,15 @@
    "phd": false
   },
   {
+   "title": "Developer Technology Engineering Intern - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
+   "posted": "2026-08-27",
+   "found": "2026-08-27",
+   "phd": false
+  },
+  {
    "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
    "company": "Amazon",
    "location": "Cupertino, California, USA",
@@ -3126,13 +3594,31 @@
    "phd": false
   },
   {
-   "title": "Applied Scientist PhD Intern",
-   "company": "Microsoft",
-   "location": "Redmond, WA | Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556868271",
+   "title": "AI Developer Technology Intern, Robotics - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1",
    "posted": "2026-08-26",
-   "found": "2026-10-06",
-   "phd": true
+   "found": "2026-08-26",
+   "phd": false
+  },
+  {
+   "title": "Developer Technology Engineering Intern, AI - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
+   "posted": "2026-08-26",
+   "found": "2026-08-26",
+   "phd": false
+  },
+  {
+   "title": "AI Research Intern, TAO Multi-Modal Model Development - 2026",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301",
+   "posted": "2026-08-25",
+   "found": "2026-08-25",
+   "phd": false
   },
   {
    "title": "Client Solutions Intern - Global Business Solutions",
@@ -3159,6 +3645,15 @@
    "url": "https://lifeattiktok.com/search/7677467052537776437",
    "posted": "2026-08-24",
    "found": "2026-08-25",
+   "phd": false
+  },
+  {
+   "title": "AI Developer Technology Engineer Intern, AI - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
+   "posted": "2026-08-24",
+   "found": "2026-08-24",
    "phd": false
   },
   {
@@ -3315,6 +3810,42 @@
    "phd": true
   },
   {
+   "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
+  },
+  {
+   "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
+  },
+  {
+   "title": "NVIDIA 2027 Internships: Software Engineering",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
+  },
+  {
+   "title": "NVIDIA 2027 Internships: Deep Learning",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+   "posted": "2026-08-19",
+   "found": "2026-08-19",
+   "phd": false
+  },
+  {
    "title": "Data Science Project Intern - Advertisement Team",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -3337,6 +3868,15 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7675128776856029445",
+   "posted": "2026-08-18",
+   "found": "2026-08-18",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, NCCL - 2026",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645",
    "posted": "2026-08-18",
    "found": "2026-08-18",
    "phd": false
@@ -4402,6 +4942,24 @@
    "posted": "2026-07-29",
    "found": "2026-07-29",
    "phd": false
+  },
+  {
+   "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": true
+  },
+  {
+   "title": "PhD Research Intern, Generative AI - 2026",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
+   "posted": "2026-07-28",
+   "found": "2026-07-28",
+   "phd": true
   },
   {
    "title": "Student Researcher, PhD, Fall 2026",
