@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26 19:26 UTC",
- "count": 637,
+ "updated": "2026-10-26 23:12 UTC",
+ "count": 643,
  "jobs": [
   {
    "title": "Research Intern - Embedded AI on Wearables - PhD",
@@ -10,6 +10,51 @@
    "posted": "2026-10-26",
    "found": "2026-10-26",
    "phd": true
+  },
+  {
+   "title": "Research Scientist Intern - Generative Recommendation Systems",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/3265378000517806",
+   "posted": "2026-10-26",
+   "found": "2026-10-26",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Generative AI & Computational Photography - PhD",
+   "company": "Meta",
+   "location": "Burlingame, CA",
+   "url": "https://www.metacareers.com/jobs/1163507972671947",
+   "posted": "2026-10-26",
+   "found": "2026-10-26",
+   "phd": true
+  },
+  {
+   "title": "Research Scientist Intern - Robotics",
+   "company": "Meta",
+   "location": "Burlingame, CA",
+   "url": "https://www.metacareers.com/jobs/1471718241508516",
+   "posted": "2026-10-26",
+   "found": "2026-10-26",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Audio AI",
+   "company": "Meta",
+   "location": "Menlo Park, CA | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1160814043168431",
+   "posted": "2026-10-26",
+   "found": "2026-10-26",
+   "phd": false
+  },
+  {
+   "title": "Battery Engineering Intern",
+   "company": "Meta",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/938682979075854",
+   "posted": "2026-10-26",
+   "found": "2026-10-26",
+   "phd": false
   },
   {
    "title": "Tech Ops Engineer Intern, 2027 Tech Ops Intern",
@@ -412,6 +457,15 @@
    "company": "LinkedIn",
    "location": "Mountain View, CA",
    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
+   "posted": "2026-10-21",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
+   "company": "Apple",
+   "location": "Cambridge, UK",
+   "url": "https://jobs.apple.com/en-us/details/200690125",
    "posted": "2026-10-21",
    "found": "2026-10-21",
    "phd": false
@@ -1671,7 +1725,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1680,7 +1734,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -3074,8 +3128,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3083,8 +3137,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
