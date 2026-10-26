@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-26 13:25 UTC",
- "count": 635,
+ "updated": "2026-10-26 19:26 UTC",
+ "count": 637,
  "jobs": [
+  {
+   "title": "Research Intern - Embedded AI on Wearables - PhD",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/4070678619908522",
+   "posted": "2026-10-26",
+   "found": "2026-10-26",
+   "phd": true
+  },
+  {
+   "title": "Tech Ops Engineer Intern, 2027 Tech Ops Intern",
+   "company": "Amazon",
+   "location": "San Diego, California, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-tech-ops-intern",
+   "posted": "2026-10-26",
+   "found": "2026-10-26",
+   "phd": false
+  },
   {
    "title": "Research Scientist Intern - Policy Learning for Robotics - PhD",
    "company": "Meta",
