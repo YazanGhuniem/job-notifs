@@ -1,7 +1,34 @@
 {
- "updated": "2026-10-26 23:12 UTC",
- "count": 643,
+ "updated": "2026-10-27 02:11 UTC",
+ "count": 646,
  "jobs": [
+  {
+   "title": "Research Scientist Intern - Search",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/2171476533578976",
+   "posted": "2026-10-27",
+   "found": "2026-10-27",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Efficient World Foundation Models - PhD",
+   "company": "Meta",
+   "location": "Burlingame, CA",
+   "url": "https://www.metacareers.com/jobs/1423049949381658",
+   "posted": "2026-10-27",
+   "found": "2026-10-27",
+   "phd": true
+  },
+  {
+   "title": "Research Scientist Intern - Foundation Model Optimization",
+   "company": "Meta",
+   "location": "Burlingame, CA | Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1435245618154892",
+   "posted": "2026-10-27",
+   "found": "2026-10-27",
+   "phd": false
+  },
   {
    "title": "Research Intern - Embedded AI on Wearables - PhD",
    "company": "Meta",
