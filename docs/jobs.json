@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-27 14:42 UTC",
- "count": 646,
+ "updated": "2026-10-27 19:44 UTC",
+ "count": 634,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA ",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8319171",
+   "posted": "2026-10-27",
+   "found": "2026-10-27",
+   "phd": true
+  },
   {
    "title": "Software Engineering Intern, AI Agents & Backend Infrastructure \u2013 2027",
    "company": "NVIDIA",
@@ -43,6 +52,24 @@
    "company": "Meta",
    "location": "Burlingame, CA | Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/1435245618154892",
+   "posted": "2026-10-27",
+   "found": "2026-10-27",
+   "phd": false
+  },
+  {
+   "title": "Network Development Engineer Intern, 2027 Summer",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer",
+   "posted": "2026-10-27",
+   "found": "2026-10-27",
+   "phd": false
+  },
+  {
+   "title": "Database Engineer Intern - Summer 2027",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027",
    "posted": "2026-10-27",
    "found": "2026-10-27",
    "phd": false
@@ -516,15 +543,6 @@
    "phd": false
   },
   {
-   "title": "2027 Product Sourcing Engineer Intern",
-   "company": "Anduril",
-   "location": "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007",
-   "posted": "2026-10-21",
-   "found": "2026-10-21",
-   "phd": false
-  },
-  {
    "title": "AI Research Intern",
    "company": "Salesforce",
    "location": "Palo Alto, CA",
@@ -748,33 +766,6 @@
    "posted": "2026-10-19",
    "found": "2026-10-22",
    "phd": true
-  },
-  {
-   "title": "2027 Field Test Engineer Intern",
-   "company": "Anduril",
-   "location": "Costa Mesa, California, United States; Quincy, Massachusetts, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007",
-   "posted": "2026-10-19",
-   "found": "2026-10-19",
-   "phd": false
-  },
-  {
-   "title": "2027 Guidance, Navigation, & Control Engineer Intern",
-   "company": "Anduril",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007",
-   "posted": "2026-10-19",
-   "found": "2026-10-19",
-   "phd": false
-  },
-  {
-   "title": "2027 Low Observables Engineer Intern",
-   "company": "Anduril",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007",
-   "posted": "2026-10-19",
-   "found": "2026-10-19",
-   "phd": false
   },
   {
    "title": "AI & Architecture Intern",
@@ -1074,24 +1065,6 @@
    "phd": false
   },
   {
-   "title": "2027 Flight Test Engineer Intern",
-   "company": "Anduril",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
-   "posted": "2026-10-14",
-   "found": "2026-10-14",
-   "phd": false
-  },
-  {
-   "title": "Winter 2027 Research Engineer Co-op",
-   "company": "Anduril",
-   "location": "Santa Ana, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
    "title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
@@ -1270,15 +1243,6 @@
    "posted": "2026-10-13",
    "found": "2026-10-13",
    "phd": true
-  },
-  {
-   "title": "2027 Firmware Engineer Intern",
-   "company": "Anduril",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
-   "posted": "2026-10-13",
-   "found": "2026-10-14",
-   "phd": false
   },
   {
    "title": "Research Scientist Intern - Robotics",
@@ -1770,7 +1734,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1779,34 +1743,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-   "posted": "2026-10-05",
-   "found": "2026-10-06",
-   "phd": false
-  },
-  {
-   "title": "2027 Quality & Test Engineer Intern",
-   "company": "Anduril",
-   "location": "Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007",
-   "posted": "2026-10-05",
-   "found": "2026-10-06",
-   "phd": false
-  },
-  {
-   "title": "2027 Reliability Engineer Intern",
-   "company": "Anduril",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007",
-   "posted": "2026-10-05",
-   "found": "2026-10-06",
-   "phd": false
-  },
-  {
-   "title": "2027 Systems Engineer Intern",
-   "company": "Anduril",
-   "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1834,15 +1771,6 @@
    "company": "Intuit",
    "location": "Mountain View, CA",
    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
-   "posted": "2026-10-02",
-   "found": "2026-10-02",
-   "phd": false
-  },
-  {
-   "title": "2027 Industrial Engineer Intern",
-   "company": "Anduril",
-   "location": "Ashville, Ohio, United States; Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007",
    "posted": "2026-10-02",
    "found": "2026-10-02",
    "phd": false
@@ -2917,33 +2845,6 @@
    "posted": "2026-09-15",
    "found": "2026-09-15",
    "phd": true
-  },
-  {
-   "title": "2027 Flight Software Engineer Intern",
-   "company": "Anduril",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
-   "posted": "2026-09-15",
-   "found": "2026-09-15",
-   "phd": false
-  },
-  {
-   "title": "Winter 2027 Software Engineer Co-op",
-   "company": "Anduril",
-   "location": "Quincy, Massachusetts, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
-   "posted": "2026-09-15",
-   "found": "2026-09-15",
-   "phd": false
-  },
-  {
-   "title": "Winter 2027 Systems Engineer Co-op",
-   "company": "Anduril",
-   "location": "Quincy, Massachusetts, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
-   "posted": "2026-09-15",
-   "found": "2026-09-15",
-   "phd": false
   },
   {
    "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
@@ -5220,15 +5121,6 @@
    "url": "https://lifeattiktok.com/search/7584179082162653445",
    "posted": "2026-06-15",
    "found": "2026-10-23",
-   "phd": false
-  },
-  {
-   "title": "2027 Software Engineer Intern",
-   "company": "Anduril",
-   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-   "posted": "2026-06-10",
-   "found": "2026-07-28",
    "phd": false
   },
   {
