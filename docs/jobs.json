@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28 08:46 UTC",
- "count": 655,
+ "updated": "2026-10-28 15:32 UTC",
+ "count": 649,
  "jobs": [
   {
    "title": "Research Scientist Intern - Ads Recommendations",
@@ -228,15 +228,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern - Policy Learning for Robotics - PhD",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/2554989011673624",
-   "posted": "2026-10-24",
-   "found": "2026-10-24",
-   "phd": true
-  },
-  {
    "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
    "company": "Waymo",
    "location": "San Francisco, CA, USA",
@@ -435,15 +426,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern - Fair - Video Generation",
-   "company": "Meta",
-   "location": "Seattle, WA | Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/3549654831867862",
-   "posted": "2026-10-22",
-   "found": "2026-10-22",
-   "phd": false
-  },
-  {
    "title": "Research Scientist Intern",
    "company": "Meta",
    "location": "Menlo Park, CA",
@@ -561,24 +543,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern - Foundational Models for Robotics Research",
-   "company": "Meta",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1078644001656413",
-   "posted": "2026-10-21",
-   "found": "2026-10-22",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - Multimodal Learning for Robotics - PhD",
-   "company": "Meta",
-   "location": "Burlingame, CA",
-   "url": "https://www.metacareers.com/jobs/1656954472496223",
-   "posted": "2026-10-21",
-   "found": "2026-10-22",
-   "phd": true
-  },
-  {
    "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
    "company": "Meta",
    "location": "Burlingame, CA | Redmond, WA",
@@ -601,15 +565,6 @@
    "company": "LinkedIn",
    "location": "Mountain View, CA",
    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
-   "posted": "2026-10-21",
-   "found": "2026-10-21",
-   "phd": false
-  },
-  {
-   "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
-   "company": "Apple",
-   "location": "Cambridge, UK",
-   "url": "https://jobs.apple.com/en-us/details/200690125",
    "posted": "2026-10-21",
    "found": "2026-10-21",
    "phd": false
@@ -1702,15 +1657,6 @@
    "posted": "2026-10-06",
    "found": "2026-10-06",
    "phd": true
-  },
-  {
-   "title": "Process Engineer Intern - Dielectric Deposition",
-   "company": "Tesla",
-   "location": "Austin, TX",
-   "url": "https://www.tesla.com/careers/search/job/285641",
-   "posted": "2026-10-06",
-   "found": "2026-10-06",
-   "phd": false
   },
   {
    "title": "APAC Ecommerce Backend Intern - 2027",
@@ -3254,8 +3200,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3263,8 +3209,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
