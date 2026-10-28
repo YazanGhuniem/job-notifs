@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28 15:32 UTC",
- "count": 649,
+ "updated": "2026-10-28 20:37 UTC",
+ "count": 648,
  "jobs": [
   {
    "title": "Research Scientist Intern - Ads Recommendations",
@@ -853,15 +853,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7673636206961641781",
-   "posted": "2026-10-16",
-   "found": "2026-10-16",
-   "phd": false
-  },
-  {
-   "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
-   "company": "Snowflake",
-   "location": "US-CA-Menlo Park | United States",
-   "url": "https://jobs.ashbyhq.com/snowflake/45f2aa43-731d-4bab-a02b-9ef979f2c86e",
    "posted": "2026-10-16",
    "found": "2026-10-16",
    "phd": false
@@ -3200,8 +3191,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3209,8 +3200,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
