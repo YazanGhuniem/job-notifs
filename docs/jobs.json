@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-27 23:17 UTC",
- "count": 656,
+ "updated": "2026-10-28 02:26 UTC",
+ "count": 655,
  "jobs": [
+  {
+   "title": "Research Scientist Intern - Ads Recommendations",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1691709792593561",
+   "posted": "2026-10-28",
+   "found": "2026-10-28",
+   "phd": false
+  },
   {
    "title": "2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern",
    "company": "Waymo",
@@ -223,15 +232,6 @@
    "company": "Meta",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/2554989011673624",
-   "posted": "2026-10-24",
-   "found": "2026-10-24",
-   "phd": true
-  },
-  {
-   "title": "Research Scientist Intern - Dexterous Manipulation and Contact-Rich Control - PhD",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/2053489871986285",
    "posted": "2026-10-24",
    "found": "2026-10-24",
    "phd": true
@@ -691,15 +691,6 @@
    "company": "Meta",
    "location": "Burlingame, CA | Menlo Park, CA | NYC",
    "url": "https://www.metacareers.com/jobs/1436615821934863",
-   "posted": "2026-10-20",
-   "found": "2026-10-21",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - Multimodal Behavioral AI",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1428978125312655",
    "posted": "2026-10-20",
    "found": "2026-10-21",
    "phd": false
