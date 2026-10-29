@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-28 20:37 UTC",
- "count": 648,
+ "updated": "2026-10-29 00:28 UTC",
+ "count": 652,
  "jobs": [
+  {
+   "title": "Research Intern - MSR Systems Research Group",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050039",
+   "posted": "2026-10-28",
+   "found": "2026-10-29",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Machine Learning and Optimization",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981",
+   "posted": "2026-10-28",
+   "found": "2026-10-29",
+   "phd": false
+  },
   {
    "title": "Research Scientist Intern - Ads Recommendations",
    "company": "Meta",
@@ -9,6 +27,42 @@
    "url": "https://www.metacareers.com/jobs/1691709792593561",
    "posted": "2026-10-28",
    "found": "2026-10-28",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - First Play",
+   "company": "LinkedIn",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370",
+   "posted": "2026-10-28",
+   "found": "2026-10-29",
+   "phd": false
+  },
+  {
+   "title": "PhD Intern, Security Engineer (2027)",
+   "company": "Figma",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "url": "https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004",
+   "posted": "2026-10-28",
+   "found": "2026-10-29",
+   "phd": true
+  },
+  {
+   "title": "Design Verification Engineer Intern",
+   "company": "Apple",
+   "location": "Beaverton, OR",
+   "url": "https://jobs.apple.com/en-us/details/200692085",
+   "posted": "2026-10-28",
+   "found": "2026-10-29",
+   "phd": false
+  },
+  {
+   "title": "2027 Applied Science Internship - Robotics - United States",
+   "company": "Amazon",
+   "location": "North Reading, Massachusetts, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states",
+   "posted": "2026-10-28",
+   "found": "2026-10-29",
    "phd": false
   },
   {
@@ -543,10 +597,28 @@
    "phd": false
   },
   {
+   "title": "Research Scientist Intern - Multimodal Learning for Robotics - PhD",
+   "company": "Meta",
+   "location": "Burlingame, CA",
+   "url": "https://www.metacareers.com/jobs/1656954472496223",
+   "posted": "2026-10-21",
+   "found": "2026-10-22",
+   "phd": true
+  },
+  {
    "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
    "company": "Meta",
    "location": "Burlingame, CA | Redmond, WA",
    "url": "https://www.metacareers.com/jobs/1075160338670575",
+   "posted": "2026-10-21",
+   "found": "2026-10-22",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Robot Foundation Models",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/27730225806654441",
    "posted": "2026-10-21",
    "found": "2026-10-22",
    "phd": false
@@ -1788,7 +1860,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1797,7 +1869,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -3191,8 +3263,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3200,8 +3272,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3213,15 +3285,6 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
-   "phd": false
-  },
-  {
-   "title": "Data Engineer Intern - Fleet Data - Self-Driving",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/281612",
-   "posted": "2026-09-10",
-   "found": "2026-09-10",
    "phd": false
   },
   {
@@ -4068,24 +4131,6 @@
    "url": "https://lifeattiktok.com/search/7672881840860940597",
    "posted": "2026-08-12",
    "found": "2026-08-12",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - AI Inference Co Design",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/279600",
-   "posted": "2026-08-12",
-   "found": "2026-08-12",
-   "phd": false
-  },
-  {
-   "title": "Applied AI Engineer Intern - AI Hardware",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/279603",
-   "posted": "2026-08-11",
-   "found": "2026-08-11",
    "phd": false
   },
   {
@@ -5606,15 +5651,6 @@
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7610543185362372917",
    "posted": "2026-03-03",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "AI Product Operations Intern",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7611950589973186821",
-   "posted": "2026-03-02",
    "found": "2026-07-28",
    "phd": false
   },
