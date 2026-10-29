@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-29 06:08 UTC",
+ "updated": "2026-10-29 13:23 UTC",
  "count": 652,
  "jobs": [
+  {
+   "title": "Data Engineer Intern - Energy",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/287982",
+   "posted": "2026-10-29",
+   "found": "2026-10-29",
+   "phd": false
+  },
   {
    "title": "Research Intern - MSR Systems Research Group",
    "company": "Microsoft",
@@ -48,15 +57,6 @@
    "phd": true
   },
   {
-   "title": "Design Verification Engineer Intern",
-   "company": "Apple",
-   "location": "Beaverton, OR",
-   "url": "https://jobs.apple.com/en-us/details/200692085",
-   "posted": "2026-10-28",
-   "found": "2026-10-29",
-   "phd": false
-  },
-  {
    "title": "2027 Applied Science Internship - Robotics - United States",
    "company": "Amazon",
    "location": "North Reading, Massachusetts, USA",
@@ -88,24 +88,6 @@
    "company": "Salesforce",
    "location": "Arkansas | Ohio",
    "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026",
-   "posted": "2026-10-27",
-   "found": "2026-10-27",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern, AI Agents & Backend Infrastructure \u2013 2027",
-   "company": "NVIDIA",
-   "location": "6 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942",
-   "posted": "2026-10-27",
-   "found": "2026-10-27",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern, AI Agents and Backend Infrastructure \u2013 2027",
-   "company": "NVIDIA",
-   "location": "4 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939",
    "posted": "2026-10-27",
    "found": "2026-10-27",
    "phd": false
@@ -1443,6 +1425,15 @@
    "phd": false
   },
   {
+   "title": "Software Engineer Intern - Software Engineer - Infotainment Platforms Validation",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/286261",
+   "posted": "2026-10-09",
+   "found": "2026-10-29",
+   "phd": false
+  },
+  {
    "title": "Research Intern, Spatial Intelligence - Summer 2027",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
@@ -1860,7 +1851,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1869,7 +1860,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1908,6 +1899,15 @@
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064",
    "posted": "2026-10-05",
    "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/285508",
+   "posted": "2026-10-02",
+   "found": "2026-10-02",
    "phd": false
   },
   {
