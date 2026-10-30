@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29 23:25 UTC",
+ "updated": "2026-10-30 02:43 UTC",
  "count": 661,
  "jobs": [
   {
@@ -1941,7 +1941,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1950,7 +1950,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -5196,6 +5196,15 @@
    "phd": false
   },
   {
+   "title": "Data Scientist Project Intern - Integrity and Safety",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7610543185362372917",
+   "posted": "2026-07-22",
+   "found": "2026-07-28",
+   "phd": false
+  },
+  {
    "title": "Leave of Absence Analyst Project Intern",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -5723,15 +5732,6 @@
    "location": "New York, NY | United States",
    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
    "posted": "2026-03-10",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7610543185362372917",
-   "posted": "2026-03-03",
    "found": "2026-07-28",
    "phd": false
   },
