@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-30 09:07 UTC",
+ "updated": "2026-10-30 16:03 UTC",
  "count": 661,
  "jobs": [
+  {
+   "title": "Research Scientist Intern - Photorealistic Telepresence",
+   "company": "Meta",
+   "location": "Redmond, WA | Pittsburgh, PA",
+   "url": "https://www.metacareers.com/jobs/1358944629494375",
+   "posted": "2026-10-30",
+   "found": "2026-10-30",
+   "phd": false
+  },
+  {
+   "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
+   "posted": "2026-10-30",
+   "found": "2026-10-30",
+   "phd": false
+  },
   {
    "title": "Data Engineer Intern - Energy",
    "company": "Tesla",
@@ -1941,7 +1959,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1950,7 +1968,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2055,7 +2073,7 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
+   "title": "2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
@@ -3144,15 +3162,6 @@
    "phd": false
   },
   {
-   "title": "Software Integration Engineer Intern - Factory Firmware",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/283395",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
    "title": "System Integration and Test Automation Engineer Intern - Energy Engineering",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -3465,15 +3474,6 @@
    "url": "https://www.tesla.com/careers/search/job/282598",
    "posted": "2026-09-05",
    "found": "2026-09-05",
-   "phd": false
-  },
-  {
-   "title": "Audio & Sensor Software Engineer Intern - Vehicle Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/282301",
-   "posted": "2026-09-04",
-   "found": "2026-09-04",
    "phd": false
   },
   {
