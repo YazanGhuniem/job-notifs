@@ -1,7 +1,34 @@
 {
- "updated": "2026-10-30 16:03 UTC",
- "count": 661,
+ "updated": "2026-10-30 20:55 UTC",
+ "count": 664,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, PhD, Research Scientist Intern",
+   "company": "Waymo",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
+   "posted": "2026-10-30",
+   "found": "2026-10-30",
+   "phd": true
+  },
+  {
+   "title": "Master's Machine Learning Engineer, Intern",
+   "company": "Stripe",
+   "location": "San Francisco, New York City, Seattle",
+   "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+   "posted": "2026-10-30",
+   "found": "2026-10-30",
+   "phd": false
+  },
+  {
+   "title": "PhD Machine Learning Engineer, Intern",
+   "company": "Stripe",
+   "location": "San Francisco, New York City, Seattle",
+   "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+   "posted": "2026-10-30",
+   "found": "2026-10-30",
+   "phd": true
+  },
   {
    "title": "Research Scientist Intern - Photorealistic Telepresence",
    "company": "Meta",
