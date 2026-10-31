@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31 05:59 UTC",
- "count": 669,
+ "updated": "2026-10-31 11:38 UTC",
+ "count": 666,
  "jobs": [
   {
    "title": "Research Scientist Intern - Video Recsys",
@@ -498,15 +498,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Security & Identity",
-   "company": "Microsoft",
-   "location": "United States",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
-   "posted": "2026-10-23",
-   "found": "2026-10-23",
-   "phd": false
-  },
-  {
    "title": "Research Scientist Intern - Video Recommendations - PhD",
    "company": "Meta",
    "location": "Menlo Park, CA | Bellevue, WA",
@@ -718,15 +709,6 @@
    "company": "Uber",
    "location": "Seattle, WA | SF | Sunnyvale, CA",
    "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
-   "posted": "2026-10-21",
-   "found": "2026-10-21",
-   "phd": false
-  },
-  {
-   "title": "Systems Software Intern, Aerial PHY- Summer 2027",
-   "company": "NVIDIA",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
    "posted": "2026-10-21",
    "found": "2026-10-21",
    "phd": false
@@ -1864,15 +1846,6 @@
    "posted": "2026-10-07",
    "found": "2026-10-07",
    "phd": true
-  },
-  {
-   "title": "Applied Scientist Intern",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
-   "posted": "2026-10-07",
-   "found": "2026-10-08",
-   "phd": false
   },
   {
    "title": "Data Scientist Intern - Product Analytics",
