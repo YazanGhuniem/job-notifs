@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01 09:26 UTC",
- "count": 665,
+ "updated": "2026-11-01 16:10 UTC",
+ "count": 667,
  "jobs": [
   {
    "title": "Research Scientist Intern - Video Recsys",
@@ -2004,7 +2004,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2013,7 +2013,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -3078,6 +3078,15 @@
    "url": "https://lifeattiktok.com/search/7684622182248548661",
    "posted": "2026-09-16",
    "found": "2026-10-04",
+   "phd": false
+  },
+  {
+   "title": "Factory Firmware Integration Intern - Energy Engineering",
+   "company": "Tesla",
+   "location": "Buffalo, NY",
+   "url": "https://www.tesla.com/careers/search/job/283630",
+   "posted": "2026-09-16",
+   "found": "2026-09-16",
    "phd": false
   },
   {
@@ -4698,6 +4707,15 @@
    "url": "https://lifeattiktok.com/search/7668881813744191749",
    "posted": "2026-08-04",
    "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Security & Identity Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+   "posted": "2026-08-04",
+   "found": "2026-08-04",
    "phd": false
   },
   {
