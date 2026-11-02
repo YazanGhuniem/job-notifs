@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-02 04:10 UTC",
- "count": 667,
+ "updated": "2026-11-02 12:41 UTC",
+ "count": 668,
  "jobs": [
+  {
+   "title": "Explore Program Engineering Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+   "posted": "2026-11-02",
+   "found": "2026-11-02",
+   "phd": false
+  },
   {
    "title": "Research Scientist Intern - Video Recsys",
    "company": "Meta",
