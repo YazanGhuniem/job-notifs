@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-03 18:30 UTC",
- "count": 668,
+ "updated": "2026-11-03 23:34 UTC",
+ "count": 666,
  "jobs": [
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7703899923206867205",
+   "posted": "2026-11-03",
+   "found": "2026-11-03",
+   "phd": false
+  },
   {
    "title": "AI Compiler and Kernel Intern \u2013 Summer 2027",
    "company": "NVIDIA",
@@ -28,6 +37,24 @@
    "posted": "2026-11-03",
    "found": "2026-11-03",
    "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - GenAI Safety",
+   "company": "Meta",
+   "location": "SF | Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/993713283787464",
+   "posted": "2026-11-03",
+   "found": "2026-11-03",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Ads Quality - PhD",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1838454487574865",
+   "posted": "2026-11-03",
+   "found": "2026-11-03",
+   "phd": true
   },
   {
    "title": "Explore Program Engineering Intern",
@@ -201,15 +228,6 @@
    "phd": false
   },
   {
-   "title": "AI Systems Software Engineering Intern \u2013 Summer 2027",
-   "company": "NVIDIA",
-   "location": "US, TX, Austin",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
-   "posted": "2026-10-29",
-   "found": "2026-10-29",
-   "phd": false
-  },
-  {
    "title": "Compiler Software Engineering Intern - Summer 2027",
    "company": "NVIDIA",
    "location": "US, WA, Redmond",
@@ -343,24 +361,6 @@
    "posted": "2026-10-27",
    "found": "2026-10-27",
    "phd": true
-  },
-  {
-   "title": "Forward Deployed Engineer Intern - Global Public Sector",
-   "company": "Salesforce",
-   "location": "Arkansas | Ohio",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1",
-   "posted": "2026-10-27",
-   "found": "2026-10-27",
-   "phd": false
-  },
-  {
-   "title": "Forward Deployed Engineer Intern - Global Public Sector",
-   "company": "Salesforce",
-   "location": "Arkansas | Ohio",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026",
-   "posted": "2026-10-27",
-   "found": "2026-10-27",
-   "phd": false
   },
   {
    "title": "Research Scientist Intern - Search",
@@ -2031,7 +2031,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2040,7 +2040,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -3063,15 +3063,6 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
-   "company": "Waymo",
-   "location": "San Francisco, California",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
-   "posted": "2026-09-16",
-   "found": "2026-09-17",
-   "phd": false
-  },
-  {
    "title": "2027 Summer Intern, MS, PhD, Quantitative Software Engineer",
    "company": "Waymo",
    "location": "Mountain View, California, United States | San Francisco, California, United States",
@@ -3425,8 +3416,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3434,8 +3425,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -5634,15 +5625,6 @@
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
    "posted": "2026-05-07",
    "found": "2026-08-29",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern (Winter 2027)",
-   "company": "Cohere",
-   "location": "Canada | Dubai | London | United States | United Kingdom | Remote",
-   "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
-   "posted": "2026-05-01",
-   "found": "2026-07-28",
    "phd": false
   },
   {
