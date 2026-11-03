@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-02 21:59 UTC",
- "count": 652,
+ "updated": "2026-11-03 03:15 UTC",
+ "count": 672,
  "jobs": [
+  {
+   "title": "AI Compiler and Kernel Intern \u2013 Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, TX, Austin",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+   "posted": "2026-11-03",
+   "found": "2026-11-03",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - PAR Safety Evals and Red Teaming",
+   "company": "Meta",
+   "location": "Menlo Park, CA | NYC",
+   "url": "https://www.metacareers.com/jobs/1903232531024141",
+   "posted": "2026-11-03",
+   "found": "2026-11-03",
+   "phd": false
+  },
   {
    "title": "Explore Program Engineering Intern",
    "company": "Microsoft",
@@ -9,6 +27,69 @@
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
    "posted": "2026-11-02",
    "found": "2026-11-02",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Coding Agents & Post-Training Optimization",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
+   "posted": "2026-11-02",
+   "found": "2026-11-03",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Foundational Models & Agent",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
+   "posted": "2026-11-02",
+   "found": "2026-11-03",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Microsoft",
+   "location": "United States",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
+   "posted": "2026-11-02",
+   "found": "2026-11-03",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Speech Processing",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557053016",
+   "posted": "2026-11-02",
+   "found": "2026-11-03",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Robotic Control Policy",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1872420890835857",
+   "posted": "2026-11-02",
+   "found": "2026-11-03",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Interactive Physics Simulation for Robotics",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1143164681833409",
+   "posted": "2026-11-02",
+   "found": "2026-11-03",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - PAR Safety Evals and Red Teaming",
+   "company": "Meta",
+   "location": "Menlo Park, CA | NYC",
+   "url": "https://www.metacareers.com/jobs/1272664685039241",
+   "posted": "2026-11-02",
+   "found": "2026-11-03",
    "phd": false
   },
   {
@@ -282,15 +363,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern - Efficient World Foundation Models - PhD",
-   "company": "Meta",
-   "location": "Burlingame, CA",
-   "url": "https://www.metacareers.com/jobs/1423049949381658",
-   "posted": "2026-10-27",
-   "found": "2026-10-27",
-   "phd": true
-  },
-  {
    "title": "Research Scientist Intern - Foundation Model Optimization",
    "company": "Meta",
    "location": "Burlingame, CA | Menlo Park, CA",
@@ -543,15 +615,6 @@
    "phd": true
   },
   {
-   "title": "Research Scientist Intern - Wearable Sensing & Human Motion Analysis",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1137225375529389",
-   "posted": "2026-10-23",
-   "found": "2026-10-23",
-   "phd": false
-  },
-  {
    "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
    "company": "Amazon",
    "location": "Redmond, Washington, USA",
@@ -646,15 +709,6 @@
    "company": "Meta",
    "location": "Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/1136354555738164",
-   "posted": "2026-10-22",
-   "found": "2026-10-22",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - World-Model Aware Perception & Communication",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1097992326377524",
    "posted": "2026-10-22",
    "found": "2026-10-22",
    "phd": false
@@ -804,6 +858,15 @@
    "phd": false
   },
   {
+   "title": "2027 Product Sourcing Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007",
+   "posted": "2026-10-21",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
    "title": "AI Research Intern",
    "company": "Salesforce",
    "location": "Palo Alto, CA",
@@ -847,24 +910,6 @@
    "posted": "2026-10-20",
    "found": "2026-10-20",
    "phd": true
-  },
-  {
-   "title": "Research Scientist Intern - Computational Imaging and Robotics",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/2857194467985784",
-   "posted": "2026-10-20",
-   "found": "2026-10-21",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - Audio Quality with AI",
-   "company": "Meta",
-   "location": "Cambridge, UK",
-   "url": "https://www.metacareers.com/jobs/4556622427930384",
-   "posted": "2026-10-20",
-   "found": "2026-10-21",
-   "phd": false
   },
   {
    "title": "Research Scientist Intern - Artificial Intelligence-Driven Neural Interfaces",
@@ -993,15 +1038,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern - 3D-grounded Generalist Model for Robotics",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/2267351860492630",
-   "posted": "2026-10-19",
-   "found": "2026-10-19",
-   "phd": false
-  },
-  {
    "title": "Research Scientist Intern - Multimodal LLM and Speech-to-Speech Translation - PhD",
    "company": "Meta",
    "location": "Redmond, WA",
@@ -1018,6 +1054,33 @@
    "posted": "2026-10-19",
    "found": "2026-10-22",
    "phd": true
+  },
+  {
+   "title": "2027 Field Test Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States; Quincy, Massachusetts, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "2027 Guidance, Navigation, & Control Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
+  },
+  {
+   "title": "2027 Low Observables Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007",
+   "posted": "2026-10-19",
+   "found": "2026-10-19",
+   "phd": false
   },
   {
    "title": "AI & Architecture Intern",
@@ -1114,6 +1177,15 @@
    "company": "NVIDIA",
    "location": "2 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949",
+   "posted": "2026-10-15",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
+   "title": "Researcher Intern - Coreai",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
    "posted": "2026-10-15",
    "found": "2026-10-15",
    "phd": false
@@ -1299,6 +1371,24 @@
    "phd": false
   },
   {
+   "title": "2027 Flight Test Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
+   "posted": "2026-10-14",
+   "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Winter 2027 Research Engineer Co-op",
+   "company": "Anduril",
+   "location": "Santa Ana, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
+   "posted": "2026-10-14",
+   "found": "2026-10-15",
+   "phd": false
+  },
+  {
    "title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
@@ -1425,15 +1515,6 @@
    "phd": false
   },
   {
-   "title": "Research Scientist Intern",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/3364701000388712",
-   "posted": "2026-10-13",
-   "found": "2026-10-14",
-   "phd": false
-  },
-  {
    "title": "Research Scientist Intern - AI & System Co-Design",
    "company": "Meta",
    "location": "Menlo Park, CA",
@@ -1477,6 +1558,15 @@
    "posted": "2026-10-13",
    "found": "2026-10-13",
    "phd": true
+  },
+  {
+   "title": "2027 Firmware Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
+   "posted": "2026-10-13",
+   "found": "2026-10-14",
+   "phd": false
   },
   {
    "title": "Research Scientist Intern - Robotics",
@@ -1950,7 +2040,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1959,7 +2049,34 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "2027 Quality & Test Engineer Intern",
+   "company": "Anduril",
+   "location": "Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "2027 Reliability Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "2027 Systems Engineer Intern",
+   "company": "Anduril",
+   "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -1996,6 +2113,15 @@
    "company": "Intuit",
    "location": "Mountain View, CA",
    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
+   "posted": "2026-10-02",
+   "found": "2026-10-02",
+   "phd": false
+  },
+  {
+   "title": "2027 Industrial Engineer Intern",
+   "company": "Anduril",
+   "location": "Ashville, Ohio, United States; Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007",
    "posted": "2026-10-02",
    "found": "2026-10-02",
    "phd": false
@@ -3079,6 +3205,42 @@
    "posted": "2026-09-15",
    "found": "2026-09-15",
    "phd": true
+  },
+  {
+   "title": "2027 Flight Software Engineer Intern",
+   "company": "Anduril",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "Winter 2027 Software Engineer Co-op",
+   "company": "Anduril",
+   "location": "Quincy, Massachusetts, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "Winter 2027 Systems Engineer Co-op",
+   "company": "Anduril",
+   "location": "Quincy, Massachusetts, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
+   "posted": "2026-09-15",
+   "found": "2026-09-15",
+   "phd": false
+  },
+  {
+   "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+   "company": "Waymo",
+   "location": "Mountain View, California, United States; San Francisco, California, United States",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+   "posted": "2026-09-14",
+   "found": "2026-09-14",
+   "phd": false
   },
   {
    "title": "Client Solutions Manager Intern - GBS-LATAM",
@@ -5070,6 +5232,15 @@
    "phd": false
   },
   {
+   "title": "Software Engineer Intern - CoreAI",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+   "posted": "2026-08-03",
+   "found": "2026-08-03",
+   "phd": false
+  },
+  {
    "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -5310,6 +5481,15 @@
    "url": "https://lifeattiktok.com/search/7584179082162653445",
    "posted": "2026-06-15",
    "found": "2026-10-23",
+   "phd": false
+  },
+  {
+   "title": "2027 Software Engineer Intern",
+   "company": "Anduril",
+   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "posted": "2026-06-10",
+   "found": "2026-07-28",
    "phd": false
   },
   {
