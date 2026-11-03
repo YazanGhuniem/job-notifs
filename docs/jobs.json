@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03 11:06 UTC",
- "count": 672,
+ "updated": "2026-11-03 18:30 UTC",
+ "count": 668,
  "jobs": [
   {
    "title": "AI Compiler and Kernel Intern \u2013 Summer 2027",
@@ -16,6 +16,15 @@
    "company": "Meta",
    "location": "Menlo Park, CA | NYC",
    "url": "https://www.metacareers.com/jobs/1903232531024141",
+   "posted": "2026-11-03",
+   "found": "2026-11-03",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - FM Quality ML",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1125383989877928",
    "posted": "2026-11-03",
    "found": "2026-11-03",
    "phd": false
@@ -2001,28 +2010,10 @@
    "phd": false
   },
   {
-   "title": "Data Processing Developer Technology Intern - 2027",
-   "company": "NVIDIA",
-   "location": "4 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
-   "posted": "2026-10-05",
-   "found": "2026-10-05",
-   "phd": false
-  },
-  {
    "title": "AI Agent Development Engineer (RDSS Intern)",
    "company": "NVIDIA",
    "location": "2 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
-   "posted": "2026-10-05",
-   "found": "2026-10-05",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern, Nsight Systems - 2026",
-   "company": "NVIDIA",
-   "location": "2 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248",
    "posted": "2026-10-05",
    "found": "2026-10-05",
    "phd": false
@@ -2040,7 +2031,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2049,7 +2040,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -3009,15 +3000,6 @@
    "phd": false
   },
   {
-   "title": "Systems Integration Engineer Intern - Body Controls",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/283990",
-   "posted": "2026-09-18",
-   "found": "2026-09-19",
-   "phd": false
-  },
-  {
    "title": "Data Engineer Internship - 2027 (US)",
    "company": "Amazon",
    "location": "Seattle, Washington, USA",
@@ -3351,15 +3333,6 @@
    "phd": true
   },
   {
-   "title": "Data Science Intern (2027)",
-   "company": "Figma",
-   "location": "San Francisco, CA \u2022 New York, NY",
-   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern (Summer 2027)",
    "company": "Figma",
    "location": "San Francisco, CA \u2022 New York, NY",
@@ -3452,8 +3425,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3461,8 +3434,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -4230,15 +4203,6 @@
    "url": "https://lifeattiktok.com/search/7674032146438162693",
    "posted": "2026-08-17",
    "found": "2026-08-17",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern (Winter 2027)",
-   "company": "Notion",
-   "location": "San Francisco, California | New York, New York | United States | Remote",
-   "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
-   "posted": "2026-08-14",
-   "found": "2026-08-14",
    "phd": false
   },
   {
