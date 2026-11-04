@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 03:28 UTC",
- "count": 666,
+ "updated": "2026-11-04 11:20 UTC",
+ "count": 667,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern",
@@ -306,6 +306,15 @@
    "url": "https://www.metacareers.com/jobs/4603165899971826",
    "posted": "2026-10-29",
    "found": "2026-10-29",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - ML Innovation for Products",
+   "company": "Meta",
+   "location": "Menlo Park, CA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1060093353751700",
+   "posted": "2026-10-29",
+   "found": "2026-11-04",
    "phd": false
   },
   {
@@ -2040,7 +2049,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2049,7 +2058,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
