@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-04 11:20 UTC",
- "count": 667,
+ "updated": "2026-11-04 18:44 UTC",
+ "count": 666,
  "jobs": [
+  {
+   "title": "PhD Intern, Software Engineer - Interaction Design (2027)",
+   "company": "Figma",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "url": "https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004",
+   "posted": "2026-11-04",
+   "found": "2026-11-04",
+   "phd": true
+  },
   {
    "title": "Machine Learning Engineer Intern",
    "company": "TikTok",
@@ -2049,7 +2058,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2058,7 +2067,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -3243,15 +3252,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Camera & Robotics",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/283274",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
    "title": "System Integration and Test Automation Engineer Intern - Energy Engineering",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -4174,15 +4174,6 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7675128776856029445",
-   "posted": "2026-08-18",
-   "found": "2026-08-18",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern, NCCL - 2026",
-   "company": "NVIDIA",
-   "location": "2 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645",
    "posted": "2026-08-18",
    "found": "2026-08-18",
    "phd": false
