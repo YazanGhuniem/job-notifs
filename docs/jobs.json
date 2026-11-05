@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05 12:55 UTC",
+ "updated": "2026-11-05 20:21 UTC",
  "count": 685,
  "jobs": [
   {
@@ -57,10 +57,28 @@
    "phd": true
   },
   {
+   "title": "Software Engineer, Internship - Sovereign AI Systems",
+   "company": "Palantir",
+   "location": "New York, NY | United States",
+   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
    "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
    "company": "NVIDIA",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Technical Learning Content Development Intern, Physical AI \u2014 Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Learning-Content-Development-Intern--Physical-AI---Summer-2027_JR2028148",
    "posted": "2026-11-05",
    "found": "2026-11-05",
    "phd": false
@@ -2202,7 +2220,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2211,7 +2229,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2667,19 +2685,19 @@
    "phd": true
   },
   {
-   "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
+   "title": "2027 Summer Intern, MS/PhD, Perception Systems Engineering: Pedestrian Detection Precision",
    "company": "Waymo",
-   "location": "Mountain View, CA, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+   "location": "San Francisco, California",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
    "posted": "2026-09-28",
    "found": "2026-09-28",
    "phd": true
   },
   {
-   "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+   "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
    "company": "Waymo",
-   "location": "San Francisco, California",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+   "location": "Mountain View, CA, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
    "posted": "2026-09-28",
    "found": "2026-09-28",
    "phd": true
@@ -3180,15 +3198,6 @@
    "phd": false
   },
   {
-   "title": "Embedded Software Engineer Intern - Body Controls Firmware",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/283994",
-   "posted": "2026-09-18",
-   "found": "2026-09-19",
-   "phd": false
-  },
-  {
    "title": "Data Engineer Internship - 2027 (US)",
    "company": "Amazon",
    "location": "Seattle, Washington, USA",
@@ -3587,8 +3596,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3596,8 +3605,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3940,15 +3949,6 @@
    "company": "TikTok",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7676650607912601861",
-   "posted": "2026-08-31",
-   "found": "2026-08-31",
-   "phd": false
-  },
-  {
-   "title": "Mobile App Intern - Mobile Applications - Automated Diagnostics",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/281625",
    "posted": "2026-08-31",
    "found": "2026-08-31",
    "phd": false
