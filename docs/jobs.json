@@ -1,7 +1,142 @@
 {
- "updated": "2026-11-04 23:59 UTC",
- "count": 665,
+ "updated": "2026-11-05 05:00 UTC",
+ "count": 681,
  "jobs": [
+  {
+   "title": "Research Scientist Intern - Monetization Technology - Ads Core",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7703777085291415813",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "PayPal",
+   "location": "San Jose, CA",
+   "url": "https://paypal.eightfold.ai/careers/job/274922983149",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "PayPal",
+   "location": "Austin, TX | San Jose, CA | Chicago, IL | Omaha, NE | Scottsdale, AZ",
+   "url": "https://paypal.eightfold.ai/careers/job/274922982814",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Mobile Engineer Intern",
+   "company": "PayPal",
+   "location": "Austin, TX | San Jose, CA | Chicago, IL | Omaha, NE | Scottsdale, AZ",
+   "url": "https://paypal.eightfold.ai/careers/job/274922982818",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Data Scientist Intern",
+   "company": "PayPal",
+   "location": "San Jose, CA",
+   "url": "https://paypal.eightfold.ai/careers/job/274922982821",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer PhD Intern",
+   "company": "PayPal",
+   "location": "San Jose, CA",
+   "url": "https://paypal.eightfold.ai/careers/job/274922983152",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": true
+  },
+  {
+   "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Multiple Teams",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Monetization Ranking & AI Foundations",
+   "company": "Meta",
+   "location": "Menlo Park, CA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1920724172670221",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Generative AI & Computational Photography",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2862704290847533",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - AI Maps",
+   "company": "Meta",
+   "location": "Seattle, WA",
+   "url": "https://www.metacareers.com/jobs/2439439363131036",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Generative AI & Computational Photography",
+   "company": "Meta",
+   "location": "Cambridge, MA | Burlingame, CA | Redmond, WA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/2572072169967580",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Humanoid Control & Dexterous Manipulation",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1832390484751700",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Spatial Reasoning & Localization",
+   "company": "Meta",
+   "location": "Boston, MA | Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1218542847568705",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Foundation Model Optimization - PhD",
+   "company": "Meta",
+   "location": "Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/2111078129773109",
+   "posted": "2026-11-05",
+   "found": "2026-11-05",
+   "phd": true
+  },
   {
    "title": "PhD Intern, Software Engineer - Interaction Design (2027)",
    "company": "Figma",
@@ -943,6 +1078,15 @@
    "company": "Meta",
    "location": "Burlingame, CA | Menlo Park, CA | NYC",
    "url": "https://www.metacareers.com/jobs/1436615821934863",
+   "posted": "2026-10-20",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Multimodal Behavioral AI",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1428978125312655",
    "posted": "2026-10-20",
    "found": "2026-10-21",
    "phd": false
@@ -3225,15 +3369,6 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-   "company": "Waymo",
-   "location": "Mountain View, California, United States; San Francisco, California, United States",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
-   "phd": false
-  },
-  {
    "title": "Client Solutions Manager Intern - GBS-LATAM",
    "company": "TikTok",
    "location": "Miami, FL",
@@ -3742,6 +3877,15 @@
    "company": "Tesla",
    "location": "Fremont, CA",
    "url": "https://www.tesla.com/careers/search/job/281462",
+   "posted": "2026-09-01",
+   "found": "2026-09-01",
+   "phd": false
+  },
+  {
+   "title": "Data Scientist Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
    "posted": "2026-09-01",
    "found": "2026-09-01",
    "phd": false
