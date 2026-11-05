@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05 05:00 UTC",
- "count": 681,
+ "updated": "2026-11-05 12:55 UTC",
+ "count": 685,
  "jobs": [
   {
    "title": "Research Scientist Intern - Monetization Technology - Ads Core",
@@ -669,6 +669,24 @@
    "phd": false
   },
   {
+   "title": "AI Researcher Intern",
+   "company": "Atlassian",
+   "location": "Seattle, WA | SF",
+   "url": "https://campus-americas.icims.com/jobs/26246/ai-researcher-%28phd%29%2c-2027-graduate-u.s./job",
+   "posted": "2026-10-26",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
+   "title": "AI Research Intern",
+   "company": "Atlassian",
+   "location": "SF",
+   "url": "https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job",
+   "posted": "2026-10-26",
+   "found": "2026-11-05",
+   "phd": false
+  },
+  {
    "title": "Tech Ops Engineer Intern, 2027 Tech Ops Intern",
    "company": "Amazon",
    "location": "San Diego, California, USA",
@@ -1051,15 +1069,6 @@
    "company": "NVIDIA",
    "location": "3 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210",
-   "posted": "2026-10-20",
-   "found": "2026-10-20",
-   "phd": false
-  },
-  {
-   "title": "GenAI Algorithms Intern \u2013 Model Optimization for Inference",
-   "company": "NVIDIA",
-   "location": "2 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377",
    "posted": "2026-10-20",
    "found": "2026-10-20",
    "phd": false
@@ -2193,7 +2202,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2202,7 +2211,16 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "posted": "2026-10-05",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
+   "title": "Data Engineer Intern",
+   "company": "Atlassian",
+   "location": "Seattle, WA",
+   "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2505,15 +2523,6 @@
    "phd": false
   },
   {
-   "title": "Deep Learning Performance Software Intern - 2027",
-   "company": "NVIDIA",
-   "location": "2 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966",
-   "posted": "2026-09-30",
-   "found": "2026-09-30",
-   "phd": false
-  },
-  {
    "title": "Developer Technology Engineering Intern - Compute Performance",
    "company": "NVIDIA",
    "location": "3 Locations",
@@ -2746,6 +2755,15 @@
    "posted": "2026-09-25",
    "found": "2026-09-25",
    "phd": true
+  },
+  {
+   "title": "Data Scientist Intern",
+   "company": "Atlassian",
+   "location": "Seattle, WA",
+   "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
+   "posted": "2026-09-25",
+   "found": "2026-09-25",
+   "phd": false
   },
   {
    "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
@@ -3079,6 +3097,15 @@
    "posted": "2026-09-21",
    "found": "2026-09-21",
    "phd": true
+  },
+  {
+   "title": "Machine Learning Intern",
+   "company": "Atlassian",
+   "location": "Seattle, WA | SF",
+   "url": "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job",
+   "posted": "2026-09-21",
+   "found": "2026-09-21",
+   "phd": false
   },
   {
    "title": "Software Engineering Intern, DLFW Comms - 2027",
@@ -3886,6 +3913,15 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
+   "posted": "2026-09-01",
+   "found": "2026-09-01",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Atlassian",
+   "location": "Seattle, WA | SF",
+   "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
    "posted": "2026-09-01",
    "found": "2026-09-01",
    "phd": false
