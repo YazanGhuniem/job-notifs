@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-06 00:59 UTC",
- "count": 683,
+ "updated": "2026-11-06 07:39 UTC",
+ "count": 682,
  "jobs": [
+  {
+   "title": "Research and Engineering Intern, Agentic Systems Intelligence \u2013 Summer 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
+   "posted": "2026-11-06",
+   "found": "2026-11-06",
+   "phd": false
+  },
   {
    "title": "Research Scientist Intern - Monetization Technology - Ads Core",
    "company": "TikTok",
@@ -538,15 +547,6 @@
    "company": "Meta",
    "location": "Menlo Park, CA",
    "url": "https://www.metacareers.com/jobs/2171476533578976",
-   "posted": "2026-10-27",
-   "found": "2026-10-27",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - Foundation Model Optimization",
-   "company": "Meta",
-   "location": "Burlingame, CA | Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1435245618154892",
    "posted": "2026-10-27",
    "found": "2026-10-27",
    "phd": false
@@ -3324,15 +3324,6 @@
    "phd": false
   },
   {
-   "title": "Solar Hardware Engineer Intern - Energy Engineering",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/283423",
-   "posted": "2026-09-15",
-   "found": "2026-09-15",
-   "phd": false
-  },
-  {
    "title": "Applied Scientist Intern",
    "company": "Ramp",
    "location": "New York, NY (HQ) | USA | Remote",
@@ -3711,6 +3702,15 @@
    "phd": false
   },
   {
+   "title": "AI Developer Technology Engineering Intern - 2027",
+   "company": "NVIDIA",
+   "location": "3 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+   "posted": "2026-09-04",
+   "found": "2026-09-04",
+   "phd": false
+  },
+  {
    "title": "Software Development Engineer Intern/Co-Op, ROBOTICS - 2027",
    "company": "Amazon",
    "location": "North Reading, Massachusetts, USA",
@@ -4039,15 +4039,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/281099",
-   "posted": "2026-08-26",
-   "found": "2026-08-26",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Maps & Navigation - Robotaxi",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/280960",
    "posted": "2026-08-26",
    "found": "2026-08-26",
    "phd": false
