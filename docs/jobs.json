@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-06 07:39 UTC",
- "count": 682,
+ "updated": "2026-11-06 15:26 UTC",
+ "count": 683,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+   "company": "Waymo",
+   "location": "San Francisco, California, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
+   "posted": "2026-11-06",
+   "found": "2026-11-06",
+   "phd": true
+  },
   {
    "title": "Research and Engineering Intern, Agentic Systems Intelligence \u2013 Summer 2027",
    "company": "NVIDIA",
@@ -2202,7 +2211,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2211,7 +2220,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -3243,7 +3252,7 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, MS, PhD, Quantitative Software Engineer",
+   "title": "2027 Summer Intern, MS/PhD, Quantitative Software Engineer",
    "company": "Waymo",
    "location": "Mountain View, California, United States | San Francisco, California, United States",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
