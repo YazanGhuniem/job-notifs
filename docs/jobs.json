@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05 20:21 UTC",
- "count": 685,
+ "updated": "2026-11-06 00:59 UTC",
+ "count": 683,
  "jobs": [
   {
    "title": "Research Scientist Intern - Monetization Technology - Ads Core",
@@ -286,15 +286,6 @@
    "company": "Meta",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/1143164681833409",
-   "posted": "2026-11-02",
-   "found": "2026-11-03",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - PAR Safety Evals and Red Teaming",
-   "company": "Meta",
-   "location": "Menlo Park, CA | NYC",
-   "url": "https://www.metacareers.com/jobs/1272664685039241",
    "posted": "2026-11-02",
    "found": "2026-11-03",
    "phd": false
@@ -1540,15 +1531,6 @@
    "posted": "2026-10-14",
    "found": "2026-10-15",
    "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - Robotics Foundation Models Mid-Training - PhD",
-   "company": "Meta",
-   "location": "Menlo Park, CA",
-   "url": "https://www.metacareers.com/jobs/1658187582680157",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": true
   },
   {
    "title": "Display Array Modeling Engineer Intern",
