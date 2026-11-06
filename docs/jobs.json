@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-06 15:26 UTC",
- "count": 683,
+ "updated": "2026-11-06 20:58 UTC",
+ "count": 689,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)",
+   "company": "Waymo",
+   "location": "Mountain View, California, United States",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8358262",
+   "posted": "2026-11-06",
+   "found": "2026-11-06",
+   "phd": true
+  },
   {
    "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
    "company": "Waymo",
@@ -12,10 +21,55 @@
    "phd": true
   },
   {
+   "title": "Software Engineering Intern, Frontend (Summer 2027)",
+   "company": "Notion",
+   "location": "New York, New York | United States | Remote",
+   "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+   "posted": "2026-11-06",
+   "found": "2026-11-06",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, iOS (Summer 2027)",
+   "company": "Notion",
+   "location": "New York, New York | United States",
+   "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947",
+   "posted": "2026-11-06",
+   "found": "2026-11-06",
+   "phd": false
+  },
+  {
    "title": "Research and Engineering Intern, Agentic Systems Intelligence \u2013 Summer 2027",
    "company": "NVIDIA",
    "location": "3 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
+   "posted": "2026-11-06",
+   "found": "2026-11-06",
+   "phd": false
+  },
+  {
+   "title": "System Software Engineer Intern, Autonomous Vehicles - 2027",
+   "company": "NVIDIA",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172",
+   "posted": "2026-11-06",
+   "found": "2026-11-06",
+   "phd": false
+  },
+  {
+   "title": "AI Research Intern (PhD)",
+   "company": "Duolingo",
+   "location": "New York, NY; Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002",
+   "posted": "2026-11-06",
+   "found": "2026-11-06",
+   "phd": true
+  },
+  {
+   "title": "2027 Quantum Science Internship - Masters, Quantum Technologies team",
+   "company": "Amazon",
+   "location": "Pasadena, California, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10598841/2027-quantum-science-internship-masters-quantum-technologies-team",
    "posted": "2026-11-06",
    "found": "2026-11-06",
    "phd": false
@@ -2211,7 +2265,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2220,7 +2274,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -3045,13 +3099,13 @@
    "phd": true
   },
   {
-   "title": "2027 Quantum Applied Science Internship, Quantum Technologies team",
+   "title": "2027 Quantum Science Internship - PhD, Quantum Technologies team",
    "company": "Amazon",
    "location": "Pasadena, California, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team",
+   "url": "https://www.amazon.jobs/en/jobs/10556930/2027-quantum-science-internship-phd-quantum-technologies-team",
    "posted": "2026-09-22",
    "found": "2026-09-22",
-   "phd": false
+   "phd": true
   },
   {
    "title": "2027 Data Science Internship - United States, PhD or Masters Student",
@@ -3885,7 +3939,7 @@
    "title": "Internship - Machine Learning Research Engineer",
    "company": "Perplexity",
    "location": "Berlin | Germany | Remote",
-   "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
+   "url": "https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
    "posted": "2026-09-02",
    "found": "2026-09-02",
    "phd": false
@@ -5478,7 +5532,7 @@
    "title": "Internship - Search Backend Infra Engineer",
    "company": "Perplexity",
    "location": "Belgrade | Serbia | Remote",
-   "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
+   "url": "https://jobs.ashbyhq.com/Perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
    "posted": "2026-07-01",
    "found": "2026-09-04",
    "phd": false
