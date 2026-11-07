@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06 20:58 UTC",
- "count": 689,
+ "updated": "2026-11-07 00:33 UTC",
+ "count": 696,
  "jobs": [
   {
    "title": "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)",
@@ -19,6 +19,24 @@
    "posted": "2026-11-06",
    "found": "2026-11-06",
    "phd": true
+  },
+  {
+   "title": "2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation",
+   "company": "Waymo",
+   "location": "Mountain View, California, United States",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8351210",
+   "posted": "2026-11-06",
+   "found": "2026-11-07",
+   "phd": true
+  },
+  {
+   "title": "Software Engineer Intern - SI Reinforcement Learning",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/289240",
+   "posted": "2026-11-06",
+   "found": "2026-11-07",
+   "phd": false
   },
   {
    "title": "Software Engineering Intern, Frontend (Summer 2027)",
@@ -54,6 +72,51 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172",
    "posted": "2026-11-06",
    "found": "2026-11-06",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Synthetic Data for Computer Use Agents",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1667187061776108",
+   "posted": "2026-11-06",
+   "found": "2026-11-07",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Generative AI & 3D Generation",
+   "company": "Meta",
+   "location": "Burlingame, CA",
+   "url": "https://www.metacareers.com/jobs/1406087328180524",
+   "posted": "2026-11-06",
+   "found": "2026-11-07",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Robotics Foundation Models - Agentic RL",
+   "company": "Meta",
+   "location": "Menlo Park, CA",
+   "url": "https://www.metacareers.com/jobs/1414987577372371",
+   "posted": "2026-11-06",
+   "found": "2026-11-07",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - AI Systems and Infrastructure",
+   "company": "Meta",
+   "location": "Menlo Park, CA | NYC",
+   "url": "https://www.metacareers.com/jobs/1750797606003820",
+   "posted": "2026-11-06",
+   "found": "2026-11-07",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - AI Agents and Machine Learning",
+   "company": "Meta",
+   "location": "Menlo Park, CA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1826604892017856",
+   "posted": "2026-11-06",
+   "found": "2026-11-07",
    "phd": false
   },
   {
@@ -1587,15 +1650,6 @@
    "phd": false
   },
   {
-   "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
-   "company": "Meta",
-   "location": "Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/1758435721926913",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
    "title": "Display Array Modeling Engineer Intern",
    "company": "Meta",
    "location": "Sunnyvale, CA",
@@ -2265,7 +2319,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2274,7 +2328,7 @@
    "title": "Software Engineer Intern (2027)",
    "company": "Cloudflare",
    "location": "In-Office",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
    "posted": "2026-10-05",
    "found": "2026-10-06",
    "phd": false
@@ -2509,6 +2563,15 @@
    "company": "Pinterest",
    "location": "San Francisco, CA, US; Remote, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+   "posted": "2026-10-01",
+   "found": "2026-10-01",
+   "phd": false
+  },
+  {
+   "title": "UX Quantitative Research Intern (USA)",
+   "company": "Pinterest",
+   "location": "Remote, US; San Francisco, CA, US; Seattle, WA, US; New York, NY, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
    "posted": "2026-10-01",
    "found": "2026-10-01",
    "phd": false
