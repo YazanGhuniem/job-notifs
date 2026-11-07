@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 06:40 UTC",
- "count": 699,
+ "updated": "2026-11-07 13:37 UTC",
+ "count": 698,
  "jobs": [
   {
    "title": "Data Operations Intern",
@@ -25,6 +25,15 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7704981006856145205",
+   "posted": "2026-11-07",
+   "found": "2026-11-07",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - SI Reinforcement Learning",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/289241",
    "posted": "2026-11-07",
    "found": "2026-11-07",
    "phd": false
@@ -412,15 +421,6 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
-   "posted": "2026-11-02",
-   "found": "2026-11-03",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern",
-   "company": "Microsoft",
-   "location": "United States",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
    "posted": "2026-11-02",
    "found": "2026-11-03",
    "phd": false
@@ -1234,15 +1234,6 @@
    "posted": "2026-10-20",
    "found": "2026-10-20",
    "phd": false
-  },
-  {
-   "title": "Data Science \u2013 Forward Deployed Engineer: PhD Intern",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
-   "posted": "2026-10-20",
-   "found": "2026-10-20",
-   "phd": true
   },
   {
    "title": "Research Scientist Intern - Artificial Intelligence-Driven Neural Interfaces",
