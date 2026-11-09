@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 02:46 UTC",
- "count": 697,
+ "updated": "2026-11-09 10:35 UTC",
+ "count": 696,
  "jobs": [
   {
    "title": "Data Operations Intern",
@@ -6175,15 +6175,6 @@
    "posted": "2024-08-05",
    "found": "2026-07-28",
    "phd": false
-  },
-  {
-   "title": "PhD GenAI Research Scientist Intern",
-   "company": "Databricks",
-   "location": "San Francisco, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
-   "posted": "2023-11-07",
-   "found": "2026-07-28",
-   "phd": true
   },
   {
    "title": "Data Science Intern (2027 Start)",
