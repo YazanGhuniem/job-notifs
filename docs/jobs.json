@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-09 10:35 UTC",
+ "updated": "2026-11-09 20:55 UTC",
  "count": 696,
  "jobs": [
+  {
+   "title": "Research Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7704986879082907909",
+   "posted": "2026-11-09",
+   "found": "2026-11-09",
+   "phd": false
+  },
   {
    "title": "Data Operations Intern",
    "company": "TikTok",
@@ -325,6 +334,15 @@
    "posted": "2026-11-05",
    "found": "2026-11-05",
    "phd": true
+  },
+  {
+   "title": "Software Development Engineer Intern - Summer 2027",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+   "posted": "2026-11-05",
+   "found": "2026-11-09",
+   "phd": false
   },
   {
    "title": "PhD Intern, Software Engineer - Interaction Design (2027)",
@@ -2334,7 +2352,7 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern (2027)",
+   "title": "Software Engineer Intern (2027) - London, UK",
    "company": "Cloudflare",
    "location": "In-Office",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
@@ -2503,15 +2521,6 @@
    "posted": "2026-10-01",
    "found": "2026-10-01",
    "phd": false
-  },
-  {
-   "title": "PhD Data Scientist, Intern",
-   "company": "Stripe",
-   "location": "New York, Seattle, South San Francisco HQ",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194283",
-   "posted": "2026-10-01",
-   "found": "2026-10-01",
-   "phd": true
   },
   {
    "title": "Machine Learning Intern 2027 (Toronto)",
@@ -2921,17 +2930,8 @@
   {
    "title": "Software Engineering Intern, Frontend",
    "company": "Ramp",
-   "location": "New York, NY (HQ) | USA | Remote",
+   "location": "NYC | USA | Remote",
    "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
-   "posted": "2026-09-24",
-   "found": "2026-09-24",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern, Android",
-   "company": "Ramp",
-   "location": "New York, NY (HQ) | USA",
-   "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
    "posted": "2026-09-24",
    "found": "2026-09-24",
    "phd": false
@@ -2939,8 +2939,17 @@
   {
    "title": "Software Engineering Intern, iOS",
    "company": "Ramp",
-   "location": "New York, NY (HQ) | USA | Remote",
+   "location": "NYC | USA | Remote",
    "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, Android",
+   "company": "Ramp",
+   "location": "NYC | USA",
+   "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
    "posted": "2026-09-24",
    "found": "2026-09-24",
    "phd": false
@@ -3461,7 +3470,7 @@
   {
    "title": "Applied Scientist Intern",
    "company": "Ramp",
-   "location": "New York, NY (HQ) | USA | Remote",
+   "location": "NYC | USA | Remote",
    "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
    "posted": "2026-09-15",
    "found": "2026-09-30",
@@ -5466,15 +5475,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - CoreAI",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-   "posted": "2026-08-03",
-   "found": "2026-08-03",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -5999,7 +5999,7 @@
   {
    "title": "Software Engineering Intern, Backend",
    "company": "Ramp",
-   "location": "New York, NY (HQ) | USA",
+   "location": "NYC | USA",
    "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
    "posted": "2026-04-09",
    "found": "2026-09-24",
