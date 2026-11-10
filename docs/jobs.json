@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10 18:20 UTC",
- "count": 700,
+ "updated": "2026-11-10 23:35 UTC",
+ "count": 703,
  "jobs": [
   {
    "title": "Mobile Application Developer Intern",
@@ -39,10 +39,55 @@
    "phd": false
   },
   {
+   "title": "Performance Engineering Intern, Platform Performance and Power - Spring 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
+   "posted": "2026-11-10",
+   "found": "2026-11-10",
+   "phd": false
+  },
+  {
    "title": "Research Scientist Intern - AI Core Machine Learning",
    "company": "Meta",
    "location": "Menlo Park, CA | Sunnyvale, CA",
    "url": "https://www.metacareers.com/jobs/2432079507324778",
+   "posted": "2026-11-10",
+   "found": "2026-11-10",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Foundation Model Optimization",
+   "company": "Meta",
+   "location": "Burlingame, CA | Menlo Park, CA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/997597222780035",
+   "posted": "2026-11-10",
+   "found": "2026-11-10",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Audio Systems",
+   "company": "Meta",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1100150399514897",
+   "posted": "2026-11-10",
+   "found": "2026-11-10",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Neural Network Training and Hardware-Software Co-Design",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1560905132724186",
+   "posted": "2026-11-10",
+   "found": "2026-11-10",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern - Personal Agentic Search",
+   "company": "Apple",
+   "location": "Cambridge, UK",
+   "url": "https://jobs.apple.com/en-us/details/200694037",
    "posted": "2026-11-10",
    "found": "2026-11-10",
    "phd": false
@@ -149,7 +194,7 @@
   {
    "title": "Software Engineering Intern, Frontend (Summer 2027)",
    "company": "Notion",
-   "location": "New York, New York | United States | Remote",
+   "location": "New York, New York | San Francisco, California | United States | Remote",
    "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
    "posted": "2026-11-06",
    "found": "2026-11-06",
@@ -1243,15 +1288,6 @@
    "posted": "2026-10-21",
    "found": "2026-10-22",
    "phd": true
-  },
-  {
-   "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
-   "company": "Meta",
-   "location": "Burlingame, CA | Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1075160338670575",
-   "posted": "2026-10-21",
-   "found": "2026-10-22",
-   "phd": false
   },
   {
    "title": "Research Scientist Intern - Robot Foundation Models",
@@ -2361,19 +2397,19 @@
    "phd": true
   },
   {
-   "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
+   "title": "2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8257159",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
    "posted": "2026-10-05",
    "found": "2026-10-05",
    "phd": true
   },
   {
-   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+   "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8257159",
    "posted": "2026-10-05",
    "found": "2026-10-05",
    "phd": true
@@ -2584,6 +2620,15 @@
    "posted": "2026-10-01",
    "found": "2026-10-01",
    "phd": false
+  },
+  {
+   "title": "PhD Data Scientist, Intern",
+   "company": "Stripe",
+   "location": "New York, Seattle, South San Francisco HQ",
+   "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+   "posted": "2026-10-01",
+   "found": "2026-10-01",
+   "phd": true
   },
   {
    "title": "Machine Learning Intern 2027 (Toronto)",
@@ -3776,8 +3821,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3785,8 +3830,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3976,15 +4021,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/282291",
-   "posted": "2026-09-03",
-   "found": "2026-09-03",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Finance Programs",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/282303",
    "posted": "2026-09-03",
    "found": "2026-09-03",
    "phd": false
@@ -4456,15 +4492,6 @@
    "posted": "2026-08-19",
    "found": "2026-08-19",
    "phd": false
-  },
-  {
-   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
-   "company": "Netflix",
-   "location": "Los Gatos,California,United States of America",
-   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
-   "posted": "2026-08-19",
-   "found": "2026-08-26",
-   "phd": true
   },
   {
    "title": "NVIDIA 2027 Internships: Systems Software Engineering",
