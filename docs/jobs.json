@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-09 20:55 UTC",
- "count": 696,
+ "updated": "2026-11-10 03:01 UTC",
+ "count": 697,
  "jobs": [
+  {
+   "title": "Systems Research Intern, Observability \u2013 Summer 2027",
+   "company": "NVIDIA",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644",
+   "posted": "2026-11-10",
+   "found": "2026-11-10",
+   "phd": false
+  },
   {
    "title": "Research Engineer Intern",
    "company": "TikTok",
@@ -9,6 +18,24 @@
    "url": "https://lifeattiktok.com/search/7704986879082907909",
    "posted": "2026-11-09",
    "found": "2026-11-09",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Next-Generation AI Agents",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
+   "posted": "2026-11-09",
+   "found": "2026-11-10",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Computational Photography & Computer Vision",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1670489511324528",
+   "posted": "2026-11-09",
+   "found": "2026-11-10",
    "phd": false
   },
   {
@@ -48,19 +75,19 @@
    "phd": false
   },
   {
+   "title": "2027 Summer Intern, BS/MS, Software Engineer, Multiverse",
+   "company": "Waymo",
+   "location": "San Francisco, California, USA",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
+   "posted": "2026-11-06",
+   "found": "2026-11-06",
+   "phd": false
+  },
+  {
    "title": "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)",
    "company": "Waymo",
    "location": "Mountain View, California, United States",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8358262",
-   "posted": "2026-11-06",
-   "found": "2026-11-06",
-   "phd": true
-  },
-  {
-   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
-   "company": "Waymo",
-   "location": "San Francisco, California, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
    "posted": "2026-11-06",
    "found": "2026-11-06",
    "phd": true
@@ -1191,15 +1218,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern",
-   "company": "LinkedIn",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
-   "posted": "2026-10-21",
-   "found": "2026-10-21",
-   "phd": false
-  },
-  {
    "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
    "company": "Apple",
    "location": "Cambridge, UK",
@@ -1539,15 +1557,6 @@
    "url": "https://www.metacareers.com/jobs/1624891432439039",
    "posted": "2026-10-15",
    "found": "2026-10-16",
-   "phd": false
-  },
-  {
-   "title": "Data Scientist, Intern",
-   "company": "Duolingo",
-   "location": "New York, NY; Pittsburgh, PA",
-   "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
-   "posted": "2026-10-15",
-   "found": "2026-10-15",
    "phd": false
   },
   {
@@ -2930,17 +2939,8 @@
   {
    "title": "Software Engineering Intern, Frontend",
    "company": "Ramp",
-   "location": "NYC | USA | Remote",
+   "location": "New York, NY (HQ) | USA | Remote",
    "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
-   "posted": "2026-09-24",
-   "found": "2026-09-24",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern, iOS",
-   "company": "Ramp",
-   "location": "NYC | USA | Remote",
-   "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
    "posted": "2026-09-24",
    "found": "2026-09-24",
    "phd": false
@@ -2948,8 +2948,17 @@
   {
    "title": "Software Engineering Intern, Android",
    "company": "Ramp",
-   "location": "NYC | USA",
+   "location": "New York, NY (HQ) | USA",
    "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+   "posted": "2026-09-24",
+   "found": "2026-09-24",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern, iOS",
+   "company": "Ramp",
+   "location": "New York, NY (HQ) | USA | Remote",
+   "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
    "posted": "2026-09-24",
    "found": "2026-09-24",
    "phd": false
@@ -3470,7 +3479,7 @@
   {
    "title": "Applied Scientist Intern",
    "company": "Ramp",
-   "location": "NYC | USA | Remote",
+   "location": "New York, NY (HQ) | USA | Remote",
    "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
    "posted": "2026-09-15",
    "found": "2026-09-30",
@@ -5999,7 +6008,7 @@
   {
    "title": "Software Engineering Intern, Backend",
    "company": "Ramp",
-   "location": "NYC | USA",
+   "location": "New York, NY (HQ) | USA",
    "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
    "posted": "2026-04-09",
    "found": "2026-09-24",
