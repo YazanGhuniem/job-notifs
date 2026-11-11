@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11 11:15 UTC",
- "count": 704,
+ "updated": "2026-11-11 18:47 UTC",
+ "count": 703,
  "jobs": [
   {
    "title": "Platform Campaign Project Intern",
@@ -25,6 +25,15 @@
    "company": "Tesla",
    "location": "Fremont, CA",
    "url": "https://www.tesla.com/careers/search/job/289683",
+   "posted": "2026-11-11",
+   "found": "2026-11-11",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer, Intern (Summer 2027)",
+   "company": "Brex",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
    "posted": "2026-11-11",
    "found": "2026-11-11",
    "phd": false
@@ -469,15 +478,6 @@
    "posted": "2026-11-05",
    "found": "2026-11-05",
    "phd": true
-  },
-  {
-   "title": "Software Development Engineer Intern - Summer 2027",
-   "company": "Amazon",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
-   "posted": "2026-11-05",
-   "found": "2026-11-09",
-   "phd": false
   },
   {
    "title": "Software Engineer, Intern - Connectivity Platform and Product",
@@ -2595,15 +2595,6 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern",
-   "company": "Waymo",
-   "location": "Mountain View, CA, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
-   "posted": "2026-10-01",
-   "found": "2026-10-01",
-   "phd": true
-  },
-  {
    "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
@@ -3261,6 +3252,15 @@
    "phd": false
   },
   {
+   "title": "Software Engineer Intern - Backend Focused",
+   "company": "Rippling",
+   "location": "Seattle, WA | SF | NYC",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "posted": "2026-09-22",
+   "found": "2026-09-23",
+   "phd": false
+  },
+  {
    "title": "Machine Learning Software Engineer Intern - Summer 2027",
    "company": "Rippling",
    "location": "SF",
@@ -3418,15 +3418,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/284003",
-   "posted": "2026-09-18",
-   "found": "2026-09-18",
-   "phd": false
-  },
-  {
-   "title": "Internship - Software Engineering - People Products - Summer 2027",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/284004",
    "posted": "2026-09-18",
    "found": "2026-09-18",
    "phd": false
