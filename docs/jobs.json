@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11 18:47 UTC",
- "count": 703,
+ "updated": "2026-11-12 01:06 UTC",
+ "count": 705,
  "jobs": [
   {
    "title": "Platform Campaign Project Intern",
@@ -27,6 +27,24 @@
    "url": "https://www.tesla.com/careers/search/job/289683",
    "posted": "2026-11-11",
    "found": "2026-11-11",
+   "phd": false
+  },
+  {
+   "title": "AI Security Research Intern",
+   "company": "Microsoft",
+   "location": "Cambridge, UK",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070382",
+   "posted": "2026-11-11",
+   "found": "2026-11-12",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - LLM Memory and Skills",
+   "company": "Meta",
+   "location": "Seattle, WA | NYC | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/1676116714093186",
+   "posted": "2026-11-11",
+   "found": "2026-11-12",
    "phd": false
   },
   {
@@ -3027,7 +3045,7 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
+   "title": "2027 Summer Intern, PhD, Research Scientist, Foundation Models",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
@@ -3972,15 +3990,6 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
-   "company": "Waymo",
-   "location": "San Francisco, California, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
-   "posted": "2026-09-03",
-   "found": "2026-09-03",
-   "phd": false
-  },
-  {
    "title": "Embedded Software Engineer Intern - High Voltage Systems",
    "company": "Tesla",
    "location": "Palo Alto, CA",
@@ -4078,6 +4087,15 @@
    "posted": "2026-09-03",
    "found": "2026-10-16",
    "phd": false
+  },
+  {
+   "title": "Applied Science Intern - PhD",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
+   "posted": "2026-09-03",
+   "found": "2026-09-03",
+   "phd": true
   },
   {
    "title": "Software Engineer Intern",
@@ -4179,7 +4197,7 @@
    "phd": false
   },
   {
-   "title": "Software Engineer, Intern (Summer or Winter)",
+   "title": "Software Engineer, Intern (Summer)",
    "company": "Stripe",
    "location": "San Francisco, Seattle, New York City",
    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
