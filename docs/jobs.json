@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12 22:30 UTC",
+ "updated": "2026-11-13 02:48 UTC",
  "count": 703,
  "jobs": [
   {
@@ -2343,6 +2343,15 @@
    "phd": true
   },
   {
+   "title": "Applied Scientist Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
+   "posted": "2026-10-07",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
    "title": "Data Scientist Intern - Product Analytics",
    "company": "Meta",
    "location": "Menlo Park, CA",
@@ -2599,15 +2608,6 @@
    "company": "Affirm",
    "location": "San Francisco, California, United States",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
-   "posted": "2026-10-02",
-   "found": "2026-10-02",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
-   "company": "Affirm",
-   "location": "San Francisco, California, United States",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
    "posted": "2026-10-02",
    "found": "2026-10-02",
    "phd": false
@@ -3313,6 +3313,15 @@
    "posted": "2026-09-22",
    "found": "2026-09-22",
    "phd": true
+  },
+  {
+   "title": "Security Engineer Internship \u2013 2027 (US)",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
+   "posted": "2026-09-22",
+   "found": "2026-09-23",
+   "phd": false
   },
   {
    "title": "2027 Quantum Science Internship - PhD, Quantum Technologies team",
@@ -4689,15 +4698,6 @@
    "url": "https://www.tesla.com/careers/search/job/279763",
    "posted": "2026-08-10",
    "found": "2026-08-10",
-   "phd": false
-  },
-  {
-   "title": "Fullstack Software Engineer Intern - Global E-Commerce",
-   "company": "TikTok",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7670700387322300677",
-   "posted": "2026-08-07",
-   "found": "2026-08-07",
    "phd": false
   },
   {
