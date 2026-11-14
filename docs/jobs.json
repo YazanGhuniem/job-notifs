@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 22:57 UTC",
- "count": 637,
+ "updated": "2026-11-14 02:48 UTC",
+ "count": 640,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern",
@@ -36,6 +36,33 @@
    "url": "https://www.tesla.com/careers/search/job/289796",
    "posted": "2026-11-13",
    "found": "2026-11-13",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Microsoft Research Software-Hardware Co-design",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+   "posted": "2026-11-13",
+   "found": "2026-11-14",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - AI Coding Agents",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
+   "posted": "2026-11-13",
+   "found": "2026-11-14",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Diffractive Optics",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1158829233342350",
+   "posted": "2026-11-13",
+   "found": "2026-11-14",
    "phd": false
   },
   {
