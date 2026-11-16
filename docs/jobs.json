@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 11:48 UTC",
- "count": 639,
+ "updated": "2026-11-16 21:18 UTC",
+ "count": 637,
  "jobs": [
   {
    "title": "Machine Learning Engineer Intern",
@@ -3081,15 +3081,6 @@
    "phd": true
   },
   {
-   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
-   "company": "Waymo",
-   "location": "Mountain View, California, USA",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
-   "posted": "2026-09-18",
-   "found": "2026-09-18",
-   "phd": true
-  },
-  {
    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
    "company": "TikTok",
    "location": "San Jose, CA",
@@ -3407,8 +3398,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3416,8 +3407,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3465,15 +3456,6 @@
    "url": "https://www.tesla.com/careers/search/job/282916",
    "posted": "2026-09-09",
    "found": "2026-09-10",
-   "phd": false
-  },
-  {
-   "title": "Software Engineering Intern (Summer)",
-   "company": "Datadog",
-   "location": "Boston, Massachusetts, USA; New York, New York, USA",
-   "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
-   "posted": "2026-09-08",
-   "found": "2026-09-08",
    "phd": false
   },
   {
