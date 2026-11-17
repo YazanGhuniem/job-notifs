@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-16 21:18 UTC",
- "count": 637,
+ "updated": "2026-11-17 04:01 UTC",
+ "count": 642,
  "jobs": [
+  {
+   "title": "Client Security & Data Foundation Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7708750900450134325",
+   "posted": "2026-11-16",
+   "found": "2026-11-17",
+   "phd": false
+  },
+  {
+   "title": "Forward Deployed Solution Engineer Intern",
+   "company": "ServiceNow",
+   "location": "Santa Clara, CA | NYC",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936020",
+   "posted": "2026-11-16",
+   "found": "2026-11-17",
+   "phd": false
+  },
+  {
+   "title": "Associate Forward Deployed Solution Engineer Intern",
+   "company": "ServiceNow",
+   "location": "Santa Clara, CA | NYC",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
+   "posted": "2026-11-16",
+   "found": "2026-11-17",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Intelligent Camera Systems",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/971210335715482",
+   "posted": "2026-11-16",
+   "found": "2026-11-17",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Perception - Displays and Graphics",
+   "company": "Meta",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1500136678656794",
+   "posted": "2026-11-16",
+   "found": "2026-11-17",
+   "phd": false
+  },
+  {
+   "title": "Visiting Researcher Intern - AI Mentorship Program",
+   "company": "Meta",
+   "location": "Seattle, WA | SF | Menlo Park, CA | NYC | Bellevue, WA",
+   "url": "https://www.metacareers.com/jobs/4529244430625751",
+   "posted": "2026-11-16",
+   "found": "2026-11-17",
+   "phd": false
+  },
+  {
+   "title": "Systems & Infrastructure Engineer Intern",
+   "company": "LinkedIn",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000161930950",
+   "posted": "2026-11-16",
+   "found": "2026-11-17",
+   "phd": false
+  },
+  {
+   "title": "2027 Mission Operations Engineer Intern",
+   "company": "Anduril",
+   "location": "Honolulu, Hawaii, United States; Washington, District of Columbia, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
+   "posted": "2026-11-16",
+   "found": "2026-11-17",
+   "phd": false
+  },
   {
    "title": "Machine Learning Engineer Intern",
    "company": "TikTok",
@@ -153,6 +225,15 @@
    "url": "https://www.metacareers.com/jobs/1676116714093186",
    "posted": "2026-11-11",
    "found": "2026-11-12",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer, Intern (Summer 2027)",
+   "company": "Brex",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+   "posted": "2026-11-11",
+   "found": "2026-11-11",
    "phd": false
   },
   {
@@ -2100,15 +2181,6 @@
    "phd": false
   },
   {
-   "title": "Software Integration Engineer Intern - Service Tooling",
-   "company": "Tesla",
-   "location": "Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/286127",
-   "posted": "2026-10-08",
-   "found": "2026-10-09",
-   "phd": false
-  },
-  {
    "title": "[2027] Applied Scientist - PhD Intern",
    "company": "Roblox",
    "location": "San Mateo, CA, United States",
@@ -2215,15 +2287,6 @@
    "posted": "2026-10-07",
    "found": "2026-10-07",
    "phd": false
-  },
-  {
-   "title": "2027 Summer Intern, MS, PhD, Software Engineer",
-   "company": "Waymo",
-   "location": "Mountain View, California, United States",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
-   "posted": "2026-10-06",
-   "found": "2026-10-06",
-   "phd": true
   },
   {
    "title": "Software Engineer Intern - Systems and Infrastructure - PhD",
@@ -3135,15 +3198,6 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, MS/PhD, Quantitative Software Engineer",
-   "company": "Waymo",
-   "location": "Mountain View, California, United States | San Francisco, California, United States",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-   "posted": "2026-09-16",
-   "found": "2026-09-16",
-   "phd": true
-  },
-  {
    "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
    "company": "Waymo",
    "location": "Mountain View, California, United States",
@@ -3679,15 +3733,6 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
-   "posted": "2026-09-01",
-   "found": "2026-09-01",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern",
-   "company": "Atlassian",
-   "location": "Seattle, WA | SF",
-   "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
    "posted": "2026-09-01",
    "found": "2026-09-01",
    "phd": false
