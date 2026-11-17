@@ -1,12 +1,21 @@
 {
- "updated": "2026-11-17 13:40 UTC",
- "count": 641,
+ "updated": "2026-11-17 21:56 UTC",
+ "count": 638,
  "jobs": [
   {
    "title": "Research Scientist Intern - Privacy Innovation Lab",
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7703923326767483141",
+   "posted": "2026-11-17",
+   "found": "2026-11-17",
+   "phd": false
+  },
+  {
+   "title": "2027 Machine Learning Engineer Intern",
+   "company": "Anduril",
+   "location": "Santa Ana, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
    "posted": "2026-11-17",
    "found": "2026-11-17",
    "phd": false
@@ -1020,15 +1029,6 @@
    "phd": false
   },
   {
-   "title": "Database Engineer Intern - Summer 2027",
-   "company": "Amazon",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027",
-   "posted": "2026-10-27",
-   "found": "2026-10-27",
-   "phd": false
-  },
-  {
    "title": "Research Intern - Embedded AI on Wearables - PhD",
    "company": "Meta",
    "location": "Redmond, WA",
@@ -1609,15 +1609,6 @@
    "company": "Tesla",
    "location": "Austin, TX",
    "url": "https://www.tesla.com/careers/search/job/287024",
-   "posted": "2026-10-18",
-   "found": "2026-10-18",
-   "phd": false
-  },
-  {
-   "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
-   "company": "Tesla",
-   "location": "Fremont, CA",
-   "url": "https://www.tesla.com/careers/search/job/286986",
    "posted": "2026-10-18",
    "found": "2026-10-18",
    "phd": false
@@ -2737,15 +2728,6 @@
    "posted": "2026-09-29",
    "found": "2026-09-29",
    "phd": true
-  },
-  {
-   "title": "Software Engineer Intern - Data Transformations",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/284925",
-   "posted": "2026-09-29",
-   "found": "2026-09-29",
-   "phd": false
   },
   {
    "title": "Software Integration Engineer Intern - AI Platforms",
@@ -5362,15 +5344,6 @@
    "company": "Oracle",
    "location": "Seattle, WA | Santa Clara, CA",
    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
-   "posted": "2026-05-21",
-   "found": "2026-07-28",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Ovip",
-   "company": "Oracle",
-   "location": "Nashville, TN | Austin, TX | United States",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333",
    "posted": "2026-05-21",
    "found": "2026-07-28",
    "phd": false
