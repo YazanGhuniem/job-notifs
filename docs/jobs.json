@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-17 04:01 UTC",
- "count": 642,
+ "updated": "2026-11-17 13:40 UTC",
+ "count": 641,
  "jobs": [
+  {
+   "title": "Research Scientist Intern - Privacy Innovation Lab",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7703923326767483141",
+   "posted": "2026-11-17",
+   "found": "2026-11-17",
+   "phd": false
+  },
   {
    "title": "Client Security & Data Foundation Machine Learning Engineer Intern",
    "company": "TikTok",
@@ -718,15 +727,6 @@
    "company": "Meta",
    "location": "Redmond, WA",
    "url": "https://www.metacareers.com/jobs/1872420890835857",
-   "posted": "2026-11-02",
-   "found": "2026-11-03",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - Interactive Physics Simulation for Robotics",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1143164681833409",
    "posted": "2026-11-02",
    "found": "2026-11-03",
    "phd": false
@@ -4572,15 +4572,6 @@
    "url": "https://lifeattiktok.com/search/7668881813744191749",
    "posted": "2026-08-04",
    "found": "2026-09-03",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Security & Identity Intern",
-   "company": "Microsoft",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-   "posted": "2026-08-04",
-   "found": "2026-08-04",
    "phd": false
   },
   {
