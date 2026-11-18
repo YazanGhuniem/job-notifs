@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18 03:12 UTC",
+ "updated": "2026-11-18 11:58 UTC",
  "count": 639,
  "jobs": [
   {
@@ -7,6 +7,15 @@
    "company": "Microsoft",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+   "posted": "2026-11-18",
+   "found": "2026-11-18",
+   "phd": false
+  },
+  {
+   "title": "Software Engineering Intern (BS/MS)",
+   "company": "Airbnb",
+   "location": "San Francisco, California",
+   "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
    "posted": "2026-11-18",
    "found": "2026-11-18",
    "phd": false
@@ -3249,15 +3258,6 @@
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
    "posted": "2026-09-15",
    "found": "2026-09-15",
-   "phd": false
-  },
-  {
-   "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-   "company": "Waymo",
-   "location": "Mountain View, California, United States; San Francisco, California, United States",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-   "posted": "2026-09-14",
-   "found": "2026-09-14",
    "phd": false
   },
   {
