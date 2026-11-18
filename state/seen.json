@@ -5,8 +5,9 @@
   "fifththird"
  ],
  "failures": {
-  "fifththird": 7,
-  "nvidia": 7,
+  "anduril": 1,
+  "fifththird": 8,
+  "nvidia": 8,
   "uber": 18
  },
  "seen": {
@@ -1110,5 +1111,5 @@
   "ff5e2bf042879969": "2026-09-14T18:45:09+00:00",
   "ffbec46b18c6eb00": "2026-09-15T05:31:14+00:00"
  },
- "updated_at": "2026-11-18T11:58:08+00:00"
+ "updated_at": "2026-11-18T19:52:36+00:00"
 }
