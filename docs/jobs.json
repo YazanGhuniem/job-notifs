@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-19 09:33 UTC",
- "count": 641,
+ "updated": "2026-11-19 18:42 UTC",
+ "count": 639,
  "jobs": [
+  {
+   "title": "2027 - AI and People Transformation Intern, NYC",
+   "company": "MongoDB",
+   "location": "New York City",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8346138",
+   "posted": "2026-11-19",
+   "found": "2026-11-19",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Machine Learning for Biology and Healthcare",
+   "company": "Microsoft",
+   "location": "Cambridge, UK",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
+   "posted": "2026-11-19",
+   "found": "2026-11-19",
+   "phd": false
+  },
   {
    "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
    "company": "Meta",
@@ -721,15 +739,6 @@
    "posted": "2026-11-04",
    "found": "2026-11-04",
    "phd": true
-  },
-  {
-   "title": "Machine Learning Engineer Intern",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7703899923206867205",
-   "posted": "2026-11-03",
-   "found": "2026-11-03",
-   "phd": false
   },
   {
    "title": "Software Engineer Intern",
@@ -2487,15 +2496,6 @@
    "phd": false
   },
   {
-   "title": "Finance Transformation & Analytics Intern",
-   "company": "Intuit",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
-   "posted": "2026-10-02",
-   "found": "2026-10-02",
-   "phd": false
-  },
-  {
    "title": "2027 Industrial Engineer Intern",
    "company": "Anduril",
    "location": "Ashville, Ohio, United States; Costa Mesa, California, United States",
@@ -3225,15 +3225,6 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-   "company": "Waymo",
-   "location": "Mountain View, California, United States",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
-   "posted": "2026-09-16",
-   "found": "2026-09-16",
-   "phd": true
-  },
-  {
    "title": "Factory Firmware Integration Intern - Energy Engineering",
    "company": "Tesla",
    "location": "Buffalo, NY",
@@ -3479,8 +3470,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3488,8 +3479,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -5374,15 +5365,6 @@
    "posted": "2026-05-22",
    "found": "2026-07-28",
    "phd": true
-  },
-  {
-   "title": "Data Strategy Intern",
-   "company": "Oracle",
-   "location": "Seattle, WA | Santa Monica, CA | San Carlos, CA | Santa Clara, CA | Rocklin, CA",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334396",
-   "posted": "2026-05-21",
-   "found": "2026-09-04",
-   "phd": false
   },
   {
    "title": "Machine Learning Intern/Co-op (Winter 2027)",
