@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-19 01:32 UTC",
- "count": 640,
+ "updated": "2026-11-19 09:33 UTC",
+ "count": 641,
  "jobs": [
+  {
+   "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/994911809842621",
+   "posted": "2026-11-19",
+   "found": "2026-11-19",
+   "phd": false
+  },
   {
    "title": "Research Intern - Firmware Security",
    "company": "Microsoft",
@@ -984,15 +993,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - First Play",
-   "company": "LinkedIn",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370",
-   "posted": "2026-10-28",
-   "found": "2026-10-29",
-   "phd": false
-  },
-  {
    "title": "PhD Intern, Security Engineer (2027)",
    "company": "Figma",
    "location": "San Francisco, CA \u2022 New York, NY",
@@ -1908,6 +1908,15 @@
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889",
    "posted": "2026-10-13",
    "found": "2026-10-14",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - Summer 2027",
+   "company": "Netflix",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
+   "posted": "2026-10-13",
+   "found": "2026-10-19",
    "phd": false
   },
   {
@@ -3470,8 +3479,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3479,8 +3488,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -5043,15 +5052,6 @@
    "phd": false
   },
   {
-   "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
-   "company": "TikTok",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7667690418804902149",
-   "posted": "2026-07-29",
-   "found": "2026-07-29",
-   "phd": false
-  },
-  {
    "title": "Student Researcher, PhD, Fall 2026",
    "company": "Google",
    "location": "Mountain View, CA, USA | Ann Arbor, MI, USA",
@@ -5436,6 +5436,15 @@
    "url": "https://lifeattiktok.com/search/7633670871815670069",
    "posted": "2026-04-29",
    "found": "2026-09-03",
+   "phd": false
+  },
+  {
+   "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
+   "company": "Netflix",
+   "location": "Los Gatos,California,United States of America",
+   "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+   "posted": "2026-04-24",
+   "found": "2026-07-28",
    "phd": false
   },
   {
