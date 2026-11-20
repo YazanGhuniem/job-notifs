@@ -1,7 +1,43 @@
 {
- "updated": "2026-11-19 18:42 UTC",
- "count": 639,
+ "updated": "2026-11-20 00:57 UTC",
+ "count": 651,
  "jobs": [
+  {
+   "title": "2027 Summer Intern, PhD, Agentic AI",
+   "company": "Waymo",
+   "location": "Mountain View, California, United States",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
+   "posted": "2026-11-19",
+   "found": "2026-11-20",
+   "phd": true
+  },
+  {
+   "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+   "company": "Snowflake",
+   "location": "US-CA-Menlo Park | US-WA-Bellevue | United States",
+   "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
+   "posted": "2026-11-19",
+   "found": "2026-11-20",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
+   "company": "Snowflake",
+   "location": "US-CA-Menlo Park | US-WA-Bellevue | United States",
+   "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
+   "posted": "2026-11-19",
+   "found": "2026-11-20",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
+   "company": "Snowflake",
+   "location": "US-CA-Menlo Park | US-WA-Bellevue | United States",
+   "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
+   "posted": "2026-11-19",
+   "found": "2026-11-20",
+   "phd": false
+  },
   {
    "title": "2027 - AI and People Transformation Intern, NYC",
    "company": "MongoDB",
@@ -21,6 +57,33 @@
    "phd": false
   },
   {
+   "title": "Research Intern - Multiple Teams",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076142",
+   "posted": "2026-11-19",
+   "found": "2026-11-20",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Deep Learning Group",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
+   "posted": "2026-11-19",
+   "found": "2026-11-20",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076159",
+   "posted": "2026-11-19",
+   "found": "2026-11-20",
+   "phd": false
+  },
+  {
    "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
    "company": "Meta",
    "location": "Redmond, WA",
@@ -28,6 +91,24 @@
    "posted": "2026-11-19",
    "found": "2026-11-19",
    "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - AI Agents for Autonomous Laboratories",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/29481973694788756",
+   "posted": "2026-11-19",
+   "found": "2026-11-20",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Machine Learning for Robotics - PhD",
+   "company": "Meta",
+   "location": "Burlingame, CA",
+   "url": "https://www.metacareers.com/jobs/1766347491109788",
+   "posted": "2026-11-19",
+   "found": "2026-11-20",
+   "phd": true
   },
   {
    "title": "Research Intern - Firmware Security",
@@ -739,6 +820,15 @@
    "posted": "2026-11-04",
    "found": "2026-11-04",
    "phd": true
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7703899923206867205",
+   "posted": "2026-11-03",
+   "found": "2026-11-03",
+   "phd": false
   },
   {
    "title": "Software Engineer Intern",
@@ -1488,10 +1578,28 @@
    "phd": false
   },
   {
+   "title": "Data Science \u2013 Forward Deployed Engineer: PhD Intern",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
+   "posted": "2026-10-20",
+   "found": "2026-10-20",
+   "phd": true
+  },
+  {
    "title": "Research Scientist Intern - Artificial Intelligence-Driven Neural Interfaces",
    "company": "Meta",
    "location": "Burlingame, CA | Menlo Park, CA | NYC",
    "url": "https://www.metacareers.com/jobs/1436615821934863",
+   "posted": "2026-10-20",
+   "found": "2026-10-21",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Multimodal Behavioral AI",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1428978125312655",
    "posted": "2026-10-20",
    "found": "2026-10-21",
    "phd": false
