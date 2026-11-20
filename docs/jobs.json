@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 16:27 UTC",
- "count": 654,
+ "updated": "2026-11-20 22:44 UTC",
+ "count": 651,
  "jobs": [
   {
    "title": "AI/ML Engineer Intern - Generative AI",
@@ -790,15 +790,6 @@
    "company": "Meta",
    "location": "Cambridge, MA | Burlingame, CA | Redmond, WA | Sunnyvale, CA",
    "url": "https://www.metacareers.com/jobs/2572072169967580",
-   "posted": "2026-11-05",
-   "found": "2026-11-05",
-   "phd": false
-  },
-  {
-   "title": "Research Scientist Intern - Humanoid Control & Dexterous Manipulation",
-   "company": "Meta",
-   "location": "Redmond, WA",
-   "url": "https://www.metacareers.com/jobs/1832390484751700",
    "posted": "2026-11-05",
    "found": "2026-11-05",
    "phd": false
@@ -2937,15 +2928,6 @@
    "phd": false
   },
   {
-   "title": "2027 Summer Intern, MS/PhD, Perception Systems Engineering: Pedestrian Detection Precision",
-   "company": "Waymo",
-   "location": "San Francisco, California",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
-   "posted": "2026-09-28",
-   "found": "2026-09-28",
-   "phd": true
-  },
-  {
    "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
@@ -3103,15 +3085,6 @@
    "company": "Waymo",
    "location": "Mountain View, California",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
-   "posted": "2026-09-23",
-   "found": "2026-09-23",
-   "phd": true
-  },
-  {
-   "title": "2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
-   "company": "Waymo",
-   "location": "Mountain View, California",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
    "posted": "2026-09-23",
    "found": "2026-09-23",
    "phd": true
