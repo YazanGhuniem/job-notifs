@@ -1,7 +1,52 @@
 {
- "updated": "2026-11-20 22:44 UTC",
- "count": 651,
+ "updated": "2026-11-21 03:35 UTC",
+ "count": 656,
  "jobs": [
+  {
+   "title": "Research Intern - AI System Architecture Modeling and Performance",
+   "company": "Microsoft",
+   "location": "Hillsboro, OR",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
+   "posted": "2026-11-21",
+   "found": "2026-11-21",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - SI Hardware Architecture Simulation",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/290756",
+   "posted": "2026-11-20",
+   "found": "2026-11-21",
+   "phd": false
+  },
+  {
+   "title": "Security Software Engineer Intern",
+   "company": "ServiceNow",
+   "location": "Kirkland, WA",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162827365",
+   "posted": "2026-11-20",
+   "found": "2026-11-21",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - Quantum Applications",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076525",
+   "posted": "2026-11-20",
+   "found": "2026-11-21",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+   "company": "Microsoft",
+   "location": "Redmond, WA | Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076215",
+   "posted": "2026-11-20",
+   "found": "2026-11-21",
+   "phd": false
+  },
   {
    "title": "AI/ML Engineer Intern - Generative AI",
    "company": "LinkedIn",
@@ -27,6 +72,15 @@
    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623368",
    "posted": "2026-11-20",
    "found": "2026-11-20",
+   "phd": false
+  },
+  {
+   "title": "Software Engineer Intern - App Intelligence Experience",
+   "company": "Apple",
+   "location": "Cambridge, UK",
+   "url": "https://jobs.apple.com/en-us/details/200696199",
+   "posted": "2026-11-20",
+   "found": "2026-11-21",
    "phd": false
   },
   {
@@ -2487,15 +2541,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Machine Learning",
-   "company": "Meta",
-   "location": "Seattle, WA | Burlingame, CA | Redmond, WA | Menlo Park, CA | NYC | Bellevue, WA | Sunnyvale, CA",
-   "url": "https://www.metacareers.com/jobs/2180490782513668",
-   "posted": "2026-10-06",
-   "found": "2026-10-06",
-   "phd": false
-  },
-  {
    "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
    "company": "Lyft",
    "location": "San Francisco, CA",
@@ -3569,8 +3614,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3578,8 +3623,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
