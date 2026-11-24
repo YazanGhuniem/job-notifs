@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 12:41 UTC",
+ "updated": "2026-11-24 22:48 UTC",
  "count": 645,
  "jobs": [
   {
@@ -99,6 +99,15 @@
    "url": "https://jobs.apple.com/en-us/details/200696199",
    "posted": "2026-11-20",
    "found": "2026-11-21",
+   "phd": false
+  },
+  {
+   "title": "Front-End Engineer Internship \u2013 2027 (US)",
+   "company": "Amazon",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
+   "posted": "2026-11-20",
+   "found": "2026-11-24",
    "phd": false
   },
   {
@@ -3202,15 +3211,6 @@
    "company": "Rippling",
    "location": "SF",
    "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
-   "posted": "2026-09-22",
-   "found": "2026-09-23",
-   "phd": false
-  },
-  {
-   "title": "Full Stack Software Engineer Intern",
-   "company": "Rippling",
-   "location": "Seattle, WA | SF | NYC",
-   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
    "posted": "2026-09-22",
    "found": "2026-09-23",
    "phd": false
