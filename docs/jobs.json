@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23 15:01 UTC",
- "count": 646,
+ "updated": "2026-11-24 02:24 UTC",
+ "count": 644,
  "jobs": [
   {
    "title": "Client Security & Data Foundation Software Engineer Intern - BRIC",
@@ -9,6 +9,15 @@
    "url": "https://lifeattiktok.com/search/7705023349533346101",
    "posted": "2026-11-23",
    "found": "2026-11-23",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Spatial-temporal Consistent 4D Generation",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/2357948038329505",
+   "posted": "2026-11-23",
+   "found": "2026-11-24",
    "phd": false
   },
   {
@@ -100,33 +109,6 @@
    "posted": "2026-11-19",
    "found": "2026-11-20",
    "phd": true
-  },
-  {
-   "title": "Software Engineer Intern (AI / ML) - Summer 2027",
-   "company": "Snowflake",
-   "location": "US-CA-Menlo Park | US-WA-Bellevue | United States",
-   "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
-   "posted": "2026-11-19",
-   "found": "2026-11-20",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
-   "company": "Snowflake",
-   "location": "US-CA-Menlo Park | US-WA-Bellevue | United States",
-   "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
-   "posted": "2026-11-19",
-   "found": "2026-11-20",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
-   "company": "Snowflake",
-   "location": "US-CA-Menlo Park | US-WA-Bellevue | United States",
-   "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
-   "posted": "2026-11-19",
-   "found": "2026-11-20",
-   "phd": false
   },
   {
    "title": "2027 - AI and People Transformation Intern, NYC",
@@ -279,6 +261,15 @@
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
    "posted": "2026-11-17",
    "found": "2026-11-17",
+   "phd": false
+  },
+  {
+   "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+   "company": "Amazon",
+   "location": "Sunnyvale, California, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+   "posted": "2026-11-17",
+   "found": "2026-11-24",
    "phd": false
   },
   {
@@ -2505,6 +2496,15 @@
    "phd": false
   },
   {
+   "title": "Software Engineer Intern - Machine Learning",
+   "company": "Meta",
+   "location": "Seattle, WA | Burlingame, CA | Redmond, WA | Menlo Park, CA | NYC | Bellevue, WA | Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/2180490782513668",
+   "posted": "2026-10-06",
+   "found": "2026-10-06",
+   "phd": false
+  },
+  {
    "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
    "company": "Lyft",
    "location": "San Francisco, CA",
@@ -3819,15 +3819,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Core AI Compiler & Runtime",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/281951",
-   "posted": "2026-09-01",
-   "found": "2026-09-01",
-   "phd": false
-  },
-  {
    "title": "Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering",
    "company": "Tesla",
    "location": "Fremont, CA",
@@ -4410,15 +4401,6 @@
    "url": "https://lifeattiktok.com/search/7670120579999385861",
    "posted": "2026-08-05",
    "found": "2026-09-04",
-   "phd": false
-  },
-  {
-   "title": "[Summer 2027] Software Engineer Intern",
-   "company": "Roblox",
-   "location": "San Mateo, CA, United States",
-   "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-   "posted": "2026-08-05",
-   "found": "2026-08-05",
    "phd": false
   },
   {
