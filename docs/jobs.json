@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-25 15:49 UTC",
- "count": 647,
+ "updated": "2026-11-25 23:50 UTC",
+ "count": 646,
  "jobs": [
+  {
+   "title": "Robotics Audio DSP Engineer Intern",
+   "company": "Tesla",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/291227",
+   "posted": "2026-11-25",
+   "found": "2026-11-25",
+   "phd": false
+  },
   {
    "title": "Research Intern - Memory Pathfinding",
    "company": "Microsoft",
@@ -25,6 +34,15 @@
    "company": "Microsoft",
    "location": "Mountain View, CA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557079445",
+   "posted": "2026-11-25",
+   "found": "2026-11-25",
+   "phd": false
+  },
+  {
+   "title": "Security Engineer Intern",
+   "company": "Coinbase",
+   "location": "Hybrid - New York, NY",
+   "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
    "posted": "2026-11-25",
    "found": "2026-11-25",
    "phd": false
@@ -2082,15 +2100,6 @@
    "phd": false
   },
   {
-   "title": "Winter 2027 Research Engineer Co-op",
-   "company": "Anduril",
-   "location": "Santa Ana, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
-   "posted": "2026-10-14",
-   "found": "2026-10-15",
-   "phd": false
-  },
-  {
    "title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
    "company": "Waymo",
    "location": "Mountain View, CA, USA",
@@ -2973,15 +2982,6 @@
    "phd": true
   },
   {
-   "title": "Software Integration Engineer Intern - AI Platforms",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/277009",
-   "posted": "2026-09-29",
-   "found": "2026-09-29",
-   "phd": false
-  },
-  {
    "title": "AI Hardware RTL Design Engineer Intern - AI Hardware",
    "company": "Tesla",
    "location": "Palo Alto, CA | Austin, TX",
@@ -3742,15 +3742,6 @@
    "company": "Tesla",
    "location": "Palo Alto, CA",
    "url": "https://www.tesla.com/careers/search/job/282241",
-   "posted": "2026-09-03",
-   "found": "2026-09-03",
-   "phd": false
-  },
-  {
-   "title": "Software Engineer Intern - Vehicle UI Development",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/282242",
    "posted": "2026-09-03",
    "found": "2026-09-03",
    "phd": false
