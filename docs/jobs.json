@@ -1,7 +1,52 @@
 {
- "updated": "2026-11-24 22:48 UTC",
- "count": 645,
+ "updated": "2026-11-25 05:05 UTC",
+ "count": 648,
  "jobs": [
+  {
+   "title": "Research Intern - Memory Pathfinding",
+   "company": "Microsoft",
+   "location": "Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079448",
+   "posted": "2026-11-25",
+   "found": "2026-11-25",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - AI Systems Architecture - Efficient LLM Inference",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
+   "posted": "2026-11-25",
+   "found": "2026-11-25",
+   "phd": false
+  },
+  {
+   "title": "Research Intern - CXL Memory",
+   "company": "Microsoft",
+   "location": "Mountain View, CA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079445",
+   "posted": "2026-11-25",
+   "found": "2026-11-25",
+   "phd": false
+  },
+  {
+   "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
+   "company": "Meta",
+   "location": "Redmond, WA",
+   "url": "https://www.metacareers.com/jobs/1482835147112669",
+   "posted": "2026-11-24",
+   "found": "2026-11-25",
+   "phd": false
+  },
+  {
+   "title": "Battery Engineer Intern - Battery Systems Engineering",
+   "company": "Meta",
+   "location": "Sunnyvale, CA",
+   "url": "https://www.metacareers.com/jobs/1165674205921515",
+   "posted": "2026-11-24",
+   "found": "2026-11-25",
+   "phd": false
+  },
   {
    "title": "Client Security & Data Foundation Software Engineer Intern - BRIC",
    "company": "TikTok",
@@ -3189,15 +3234,6 @@
    "phd": false
   },
   {
-   "title": "Software Engineer Intern - Backend Focused",
-   "company": "Rippling",
-   "location": "Seattle, WA | SF | NYC",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-   "posted": "2026-09-22",
-   "found": "2026-09-23",
-   "phd": false
-  },
-  {
    "title": "Machine Learning Software Engineer Intern - Summer 2027",
    "company": "Rippling",
    "location": "SF",
@@ -5329,15 +5365,6 @@
    "posted": "2026-06-09",
    "found": "2026-07-28",
    "phd": true
-  },
-  {
-   "title": "Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus",
-   "company": "Tesla",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/253454",
-   "posted": "2026-06-07",
-   "found": "2026-07-28",
-   "phd": false
   },
   {
    "title": "Machine Learning Software Engineer Intern",
