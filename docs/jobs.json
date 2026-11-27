@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27 00:07 UTC",
+ "updated": "2026-11-27 08:50 UTC",
  "count": 644,
  "jobs": [
   {
@@ -2280,15 +2280,6 @@
    "phd": false
   },
   {
-   "title": "Deployment Engineering Intern",
-   "company": "Figure AI",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
-   "posted": "2026-10-12",
-   "found": "2026-10-12",
-   "phd": false
-  },
-  {
    "title": "Machine Learning Engineer Intern - Conversational AI",
    "company": "TikTok",
    "location": "Seattle, WA",
@@ -2401,6 +2392,15 @@
    "company": "TikTok",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7694044547207268661",
+   "posted": "2026-10-08",
+   "found": "2026-10-08",
+   "phd": false
+  },
+  {
+   "title": "Machine Learning Engineer Intern",
+   "company": "TikTok",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7694045967754889477",
    "posted": "2026-10-08",
    "found": "2026-10-08",
    "phd": false
