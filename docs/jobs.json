@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-27 18:31 UTC",
- "count": 644,
+ "updated": "2026-11-28 01:41 UTC",
+ "count": 645,
  "jobs": [
+  {
+   "title": "Research Intern - Distributed AI systems for agentic workflows",
+   "company": "Microsoft",
+   "location": "Cambridge, UK",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557106762",
+   "posted": "2026-11-27",
+   "found": "2026-11-28",
+   "phd": false
+  },
   {
    "title": "Machine Learning Engineer Intern - PhD",
    "company": "TikTok",
@@ -3614,8 +3623,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -3623,8 +3632,8 @@
   {
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
    "company": "Lyft",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "posted": "2026-09-11",
    "found": "2026-09-11",
    "phd": false
@@ -5534,7 +5543,7 @@
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7629187524074342709",
    "posted": "2026-04-17",
-   "found": "2026-07-30",
+   "found": "2026-11-28",
    "phd": false
   },
   {
